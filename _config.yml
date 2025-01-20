@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Huang"
+title                    : "Maizie Zhou"
 title_separator          : "-"
 name                     : &name "Yu Huang"
 description              : &description "personal description"
-url                      : "https://yuhuang-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://maiziezhoulab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuhuang-lab/yuhuang-lab.github.io"
+repository               : "maiziezhoulab/maiziezhoulab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu Huang"
-  avatar           : "yu_profile.jpg"
+  name             : "Maizie Zhou"
+  avatar           : "maizie_profile.jpg"
 
   bio              : "Pronoun: she/her/hers<br><br>Assistant Professor <p><a href='https://engineering.vanderbilt.edu/departments/computer-science/' target='_blank'>Department of Computer Science</a></p> <p><a href='https://www.isis.vanderbilt.edu' target='_blank'>Institute for Software Integrated Systems</a></p> <p><a href='https://www.vanderbilt.edu/autismandinnovation/' target='_blank'>The Frist Center for Autism and Innovation</a></p> <p><a href='https://www.vanderbilt.edu/valiant/' target='_blank'>Vanderbilt Lab for Immersive AI Translation (VALIANT)</a></p> <p><a href='https://lab.vanderbilt.edu/live-lab/' target='_blank'>Vanderbilt LIVE Learning Innovation Incubator</a></p> <p><a href='https://www.vanderbilt.edu/' target='_blank'>Vanderbilt University </a></p>"
-  location         : "Sony 4108"
+  location         : "Stevenson Complex 5919"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=ngLMhbIAAAAJ&hl=en"
-  email            : "yu.huang@vanderbilt.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=6amWCGMAAAAJ&hl=en&oi=ao"
+  email            : "maizie.zhou@vanderbilt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yuhuang_yh"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
