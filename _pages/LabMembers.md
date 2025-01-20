@@ -11,9 +11,9 @@ Principal Investigator
  <tr>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/yifan.png" class="student-profile-pic">
+            <img src="/images/maizie_profile.jpg" class="student-profile-pic">
         </div>
-        <b><a href="https://coderdoge.com" target="_blank">Maizie Zhou</a></b>  <br>
+        <b><a href="https://maiziezhoulab.github.io/" target="_blank">Maizie Zhou</a></b>  <br>
         Assistant Professor, Biomedical Engineering (Primary) and Computer Science 
         Maizie completed her undergraduate study at Huazhong University of Science and Technology (HUST) in China and holds a Ph.D. in Neuroscience from Wake Forest School of Medicine, and a Ph.D. in Computer Science from Stanford University, where she was supported by a fellowship by the US National Institute of Standards and Technology and the Enlight Foundation. Maizie joined Vandy as an Assistant Professor in August 2020. She is the recipient of an outstanding investigator award (R35) from the National Institutes of Health.
     </td>
@@ -27,10 +27,10 @@ Current Students
  <tr>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/yifan.png" class="student-profile-pic">
+            <img src="/images/students/yichen_liu.jpeg" class="student-profile-pic">
         </div>
-        <b><a href="https://coderdoge.com" target="_blank">Yifan Zhang</a></b> (Summer 2022 - Present) <br>
-        Ph.D. Student at Vanderbilt, co-advised with Prof. Leach 
+        <b><a href="https://lyc-vio.github.io/Intro/" target="_blank">Yichen (Henry) Liu</a></b> (Spring 2021 - Present) <br>
+        Ph.D. Student in Computer Science 
     </td>
     <td>
         <div style="text-align: center">
@@ -68,6 +68,15 @@ Current Students
         </div>
         <b>Jieyu Li</b> (Fall 2023 - Present) <br>
         Master Student at Vanderbilt (ECE) 
+    </td>
+ </tr>
+ <tr>
+   <td>
+        <div style="text-align: center">
+            <img src="/images/students/yueke.jpg" class="student-profile-pic">
+        </div>
+        <b><a href="https://zyueek.github.io" target="_blank">Yueke Zhang</a></b> (Fall 2023 - Present) <br>
+        Ph.D. Student at Vanderbilt 
     </td>
  </tr>
 </table>
