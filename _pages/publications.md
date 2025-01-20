@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-{% include base_path %}
+<!-- {% include base_path %}
 I will try adding pdf for all the papers asap :) Alternatively,  you can find almost all
 pdfs from my Google Scholar. If you cannot find any, please feel free to
 email me.
@@ -16,7 +16,7 @@ always support data sharing in our community.
 
 
 Publications
-=====
+===== -->
 Lab members are underlined.
 
 † denotes equal contribution   * denotes co-corresponding authors.
