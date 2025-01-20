@@ -2,7 +2,7 @@
 main:
 
   - title: "Lab Members"
-    url: /students/
+    url: /LabMembers/
 
   - title: "Publications"
     url: /publications/
