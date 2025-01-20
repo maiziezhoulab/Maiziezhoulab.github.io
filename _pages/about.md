@@ -17,6 +17,6 @@ Welcome to the VCBL – Maizie Zhou Lab!
 =====
 We develop algorithms and mathematical models to address biological and neuroscience questions. We investigate multiple dimensions of these questions, spanning computational genomics, bioinformatics, computational neuroscience, and machine learning.
 
-Areas of Research: structural variant detection in personal and cancer genomes, haplotype phasing, reference-assisted assembly, machine learning, single-cell and spatial transcriptomics technologies, and analysis of neural circuits in natural and artificial neural networks.
+**Areas of Research:** structural variant detection in personal and cancer genomes, haplotype phasing, reference-assisted assembly, machine learning, single-cell and spatial transcriptomics technologies, and analysis of neural circuits in natural and artificial neural networks.
 
 
