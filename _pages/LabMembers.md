@@ -30,21 +30,21 @@ Current Students
             <img src="/images/students/yichen_liu.jpeg" class="student-profile-pic">
         </div>
         <b><a href="https://lyc-vio.github.io/Intro/" target="_blank">Yichen (Henry) Liu</a></b> (Spring 2021 - Present) <br>
-        Ph.D. Student in Computer Science 
+        Ph.D. Candidate in Computer Science 
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/zach.PNG" class="student-profile-pic">
+            <img src="/images/students/Canluo.jpeg" class="student-profile-pic">
         </div>
-        <b><a href="https://zachkaras.com" target="_blank">Zach Karas</a></b> (Fall 2022 - Present) <br>
-        Ph.D. Student at Vanderbilt
+        <b>Can Luo</b> (Fall 2021 - Present) <br>
+        Ph.D. Candidate in Biomedical Engineering
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/zihan.png" class="student-profile-pic" >
+            <img src="/images/students/yunfei.jpeg" class="student-profile-pic" >
         </div>
-        <b><a href="https://littlehousezh.github.io" target="_blank">Zihan Fang</a></b> (Fall 2023 - Present) <br>
-        Ph.D. Student at Vanderbilt 
+        <b><a href="https://oliiverhu.github.io/" target="_blank">Yunfei Hu</a></b> (Fall 2021 - Present) <br>
+        Ph.D. Candidate in Computer Science 
     </td>
  </tr>
  <tr>
