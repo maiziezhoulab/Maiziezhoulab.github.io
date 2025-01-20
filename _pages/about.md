@@ -9,15 +9,17 @@ redirect_from:
 ---
 <img src="images/vandy-logo.png" alt="Logo of Vanderbilt" width="200">
 
-<span style="color:red">I am co-organizing the first workshop on
+<img src="images/lab_logo_horizontal.png" alt="Logo of Vanderbilt" width="200">
+
+<!-- <span style="color:red">I am co-organizing the first workshop on
 Human-Centered AI for Software Engineering (HumanAISE, co-located with FSE/ISSTA
 2025). Please join us and share your work with us!</span> 
-Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/). Paper submission deadline: Feb 15, 2025. 
+Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/). Paper submission deadline: Feb 15, 2025.  -->
 
 
 About me
 =====
-My first name "Yu" can be confused as "You" sometimes. So people 
+<!-- My first name "Yu" can be confused as "You" sometimes. So people 
 around me also call me "Huang Yu" together :)
 
 I am an assistant professor of Computer Science at Vanderbilt
@@ -42,7 +44,7 @@ Awards (ICSE 2019, FSE 2023, ICSE 2024).
 I received my PhD in Computer Science at the University of Michigan
 in 2021. My advisor was [Prof. Westley Weimer](http://web.eecs.umich.edu/~weimerw). I received my MS in Computer Engineering at University of Virginia in
 2015 and my BS in Aerospace Engineering from Harbin Institute of
-Technology in China in 2011.
+Technology in China in 2011. -->
 
 
 Research 
@@ -196,170 +198,3 @@ Congratulations to Yifan for his doctoral proposal accepted to
  We received a grant from the GitHub Tech for Social Good and
  GitHub Policy teams to support our research on
  investigating global standard usage metrics! Thank you, GitHub!
-
-<!--
-<li class="list-group-item"><strong>June 2022</strong>: 
- Our paper on using fuzzy logic to mitigate uncertainty and
- ambiguity in facult localization is accepted to GI 2022!
- Congratulations, Yueke!
-</li>
-
-<li class="list-group-item"><strong>Apr 2022</strong>: 
- Congratulations to Anda Liang for receiving
- the VUSRP research scholarship! We will investigate human
- biases on online software engineering platforms!
-</li>
-
-
-<li class="list-group-item"><strong>Nov 2021</strong>: 
- Our paper on using automated program repair techniques to fix
- HDL bugs is accepted to ASPLOS 2022!
-</li>
-
-
-    
-<li class="list-group-item"><strong>June 2021</strong>: I
-successfully defended my PhD dissertation!
-</li>
-
-
-
-    
-<li class="list-group-item"><strong>June 2021</strong>: Our
-paper on investigating code writing using functional
-connectivity analysis is accepted to FSE 2021!
-</li>
-
-
-    
-<li class="list-group-item"><strong>May 2021</strong>: I am
-    co-chairing the Diversity and Inclusion panel of ICSE 2021.
-    Come and join us on May 27, 2021!
-</li>
-
-
-
-<li class="list-group-item"><strong>Mar 2021</strong>: Our paper
-on applying automatated program repair to dataflow programming
-languages is accepted to GI-ICSE
-2021!
-</li>
-
-
-<li class="list-group-item"><strong>Dec 2020</strong>: Our paper
-on open source software for social good is accepted to ICSE
-2021!
-</li>
-
-<li class="list-group-item"><strong>Dec 2020</strong>: Our work
-on OSS for social good is featured in the 
-<a href="https://octoverse.github.com">GitHub Octoverse Report
-    2020</a>!
-</li>
-
-<li class="list-group-item"><strong>Dec 2020</strong>: Presented
-my work on investigating developers' cognition at
-the madPL seminar at the University of Wisconsin-Madison!
-</li>
-
-<li class="list-group-item"><strong>Nov 2020</strong>: Presented
-my work on investigating developers' cognition at
-University of Michigan (PPFP Candidate)!
-</li>
-
-<li class="list-group-item"><strong>Nov 2020</strong>: Presented
-my work on investigating developers' cognition at
-Clemson University!
-</li>
-
-<li class="list-group-item"><strong>Oct 2020</strong>: Presented
-my work on open source software for social good at the MERL
-Center (via GitHub Social Impact Sector)!
-</li>
-
-
-<li class="list-group-item"><strong>Oct 2020</strong>: Selected as one of 
-    <a href="https://eecs.berkeley.edu/rising-stars-2020">the EECS Rising Stars, 2020</a>, hosted by UC Berkeley!
-</li>
-<li class="list-group-item"><strong>May 2020</strong>:
-  Started my internship at Microsoft Research with Dr. Denae
-  Ford! We will work on OSS4SG with Dr. Tom Zimmermann.
-</li>
-  
-
-  <li class="list-group-item">
-    <strong>March 2020</strong>: Successfully defended Ph.D. Dissertation
-    <span style="white-space: nowrap;">
-          <a href="https://myslu.stlawu.edu/~kangstadt/papers/angstadt-dissertation.pdf" target="_blank" class="badge badge-info badge-pill"><span class="fas fa-book" aria-hidden="true"></span>&nbsp;Dissertation</a>
-        </span>
-    <span style="white-space: nowrap;">
-      <a href="https://myslu.stlawu.edu/~kangstadt/presentations/angstadt-dissertation.pdf" target="_blank" class="badge badge-info badge-pill"><span class="fas fa-tv" aria-hidden="true"></span>&nbsp;Presentation Slides</a>
-    </span>
-  </li>
-
- <li class="list-group-item"> <strong>May 2020</strong>: Our paper on biases and
-    differences in code review is accepted in FSE2020!
- </li>
- <li class="list-group-item"><strong>Feb 2020</strong>: Received
-    the Google Faculty Research Award to support our study to
-    understand bias in code review using medical imaging!
- </li>
- 
- 
- 
- <li class="list-group-item"> <strong>December 2019</strong>: Our paper on comparing code
-    writing and prose writing
-    using fMRI is accepted in ICSE2020!
- </li>
-
-
-
- <li class="list-group-item"> <strong>December 2019</strong>: PhD Dissertation Proposal
-    approved by committee.
-    <span style="white-space: nowrap;">
-          <a href="./index_files/phd-proposal.pdf" class="badge badge-info badge-pill"><span class="fas fa-book" aria-hidden="true"></span>&nbsp;Proposal</a>
-    </span>
-    <span style="white-space: nowrap;">
-          <a href="./index_files/phd-proposal-slides.pdf" class="badge badge-info badge-pill"><span class="fas fa-tv" aria-hidden="true"></span>&nbsp;Presentation Slides</a>
-    </span>
-  </li>
-
-  <li class="list-group-item"><strong>July 2019</strong>: Received
-    the fMRI Pilot Grant from the Functional MRI Laboratory at
-    University of Michigan to support our Gender Biases study in Code
-    Review!
-  </li>
-
-
-</div>
-</details>
-<br>
--->
-
-<!--
-
-Travel
-======
-* **2024-11-09 – 2023-11-13**<br>
-San José, Costa Rica for CSCW 2024
-
-<details><summary>MORE...</summary>
-<div markdown="1">
-* **2022-02-23 – 2022-02-25**<br>
-Washington, DC for CRA Career Mentoring Workshop
-* **2021-11-08 – 2020-11-10**<br>
-Pittsburgh, PA for PLATEAU 2021
-</div>
-</details>
-<br>
--->
-
-<!--
-Recent Publications
-======
-{% assign sorted = site.publications | sort: 'date' %}
-
-{% for post in sorted reversed %}
-{% include archive-single-pub.html %}
-{% endfor %}
--->
