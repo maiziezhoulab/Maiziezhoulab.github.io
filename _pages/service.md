@@ -6,55 +6,23 @@ author_profile: true
 ---
 
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
-## 2025
-**Program Committee:** ICSE, ISSTA, GI
+## Editorial Service
 
-**Organizing Committee**: ICPC, ICPC-RENE track co-chair
+**Guest Associate Editor**, Frontiers in Genetics              2020 – present
 
-## 2024
+**Special Issue Editor**, Life                                                   2022 – present
 
-**Program Committee:** ICSE, ICSE-SEET, ICPC, ISSTA
+## Conference and Workshop Organization
 
-**Journal Reviewer:** JSS, TOSEM, TOSEM-Frontiers in SE
+**Conference Organization Committee and Session Chair**, IEEE BIBM Workshop on computational methods to characterize genomic variants using high-throughput sequencing data, Dec 6-9, 2022, Las Vegas, NV, USA
 
-**Other**: ICSE SEeW mentor
+**Conference Organization Committee and Session Chair**, IEEE BIBM Workshop on computational methods and their applications on single cell multiomic data, Dec 9-12, 2021, Houston, TX, USA
 
-## 2023
-**Program Committee:** ICSE, ICSE-SEET, ICPC
+## Conference Judging and Reviewing Activities
 
-**Journal Reviewer:** JSS, EMSE, ACM Communications
+**Abstract Reviewer**, BMES           2021
 
-## 2022
+## Ad hoc Reviewer for Journals
 
-**Program Committee:** ICSE-SEET, ICPC, ICPC-ERA, CHASE
+Nature Methods, Nature Genetics, Nature Communications, Nature Computational Science, Genome Biology, Genome Research, Nucleic Acids Research, Bioinformatics, Briefings in Bioinformatics, PLOS Computational Biology, iScience, Cell Reports Methods, NAR Genomics and Bioinformatics, BMC Genomics, BMC Bioinformatics, Journal of Neurophysiology, Frontiers in Cell and Developmental Biology, Frontiers in Genetics, Frontiers in Plant Science, Genes
 
-**Journal Reviewer:** JSS, EMSE 
-
-<!--**Other**: Session Chair ICSE-SEET-->
-
-## 2021
-
-**Program Committee:** ICSE-SEET, ICPC, ICPC-ERA, CHASE, SEmotion
-
-**Journal Reviewer:** JSS 
-   
-**Organizing Committee:** Co-Chair of ICSE-Diversity and Inclusion Panel, Social Media Chair for GI, the Rackahm Faculty Allies and Student Ally Diversity Speaker Series
-
-## 2020
-
-**Program Committee:** GI
-
-**Organizing Committee:** GI, the Rackahm Faculty Allies and Student Ally Diversity Speaker Series,  Ensemble of Computer Science and Engineering Ladies + (ECSEL+)
-
-**Other**: Opening Session Panelist for FSE, Panelist and Mentor for ICSE-SMeW
-
-## 2019
-
-**Organizing Committee:** the Rackahm Faculty Allies and Student Ally Diversity Speaker Series,  Eensemnble of Computer Science and Engineering Ladies + (ECSEL+)
-
-**Other**: Instructor for CS KcikStart
-
-## 2018
-**Organizing Committee:** the Rackahm Faculty Allies and Student Ally Diversity Speaker Series, Eensemnble of Computer Science and Engineering Ladies + (ECSEL+)
-
-**Other**: Panelist for Douglass Houghton Scholar Program
