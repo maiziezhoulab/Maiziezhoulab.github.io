@@ -44,7 +44,7 @@ Stevenson Complex 5919; maizie.zhou@vanderbilt.edu
 Maizie completed her undergraduate study at Huazhong University of Science and Technology (HUST) in China and holds a Ph.D. in Neuroscience from Wake Forest School of Medicine, and a Ph.D. in Computer Science from Stanford University, where she was supported by a fellowship by the US National Institute of Standards and Technology and the Enlight Foundation. Maizie joined Vandy as an Assistant Professor in August 2020. She is the recipient of an outstanding investigator award (R35) from the National Institutes of Health.
 
 
-Research 
+<!-- Research 
 ======
 My group focuses on **human factors and human-centered AI for software engineering**, including
 human cognition, AI for software engineering, sustainability for open source software, and computer
@@ -63,12 +63,12 @@ forward to hearing crazy ideas from students!
 - How can we learn from human cognition and expertise to improve automated models in
   programming?
 <!-- - How can we defend our system in the existence of cognitive biases? -->
-- How can we improve participation and diversity in programming?
+<!-- - How can we improve participation and diversity in programming?
 
 If you are interested in joining my lab, please check the information on
-[*Advising & Research Opportunities*](/advising).
+[*Advising & Research Opportunities*](/advising). -->
 
-News
+<!-- News
 ======
 * **Oct 2024** 
 Our group got two papers accepted to ICSE 2025! Congratulations to Zach Karas and Yueke Zhang leading their ICSE 25 submissions! 
@@ -194,4 +194,4 @@ Congratulations to Yifan for his doctoral proposal accepted to
 * **June 2022**
  We received a grant from the GitHub Tech for Social Good and
  GitHub Policy teams to support our research on
- investigating global standard usage metrics! Thank you, GitHub!
+ investigating global standard usage metrics! Thank you, GitHub! --> -->
