@@ -18,14 +18,17 @@ Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/)
 
 
 Welcome to the VCBL – Maizie Zhou Lab!
-
+=====
 We develop algorithms and mathematical models to address biological and neuroscience questions. We investigate multiple dimensions of these questions, spanning computational genomics, bioinformatics, computational neuroscience, and machine learning.
 
 Areas of Research: structural variant detection in personal and cancer genomes, haplotype phasing, reference-assisted assembly, machine learning, single-cell and spatial transcriptomics technologies, and analysis of neural circuits in natural and artificial neural networks.
 
 About me
 =====
-Assistant Professor, Biomedical Engineering (Primary) and Computer Science
+
+Maizie completed her undergraduate study at Huazhong University of Science and Technology (HUST) in China and holds a Ph.D. in Neuroscience from Wake Forest School of Medicine, and a Ph.D. in Computer Science from Stanford University, where she was supported by a fellowship by the US National Institute of Standards and Technology and the Enlight Foundation. Maizie joined Vandy as an Assistant Professor in August 2020. She is the recipient of an outstanding investigator award (R35) from the National Institutes of Health.
+
+<!-- Assistant Professor, Biomedical Engineering (Primary) and Computer Science -->
 
 Steering committee, Vanderbilt Lab for Immersive AI Translation ([VALIANT](https://www.vanderbilt.edu/valiant/))
 
@@ -39,9 +42,9 @@ Member, The Frist Center for Autism and Innovation
 
 Affiliate Scientist, Washington National Primate Research Center (WaNPRC, Neuroscience Unit)
 
-Stevenson Complex 5919; maizie.zhou@vanderbilt.edu
+<!-- Stevenson Complex 5919; maizie.zhou@vanderbilt.edu -->
 
-Maizie completed her undergraduate study at Huazhong University of Science and Technology (HUST) in China and holds a Ph.D. in Neuroscience from Wake Forest School of Medicine, and a Ph.D. in Computer Science from Stanford University, where she was supported by a fellowship by the US National Institute of Standards and Technology and the Enlight Foundation. Maizie joined Vandy as an Assistant Professor in August 2020. She is the recipient of an outstanding investigator award (R35) from the National Institutes of Health.
+
 
 
 <!-- Research 
