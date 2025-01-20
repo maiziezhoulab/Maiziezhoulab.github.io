@@ -1,4 +1,3 @@
-# main links links
 main:
 
   - title: "Lab Members"
@@ -8,16 +7,16 @@ main:
     url: /publications/
   
   - title: "Software"
-    url: /students/
+    url: /Software/
 
   - title: "Teaching&Service"
     url: /TeachingService/
 
   - title: "Lab News"
-    url: /fun/
+    url: /LabNews/
 
   - title: "Openings"
-    url: /fun/
+    url: /Openings/
 
   - title: "Lab Pics"
-    url: /fun/
+    url: /LabPics/
