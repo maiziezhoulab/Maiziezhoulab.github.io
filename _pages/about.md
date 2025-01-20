@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 <img src="images/vandy-logo.png" alt="Logo of Vanderbilt" width="200">
 
 <img src="images/lab_logo_horizontal.png" alt="Logo of Vanderbilt" width="200">
@@ -16,6 +16,12 @@ Human-Centered AI for Software Engineering (HumanAISE, co-located with FSE/ISSTA
 2025). Please join us and share your work with us!</span> 
 Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/). Paper submission deadline: Feb 15, 2025.  -->
 
+
+Welcome to the VCBL – Maizie Zhou Lab!
+
+We develop algorithms and mathematical models to address biological and neuroscience questions. We investigate multiple dimensions of these questions, spanning computational genomics, bioinformatics, computational neuroscience, and machine learning.
+
+Areas of Research: structural variant detection in personal and cancer genomes, haplotype phasing, reference-assisted assembly, machine learning, single-cell and spatial transcriptomics technologies, and analysis of neural circuits in natural and artificial neural networks.
 
 About me
 =====
