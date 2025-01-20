@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 <img src="images/vandy-logo.png" alt="Logo of Vanderbilt" width="200">
 
 <img src="images/lab_logo_horizontal.png" alt="Logo of Vanderbilt" width="200">
