@@ -23,7 +23,7 @@ We develop algorithms and mathematical models to address biological and neurosci
 Funding Agencies
 =====
 
-<img src="images/mih_nigms.jpeg" alt="mih_nigms" style="margin: 10px;" width="200">
-<img src="images/mih_nimh.jpeg" alt="Logo of Vanderbilt" style="margin: 10px;" width="200">
+<img src="images/nih_nigms.jpeg" alt="mih_nigms" style="margin: 10px;" width="200">
+<img src="images/nih_nimh.png" alt="Logo of Vanderbilt" style="margin: 10px;" width="200">
 <img src="images/CompleteGenomicsInc.png" alt="Logo of Vanderbilt" style="margin: 10px;" width="200">
 <img src="images/VBI.png" alt="Logo of Vanderbilt" style="margin: 10px;" width="200">

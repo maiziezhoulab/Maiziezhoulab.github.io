@@ -1,25 +1,23 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  #- title: "CV"
-  #  url: /files/TobyLi_CV.pdf
-
-
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Students"
+  - title: "Lab Members"
     url: /students/
 
-  - title: "Advising & Research Opportunities"
-    url: /advising/
+  - title: "Publications"
+    url: /publications/
+  
+  - title: "Software"
+    url: /students/
 
-  - title: "Service"
+  - title: "Teaching&Service"
     url: /service/
 
-  - title: "Fun"
+  - title: "Lab News"
     url: /fun/
 
+  - title: "Openings"
+    url: /fun/
 
+  - title: "Lab Pics"
+    url: /fun/

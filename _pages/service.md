@@ -10,7 +10,7 @@ author_profile: true
 
 **Guest Associate Editor**, Frontiers in Genetics              2020 – present
 
-**Special Issue Editor**, Life                                                   2022 – present
+**Special Issue Editor**, Life                                 2022 – present
 
 ## Conference and Workshop Organization
 
@@ -20,7 +20,7 @@ author_profile: true
 
 ## Conference Judging and Reviewing Activities
 
-**Abstract Reviewer**, BMES           2021
+**Abstract Reviewer**, BMES   2021
 
 ## Ad hoc Reviewer for Journals
 
