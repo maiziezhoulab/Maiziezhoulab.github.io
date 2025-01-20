@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="images/vandy-logo.png" alt="Logo of Vanderbilt" width="200">
-
-<img src="images/lab_logo_horizontal.png" alt="Logo of Vanderbilt" width="200">
+<div style="display: flex; align-items: center; gap: 20px;">
+    <img src="images/vandy-logo.png" alt="Logo of Vanderbilt" width="200">
+    <img src="images/lab_logo_horizontal.png" alt="Lab Logo" width="200">
+</div>
 
 <!-- <span style="color:red">I am co-organizing the first workshop on
 Human-Centered AI for Software Engineering (HumanAISE, co-located with FSE/ISSTA
