@@ -85,7 +85,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   _Front. Genet._ (2023) 14:1280648.
 
 - **ADEPT: Autoencoder with differentially expressed genes and imputation for robust spatial transcriptomics clustering.**  
-  **Y. Hu†**, Y. Zhao†, C. T. Schunk, Y. Ma, T. Derr*, **X. M. Zhou***.  
+  **Y. Hu†**, Y. Zhao†, C. T. Schunk, Y. Ma, T. Derr\*, **X. M. Zhou\***.  
   _iScience_ (2023) 26(6):106792. [DOI](https://doi.org/10.1016/j.isci.2023.106792)
 
 - **Haplotyping-assisted diploid assembly and variant detection with linked-reads.**  
