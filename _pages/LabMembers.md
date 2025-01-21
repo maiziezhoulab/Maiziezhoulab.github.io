@@ -5,8 +5,7 @@ permalink: /LabMembers/
 author_profile: true
 ---
 
-Principal Investigator
-=====
+# Principal Investigator
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
     <td>
@@ -19,6 +18,8 @@ Principal Investigator
     </td>
  </tr>
 </table>
+
+---
 
 # Current Students
 ## Graduate Students
@@ -223,6 +224,8 @@ Principal Investigator
 
 </tr>
 </table>
+
+---
 
 # Summer Research Intern
 
