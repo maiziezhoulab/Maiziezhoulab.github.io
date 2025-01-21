@@ -24,12 +24,13 @@ Lab members are **bold**.
 used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
+- **FocalSV: target region-based structural variant assembly and refinement using single-molecule long read sequencing data. .**  
+  **C. Luo**†, **Z. J. Zhou**†, **X. M. Zhou**.  
+  [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.11.21.624735v1)
 
 - **Brain structure and activity predicting cognitive maturation in adolescence.**  
   J. Zhu, C. M. Garin, X.-L. Qi, A. Machado, Z. Wang, S. B. Hamed, T. R. Stanford, E. Salinas, C. T. Whitlow, A. W. Anderson, **X. M. Zhou**, F. Calabro, B. Luna, C. Constantinidis.  
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.08.23.608315v1)
-
-
 
 - **Leveraging cross-source heterogeneity to improve the performance of bulk gene expression deconvolution.**  
   W. Shen\*, C. Liu, **Y. Hu**, Y. Lei, H.-S. Wong*, S. Wu\*, **X. M. Zhou\***.  
