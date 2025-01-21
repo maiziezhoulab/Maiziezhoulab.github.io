@@ -227,7 +227,6 @@ Current Students
 
 Summer Research Intern
 =====
-
 Supriyo Rana  BME, BS, 2023 Summer
 
 Neal Bagai  CS, BS, 2023 Summer
@@ -248,8 +247,6 @@ Georgia Reed Cooper   BME, BS,  2021 Summer  (Clark Scholars Program)
 
 Lab Alumni
 =====
-
-
 ## Lab Assistant 
 
 Sihan Ye  Computer Science, BS, 2022 Fall – 2023 Fall
