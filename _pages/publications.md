@@ -108,8 +108,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 - **Graphing cell relations in spatial transcriptomics.**  
   **X. Zhou**.     
-  _Nature Computational Science_ (2022) 2, 354-355  
-  [DOI: 10.1038/s43588-022-00269-2](https://doi.org/10.1038/s43588-022-00269-2)
+  _Nature Computational Science_ (2022) 2, 354-355  [DOI](https://doi.org/10.1038/s43588-022-00269-2)
 
 - **Identification of cell types in multiplexed in situ images by combining protein expression and spatial information using CELESTA reveals novel spatial biology.**  
   W. Zhang, I. Li, N. E. Reticker-Flynn, Z. Good, S. Chang, N. Samusik, S. Saumyaa, Y. Li, **X. Zhou**, et al.      
