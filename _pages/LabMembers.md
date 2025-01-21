@@ -20,8 +20,7 @@ Principal Investigator
  </tr>
 </table>
 
-Current Students
-=====
+# Current Students
 ## Graduate Students
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
@@ -225,70 +224,111 @@ Current Students
 </tr>
 
 
-Summer Research Intern
-=====
-Supriyo Rana  BME, BS, 2023 Summer
+# Summer Research Intern
 
-Neal Bagai  CS, BS, 2023 Summer
+- **Supriyo Rana**  
+  BME, BS, 2023 Summer
 
-Haoran (Hunter) Qin  CS & Economics, BS, 2023 Summer
+- **Neal Bagai**  
+  CS, BS, 2023 Summer
 
-Jihoon Jimmy Baek   CS & Medicine, Health, and Society, BS, 2023 Summer
+- **Haoran (Hunter) Qin**  
+  CS & Economics, BS, 2023 Summer
 
-Xinyu Gao  Data Science, MS, 2022 Summer
+- **Jihoon Jimmy Baek**  
+  CS & Medicine, Health, and Society, BS, 2023 Summer
 
-Muwen Zhan  Data Science, MS, 2022 Summer
+- **Xinyu Gao**  
+  Data Science, MS, 2022 Summer
 
-Cameron Pirozzi   BME & CS & Mathematics, BS, 2022 Summer
+- **Muwen Zhan**  
+  Data Science, MS, 2022 Summer
 
-Georgia Reed Cooper   BME, BS,  2021 Summer  (Clark Scholars Program)
+- **Cameron Pirozzi**  
+  BME & CS & Mathematics, BS, 2022 Summer
 
-<!-- </table>  -->
+- **Georgia Reed Cooper**  
+  BME, BS, 2021 Summer (Clark Scholars Program)
 
-Lab Alumni
-=====
-## Lab Assistant 
+---
 
-Sihan Ye  Computer Science, BS, 2022 Fall – 2023 Fall
+# Lab Alumni
+
+## Lab Assistant
+
+- **Sihan Ye**  
+  Computer Science, BS, 2022 Fall – 2023 Fall
 
 ## Masters Students
 
-Yingxiang (Andy) Ma  Data Science, MS,  2021 Fall – 2023 Spring, first job: Ph.D. student in Molecular Physiology and Biophysics @ Vanderbilt University
+- **Yingxiang (Andy) Ma**  
+  Data Science, MS, 2021 Fall – 2023 Spring  
+  First Job: Ph.D. student in Molecular Physiology and Biophysics @ Vanderbilt University
 
-Curtis Schunk  (with Prof Cynthia Reinhart-King) BME, MS, 2022 Summer – 2022 Fall, first job: Analyst, Clinical & Strategic Analytics @ OneOncology
+- **Curtis Schunk** (with Prof Cynthia Reinhart-King)  
+  BME, MS, 2022 Summer – 2022 Fall  
+  First Job: Analyst, Clinical & Strategic Analytics @ OneOncology
 
-Sanidhya Mangal   CS, MS, 2021 Summer – 2022 Spring
+- **Sanidhya Mangal**  
+  CS, MS, 2021 Summer – 2022 Spring
 
-Yuanqi Xie   CS, MS, 2020 Fall – 2021 Fall
+- **Yuanqi Xie**  
+  CS, MS, 2020 Fall – 2021 Fall
 
-Yasi Wang   Data Science, MS, 2021 Spring (Capstone project), first job: Amazon
+- **Yasi Wang**  
+  Data Science, MS, 2021 Spring (Capstone project)  
+  First Job: Amazon
 
-Sijie Li  (remote) Informatics, MS, 2020 Fall – 2021 Summer, first job: Ph.D. student in CS @ University of Sheffield
+- **Sijie Li** (remote)  
+  Informatics, MS, 2020 Fall – 2021 Summer  
+  First Job: Ph.D. student in CS @ University of Sheffield
 
-## Undergrads Students  (>=2 semesters)
+## Undergraduate Students (>= 2 semesters)
 
-Zimeng (Jamie) Zhou  CS & Mathematics, BS,  2022 Fall – 2024 Spring, first job: Goldman Sachs @Dallas
+- **Zimeng (Jamie) Zhou**  
+  CS & Mathematics, BS, 2022 Fall – 2024 Spring  
+  First Job: Goldman Sachs @ Dallas
 
-Adam Hollander  CS & Mathematics, BS,  2022 Summer – 2023 Spring
+- **Adam Hollander**  
+  CS & Mathematics, BS, 2022 Summer – 2023 Spring
 
-Jacob Ioffe  CS & Public Policy, BS,  2020 Fall – 2022 Fall, first job: Master’s student in Health Tech @ Cornell Tech
+- **Jacob Ioffe**  
+  CS & Public Policy, BS, 2020 Fall – 2022 Fall  
+  First Job: Master’s student in Health Tech @ Cornell Tech
 
-Zheng (Wayne) Wu  CS & Mathematics, BS,  2022 Summer – 2023 Spring, first job: Master’s student in CS @ Rice University
+- **Zheng (Wayne) Wu**  
+  CS & Mathematics, BS, 2022 Summer – 2023 Spring  
+  First Job: Master’s student in CS @ Rice University
 
-Rohit Khurana CS & Molecular & Cellular Biology & Mathematics, BS,  2022 Fall – 2023 Spring, first job: Master’s student in CS @ Stanford University
+- **Rohit Khurana**  
+  CS & Molecular & Cellular Biology & Mathematics, BS, 2022 Fall – 2023 Spring  
+  First Job: Master’s student in CS @ Stanford University
 
-Jia Yao  (remote) CS, 2022 Summer – 2022 Fall, first job: Ph.D. student in BME Program @ UT Southwestern Medical Center
+- **Jia Yao** (remote)  
+  CS, 2022 Summer – 2022 Fall  
+  First Job: Ph.D. student in BME Program @ UT Southwestern Medical Center
 
-Zi-Hang Wen (remote + in-person) BS in Engineering, 2020 Summer – 2022 Summer, first job: Ph.D. student in Computational Biology (CPCB) through Computer Science @ CMU
+- **Zi-Hang Wen** (remote + in-person)  
+  BS in Engineering, 2020 Summer – 2022 Summer  
+  First Job: Ph.D. student in Computational Biology (CPCB) through Computer Science @ CMU
 
-Amy Sihn   EE & Mathematics, BS, 2021 Fall – 2022 Spring, first job: Master’s student in EE @ UCLA
+- **Amy Sihn**  
+  EE & Mathematics, BS, 2021 Fall – 2022 Spring  
+  First Job: Master’s student in EE @ UCLA
 
-Staunton “Hank” Golding   BME, BS, 2021 Spring – 2022 Spring
+- **Staunton “Hank” Golding**  
+  BME, BS, 2021 Spring – 2022 Spring
 
-Parth A. Datar   CS, BS+MS, 2021 Summer – 2022 Spring, first job: CAD SWE @ Qualcomm
+- **Parth A. Datar**  
+  CS, BS+MS, 2021 Summer – 2022 Spring  
+  First Job: CAD SWE @ Qualcomm
 
-Jeremy L. Langsam   BME,BS,  2020 Fall – 2021 Spring
+- **Jeremy L. Langsam**  
+  BME, BS, 2020 Fall – 2021 Spring
 
-Griffin L. Grubbs  BME, BS, 2020 Fall – 2021 Spring
+- **Griffin L. Grubbs**  
+  BME, BS, 2020 Fall – 2021 Spring
 
-Ziqi Guo  (remote) EPE, BS, 2020 Fall – 2021 Summer, first job: Ph.D. student in ME @ Purdue University
+- **Ziqi Guo** (remote)  
+  EPE, BS, 2020 Fall – 2021 Summer  
+  First Job: Ph.D. student in ME @ Purdue University
