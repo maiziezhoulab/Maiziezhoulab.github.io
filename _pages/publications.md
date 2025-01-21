@@ -89,24 +89,6 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   **Y. Hu**, C. Yang, L. Zhang*, **X. Zhou***  
   _Methods in Molecular Biology_ (2023) 2590:161-182. doi: 10.1007/978-1-0716-2819-5_1. PMID: 36335499.
 
-<!-- ### 2022
-- **Haplotype-phasing of long-read HiFi data to enhance structural variant detection through a Skip-Gram model**  
-  **C. Luo**, **P. A. Datar**, **Y. H. Liu**, **X. Zhou**  
-  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2022), Las Vegas, NV, USA, 2022, pp. 2326-2333, doi: 10.1109/BIBM55620.2022.9995293.
-
-- **A comprehensive investigation of statistical and machine learning approaches for predicting complex human diseases on genomic variants**  
-  C. Wang, J. Zhang, **X. Zhou**, L. Zhang. 
-  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2022), Las Vegas, NV, USA, 2022, pp. 2326-2333, doi: 10.1109/BIBM55620.2022.9995293.
-
-- **Automated filtering of genome-wide large deletions through an ensemble deep learning framework**  
-  **Y. Hu**, **S. Mangal**, L. Zhang, **X. Zhou**.
-  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2022), Las Vegas, NV, USA, 2022, pp. 2326-2333, doi: 10.1109/BIBM55620.2022.9995293.
-
-- **Graphing cell relations in spatial transcriptomics**  
-  **X. Zhou**  
-  _Nature Computational Science (2022) 2, 354-355_  
-  [DOI: 10.1038/s43588-022-00269-2](https://doi.org/10.1038/s43588-022-00269-2) -->
-
 ### 2022
 - **Haplotype-phasing of long-read HiFi data to enhance structural variant detection through a Skip-Gram model**  
   **C. Luo**, **P. A. Datar**, **Y. H. Liu**, **X. Zhou**  
@@ -153,4 +135,39 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   _Cell Reports Methods_ (2022) 2, 100133  
   [DOI: 10.1016/j.crmeth.2021.100133](https://doi.org/10.1016/j.crmeth.2021.100133)
 
+### 2021
+- **An ensemble deep learning framework to refine large deletions in linked-reads**  
+  **Y. Hu**, **S. V. Mangal**, L. Zhang, **X. Zhou**  
+  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2021), pp. 288-295  
+  [DOI: 10.1109/BIBM52615.2021.9669571](https://doi.org/10.1109/BIBM52615.2021.9669571)
 
+- **The epithelial and stromal immune microenvironment in gastric cancer: a comprehensive analysis reveals prognostic factors with digital cytometry**  
+  W. Shen, G. Wang, **G. R. Cooper**, Y. Jiang, **X. Zhou**  
+  _Cancers (Basel)_ (2021) 13(21):5382  
+  [DOI: 10.3390/cancers13215382](https://doi.org/10.3390/cancers13215382)
+
+- **Emergence of prefrontal neuron maturation properties by training recurrent neural networks in cognitive tasks**  
+  **Y. H. Liu**, J. Zhu, C. Constantinidis, **X. Zhou**  
+  _iScience_ (2021) 24(10):103178  
+  [DOI: 10.1016/j.isci.2021.103178](https://doi.org/10.1016/j.isci.2021.103178)
+
+- **Editorial: predicting high-risk individuals for common diseases using multi-omics and epidemiological data**  
+  D. Chowdhury, **X. Zhou**, B. Li, Y. Zhang, W. K. Cheung, A. Lyu, L. Zhang  
+  _Front. Genet. (2021) 12:737598_
+
+- **DeepDRIM: a deep neural network to reconstruct cell-type-specific gene regulatory network using single-cell RNA-Seq Data**  
+  J. Chen, C. Cheong, L. Lan, **X. Zhou**, J. Liu, A. Lyu, W. K. Cheung, L. Zhang  
+  _Briefings in Bioinformatics_ (2021) 22(6):bbab325  
+  [DOI: 10.1093/bib/bbab325](https://doi.org/10.1093/bib/bbab325)
+
+- **Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes**  
+  **S. Li†**, **Z. Guo†**, **J. B. Ioffe**, **Y. Hu**, Y. Zhen*, **X. Zhou***  
+  _Scientific Reports_  (2021) 11(1):15269 
+  [DOI: 10.1038/s41598-021-94742-z](https://doi.org/10.1038/s41598-021-94742-z) († equal contribution)
+
+- **Aquila_stLFR: diploid genome assembly based structural variant calling package for stLFR linked-reads**  
+  **Y. H. Liu**, **G. L. Grubbs**, L. Zhang, X. Fang, D. L. Dill, A. Sidow, **X. Zhou**  
+  _Bioinformatics Advances_ (2021) 1, vbab007 
+  [DOI: 10.1093/bioadv/vbab007](https://doi.org/10.1093/bioadv/vbab007)
+
+### 2020 and earlier
