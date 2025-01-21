@@ -96,15 +96,15 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/Haoran.jpg" class="student-profile-pic">
         </div>
-        <b>Haoran (Hunter) Qin</b> (Spring 24 - Present) <br>
+        <b>Haoran (Hunter) Qin</b> (Summer 23 - Present) <br>
         Undergraduate Researcher in Computer Science & Economics
     </td>
    <td>
         <div style="text-align: center">
             <img src="/images/students/Jimmy.jpg" class="student-profile-pic">
         </div>
-        <b>Janice Chung</b> (Spring 24 - Present) <br>
-        Undergraduate Researcher at Vanderbilt 
+        <b>Janice Chung</b> (Summer 23 - Present) <br>
+        Undergraduate Researcher in Computer Science & Medicine, Health, and Society
     </td>
 
 </tr>
@@ -114,11 +114,11 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/manish.jpeg" class="student-profile-pic">
         </div>
-        <b>Manish Acharya</b> (Summer 2024 - Present) <br>
-        Undergraduate Researcher at Vanderbilt 
+        <b>Yujie Wang</b> (Summer 2024 - Present) <br>
+        Undergraduate Researcher in Mathematics & Computer Science
     </td>
 
- <td>
+ <!-- <td>
         <div style="text-align: center">
             <img src="/images/students/esha.JPEG" class="student-profile-pic">
         </div>
@@ -132,11 +132,69 @@ Current Students
         </div>
         <b>Helen Wu</b> (Fall 2024 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
-    </td>
+    </td> -->
 
  
 
  </tr>
+
+
+
+## High School Student Intern
+<table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
+ <tr>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/lilybowen.jpg" class="student-profile-pic">
+        </div>
+        <b>Lily Bowen</b> (2023/08 – present) <br>
+        The Harpeth Hall School (Honors STEM Research Course for girls)
+    </td>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/IMG_2146.jpg" class="student-profile-pic">
+        </div>
+        <b>Lily Wang</b> (2024/01 – present) <br>
+        The Harpeth Hall School
+    </td>
+   <!-- <td>
+        <div style="text-align: center">
+            <img src="/images/students/Jimmy.jpg" class="student-profile-pic">
+        </div>
+        <b>Janice Chung</b> (Summer 23 - Present) <br>
+        Undergraduate Researcher in Computer Science & Medicine, Health, and Society
+    </td> -->
+
+</tr>
+<!-- <tr> -->
+ 
+<!-- <td>
+        <div style="text-align: center">
+            <img src="/images/students/manish.jpeg" class="student-profile-pic">
+        </div>
+        <b>Yujie Wang</b> (Summer 2024 - Present) <br>
+        Undergraduate Researcher in Mathematics & Computer Science
+    </td> -->
+
+ <!-- <td>
+        <div style="text-align: center">
+            <img src="/images/students/esha.JPEG" class="student-profile-pic">
+        </div>
+        <b>Esha Rashid</b> (Fall 2024 - Present) <br>
+        Undergraduate Researcher at Vanderbilt 
+    </td>
+
+  <td>
+        <div style="text-align: center">
+            <img src="/images/students/helen.jpg" class="student-profile-pic">
+        </div>
+        <b>Helen Wu</b> (Fall 2024 - Present) <br>
+        Undergraduate Researcher at Vanderbilt 
+    </td> -->
+
+ 
+
+ <!-- </tr> -->
 
 
 
