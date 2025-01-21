@@ -136,7 +136,7 @@ Principal Investigator
  
 
  </tr>
-
+</table>
 
 
 ## High School Student Intern
@@ -194,7 +194,7 @@ Principal Investigator
  
 
  <!-- </tr> -->
-
+</table>
 
 ## High School Student Intern
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
