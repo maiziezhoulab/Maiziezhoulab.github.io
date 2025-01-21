@@ -56,7 +56,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   
 ### 2024
 - **VolcanoSV enables accurate and robust structural variant calling in diploid genomes from single-molecule long read sequencing.**  
-  **C. Luo†**, **Y. H. Liu†**, **X. M. Zhou**.  
+  **C. Luo**†, **Y. H. Liu†**†, **X. M. Zhou**.  
   _Nature Communications_ (2024) 15:6956. [DOI](https://doi.org/10.1038/s41467-024-51282-0)
 
 - **Benchmarking clustering, alignment, and integration methods for spatial transcriptomics.**  
@@ -72,7 +72,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   _iScience_ (2024) 27(8):110488. [DOI](https://doi.org/10.1016/j.isci.2024.110488)
 
 - **Tradeoffs in alignment and assembly-based methods for structural variant detection with long-read sequencing data.**  
-  **Y. H. Liu†**, **C. Luo†**, S. G. Golding, J. B. Ioffe, **X. M. Zhou**.
+  **Y. H. Liu**†, **C. Luo**†, S. G. Golding, J. B. Ioffe, **X. M. Zhou**.
   _Nature Communications_ (2024) 15:2447. [DOI](https://doi.org/10.1038/s41467-024-46614-z)
 
 ### 2023
@@ -85,11 +85,11 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   _Front. Genet._ (2023) 14:1280648.
 
 - **ADEPT: Autoencoder with differentially expressed genes and imputation for robust spatial transcriptomics clustering.**  
-  **Y. Hu†**, Y. Zhao†, C. T. Schunk, Y. Ma, T. Derr\*, **X. M. Zhou\***.  
+  **Y. Hu**†, Y. Zhao†, C. T. Schunk, Y. Ma, T. Derr\*, **X. M. Zhou\***.  
   _iScience_ (2023) 26(6):106792. [DOI](https://doi.org/10.1016/j.isci.2023.106792)
 
 - **Haplotyping-assisted diploid assembly and variant detection with linked-reads.**  
-  **Y. Hu**, C. Yang, L. Zhang\*, **X. Zhou**\*.  
+  **Y. Hu**†, C. Yang†, L. Zhang\*, **X. Zhou**\*.  
   _Methods in Molecular Biology_ (2023) 2590:161-182. doi: 10.1007/978-1-0716-2819-5_1. PMID: 36335499.
 
 ### 2022
@@ -164,7 +164,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   [DOI: 10.1093/bib/bbab325](https://doi.org/10.1093/bib/bbab325)
 
 - **Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes.**  
-  **S. Li†**, **Z. Guo†**, **J. B. Ioffe**, **Y. Hu**, Y. Zhen\*, **X. Zhou**\*. 
+  **S. Li**†, **Z. Guo**†, **J. B. Ioffe**, **Y. Hu**, Y. Zhen\*, **X. Zhou**\*. 
   _Scientific Reports_  (2021) 11(1):15269 
   [DOI: 10.1038/s41598-021-94742-z](https://doi.org/10.1038/s41598-021-94742-z) 
 
