@@ -58,7 +58,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2024
 - **VolcanoSV enables accurate and robust structural variant calling in diploid genomes from single-molecule long read sequencing.**  
   **C. Luo**†, **Y. H. Liu**†, **X. M. Zhou**.  
-  [Nature Communications_ (2024) 15:6956](https://doi.org/10.1038/s41467-024-51282-0)
+  [Nature Communications (2024)](https://doi.org/10.1038/s41467-024-51282-0)15:6956
 
 - **Benchmarking clustering, alignment, and integration methods for spatial transcriptomics.**  
   **Y. Hu**, **M. Xie**, **Y. Li**, **M. Rao**, W. Shen, **C. Luo**, **H. Qin**, **J. Baek**, **X. M. Zhou**.  
