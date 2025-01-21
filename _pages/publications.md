@@ -36,11 +36,11 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v1)
 
 - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data.**  
-  **W. Yuan**†, **C. Luo**†, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory, **X. M. Zhou**.  
+  **W. Yuan**†, **C. Luo**†, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory\*, **X. M. Zhou**\*.  
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.02.21.581409v1)
 
-- **MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning.**  
-  **Y. Hu**, Y. Li, **M. Xie**, M. Rao, **Y. H. Liu**, **X. M. Zhou**.  
+- **MaskGraphene: an advanced framework for interpretable joint representation for multi-slice, multi-condition spatial transcriptomics.**  
+  **Y. Hu**, **Z. Lin**, **M. Xie**, **W. Yuan**, **Y. Li**, **M. Rao**, **Y. H. Liu**, W. Shen, L. Zhang\*, **X. M. Zhou**\*.  
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.02.21.581387v1)
 
 - **Large indel detection in region-based phased diploid assemblies from linked-reads.**  
