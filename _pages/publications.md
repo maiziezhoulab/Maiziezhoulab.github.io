@@ -89,7 +89,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   **Y. Hu**, C. Yang, L. Zhang*, **X. Zhou***  
   _Methods in Molecular Biology_ (2023) 2590:161-182. doi: 10.1007/978-1-0716-2819-5_1. PMID: 36335499.
 
-### 2022
+<!-- ### 2022
 - **Haplotype-phasing of long-read HiFi data to enhance structural variant detection through a Skip-Gram model**  
   **C. Luo**, **P. A. Datar**, **Y. H. Liu**, **X. Zhou**  
   _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2022), Las Vegas, NV, USA, 2022, pp. 2326-2333, doi: 10.1109/BIBM55620.2022.9995293.
@@ -105,4 +105,52 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 - **Graphing cell relations in spatial transcriptomics**  
   **X. Zhou**  
   _Nature Computational Science (2022) 2, 354-355_  
+  [DOI: 10.1038/s43588-022-00269-2](https://doi.org/10.1038/s43588-022-00269-2) -->
+
+### 2022
+- **Haplotype-phasing of long-read HiFi data to enhance structural variant detection through a Skip-Gram model**  
+  **C. Luo**, **P. A. Datar**, **Y. H. Liu**, **X. Zhou**  
+  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, Las Vegas, NV, USA, 2022, pp. 2326-2333  
+  [DOI: 10.1109/BIBM55620.2022.9995293](https://doi.org/10.1109/BIBM55620.2022.9995293)
+
+- **A comprehensive investigation of statistical and machine learning approaches for predicting complex human diseases on genomic variants**  
+  C. Wang, J. Zhang, **X. Zhou**, L. Zhang  
+  _Briefings in Bioinformatics_ (2022)  
+  [DOI: 10.1093/bib/bbac552](https://doi.org/10.1093/bib/bbac552)
+
+- **Automated filtering of genome-wide large deletions through an ensemble deep learning framework**  
+  **Y. Hu**, **S. Mangal**, L. Zhang, **X. Zhou**  
+  _Methods_  (2022) 206, 77-86 
+  [DOI: 10.1016/j.ymeth.2022.08.001](https://doi.org/10.1016/j.ymeth.2022.08.001)
+
+- **Graphing cell relations in spatial transcriptomics**  
+  **X. Zhou**  
+  _Nature Computational Science_ (2022) 2, 354-355  
   [DOI: 10.1038/s43588-022-00269-2](https://doi.org/10.1038/s43588-022-00269-2)
+
+- **Identification of cell types in multiplexed in situ images by combining protein expression and spatial information using CELESTA reveals novel spatial biology**  
+  W. Zhang, I. Li, N. E. Reticker-Flynn, Z. Good, S. Chang, N. Samusik, S. Saumyaa, Y. Li, **X. Zhou**, et al.  
+  _Nature Methods_ (2022) 9, 759–769  
+  [DOI: 10.1038/s41592-022-01498-z](https://doi.org/10.1038/s41592-022-01498-z)
+
+- **Strong gamma frequency oscillations in the adolescent prefrontal cortex**  
+  Z. Wang, B. Singh, **X. Zhou***, C. Constantinidis*
+  _Journal of Neuroscience_ (2022) 42 (14) 2917-2929  
+  [DOI: 10.1523/JNEUROSCI.1604-21.2022](https://doi.org/10.1523/JNEUROSCI.1604-21.2022)
+
+- **Benchmarking challenging small variants with linked and long reads**  
+  J. Wagner, N. D. Olson…, **X. Zhou**,…, J. Zook  
+  _Cell Genomics_ (2022) 2(5), 100128
+  [DOI: 10.1016/j.xgen.2022.100128](https://doi.org/10.1016/j.xgen.2022.100128)
+
+- **Neural mechanisms of working memory accuracy revealed by recurrent neural networks**  
+  **Y. Xie**, **Y. H. Liu**, C. Constantinidis, **X. Zhou**  
+  _Front. Syst. Neurosci._ (2022) 16:760864  
+  [DOI: 10.3389/fnsys.2022.760864](https://doi.org/10.3389/fnsys.2022.760864)
+
+- **A Bayesian factorization method to recover single-cell RNA sequencing data**  
+  **Z.-H. Wen**, **J. L. Langsam**, L. Zhang, W. Shen*, **X. Zhou***  
+  _Cell Reports Methods_ (2022) 2, 100133  
+  [DOI: 10.1016/j.crmeth.2021.100133](https://doi.org/10.1016/j.crmeth.2021.100133)
+
+
