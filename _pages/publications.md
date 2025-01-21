@@ -29,9 +29,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   J. Zhu, C. M. Garin, X.-L. Qi, A. Machado, Z. Wang, S. B. Hamed, T. R. Stanford, E. Salinas, C. T. Whitlow, A. W. Anderson, **X. M. Zhou**, F. Calabro, B. Luna, C. Constantinidis  
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.08.23.608315v1)
 
-- **stDyer enables spatial domain clustering with dynamic graph embedding**  
-  K. Xu, Y. Xu, Z. Wang, **X. M. Zhou**, L. Zhang  
-  [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.05.08.593252v2)
+
 
 - **Leveraging cross-source heterogeneity to improve the performance of bulk gene expression deconvolution**  
   W. Shen*, C. Liu, **Y. Hu**, Y. Lei, H.-S. Wong, S. Wu*, **X. M. Zhou**  
@@ -51,6 +49,11 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Peer-reviewed Publications
 
+### 2025
+- **stDyer enables spatial domain clustering with dynamic graph embedding**  
+  K. Xu, Y. Xu, Z. Wang, **X. M. Zhou**, L. Zhang  
+  _Genome Biology_ (2024) (accepted)
+  
 ### 2024
 - **VolcanoSV enables accurate and robust structural variant calling in diploid genomes from single-molecule long read sequencing**  
   **C. Luo†**, **Y. H. Liu†**, **X. M. Zhou**  
