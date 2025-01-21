@@ -17,7 +17,7 @@ always support data sharing in our community.
 
 Publications
 ===== -->
-Lab members are underlined.
+Lab members are **bold**.
 
 † denotes equal contribution   * denotes co-corresponding authors.
 
@@ -38,11 +38,11 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v1)
 
 - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data**  
-  **W. Yuan**, C. Luo, **Y. Hu**, L. Zhang, Z.-H. Wen, Y. H. Liu, X. Mallory, **X. M. Zhou**  
+  **W. Yuan**, **C. Luo**, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory, **X. M. Zhou**  
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.02.21.581409v1)
 
 - **MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning**  
-  **Y. Hu**, Y. Li, M. Xie, M. Rao, Y. H. Liu, **X. M. Zhou**  
+  **Y. Hu**, Y. Li, **M. Xie**, M. Rao, **Y. H. Liu**, **X. M. Zhou**  
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.02.21.581387v1)
 
 - **Large indel detection in region-based phased diploid assemblies from linked-reads**  
@@ -53,11 +53,11 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ### 2024
 - **VolcanoSV enables accurate and robust structural variant calling in diploid genomes from single-molecule long read sequencing**  
-  C. Luo†, Y. H. Liu†, **X. M. Zhou**  
+  **C. Luo†**, **Y. H. Liu†**, **X. M. Zhou**  
   _Nature Communications_ (2024) 15:6956. [DOI](https://doi.org/10.1038/s41467-024-51282-0)
 
 - **Benchmarking clustering, alignment, and integration methods for spatial transcriptomics**  
-  **Y. Hu**, M. Xie, Y. Li, M. Rao, W. Shen, C. Luo, H. Qin, J. Baek, **X. M. Zhou**  
+  **Y. Hu**, **M. Xie**, Y. Li, M. Rao, W. Shen, **C. Luo**, **H. Qin**, **J. Baek**, **X. M. Zhou**  
   _Genome Biology_ (2024) 25:212. [DOI](https://doi.org/10.1186/s13059-024-03361-0)
 
 - **SCCNAInfer: A robust and accurate tool to infer the absolute copy number on scDNA-seq data**  
@@ -69,7 +69,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   _iScience_ (2024) 27(8):110488. [DOI](https://doi.org/10.1016/j.isci.2024.110488)
 
 - **Tradeoffs in alignment and assembly-based methods for structural variant detection with long-read sequencing data**  
-  Y. H. Liu†, C. Luo†, S. G. Golding, J. B. Ioffe, **X. M. Zhou**  
+  **Y. H. Liu†**, **C. Luo†**, S. G. Golding, J. B. Ioffe, **X. M. Zhou**  
   _Nature Communications_ (2024) 15:2447. [DOI](https://doi.org/10.1038/s41467-024-46614-z)
 
 ### 2023
@@ -83,7 +83,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 - **Haplotyping-assisted diploid assembly and variant detection with linked-reads**  
   **Y. Hu**, C. Yang, L. Zhang*, **X. Zhou***  
-  _Methods in Molecular Biology (2023) 2590:161-182_
+  _Methods in Molecular Biology_ (2023) 2590:161-182
 
 ### 2022
 - **Graphing cell relations in spatial transcriptomics**  
