@@ -222,7 +222,7 @@ Principal Investigator
     </td> -->
 
 </tr>
-
+</table>
 
 # Summer Research Intern
 
