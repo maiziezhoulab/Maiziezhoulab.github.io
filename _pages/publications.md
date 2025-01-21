@@ -44,7 +44,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.02.21.581387v1)
 
 - **Large indel detection in region-based phased diploid assemblies from linked-reads.**  
-  **C. Luo**, B. A. Peters, **X. M. Zhou**. 
+  **C. Luo**, B. A. Peters, **X. M. Zhou**.    
   [_BMC Genomics_ (under revision) (2024)](https://www.biorxiv.org/content/10.1101/2024.02.21.581409v1)
 
 ## Peer-reviewed Publications
