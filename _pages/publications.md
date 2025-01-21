@@ -95,7 +95,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2022
 - **Haplotype-phasing of long-read HiFi data to enhance structural variant detection through a Skip-Gram model.**  
   **C. Luo**, **P. A. Datar**, **Y. H. Liu**, **X. Zhou**.    
-  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, 2022, pp. 2326-2333. [DOI](https://doi.org/10.1109/BIBM55620.2022.9995293)
+  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, (2022) pp. 2326-2333. [DOI](https://doi.org/10.1109/BIBM55620.2022.9995293)
 
 - **A comprehensive investigation of statistical and machine learning approaches for predicting complex human diseases on genomic variants.**  
   C. Wang, J. Zhang, **X. Zhou**, L. Zhang.     
@@ -132,7 +132,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2021
 - **An ensemble deep learning framework to refine large deletions in linked-reads.**  
   **Y. Hu**, **S. V. Mangal**, L. Zhang, **X. Zhou**.     
-  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2021), pp. 288-295. [DOI](https://doi.org/10.1109/BIBM52615.2021.9669571)
+  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2021) pp. 288-295. [DOI](https://doi.org/10.1109/BIBM52615.2021.9669571)
 
 - **The epithelial and stromal immune microenvironment in gastric cancer: a comprehensive analysis reveals prognostic factors with digital cytometry.**  
   W. Shen, G. Wang, **G. R. Cooper**, Y. Jiang, **X. Zhou**.     
