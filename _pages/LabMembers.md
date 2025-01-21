@@ -57,26 +57,26 @@ Current Students
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/Jiahao.jpg" class="student-profile-pic">
+            <img src="/images/students/manfeixie.jpeg" class="student-profile-pic">
         </div>
         <b>Manfei Xie</b> (2024 Spring – Present) <br>
         Ph.D. Student in Biomedical Engineering
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/jieyu.jpg" class="student-profile-pic">
+            <img src="/images/students/yuqi_lei.jpg" class="student-profile-pic">
         </div>
-        <b>Jieyu Li</b> (Fall 2023 - Present) <br>
-        Master Student at Vanderbilt (ECE) 
+        <b>Yuqi Lei</b> (Fall 2024 - Present) <br>
+        Ph.D. Student in Computer Science
     </td>
  </tr>
  <tr>
    <td>
         <div style="text-align: center">
-            <img src="/images/students/yueke.jpg" class="student-profile-pic">
+            <img src="/images/students/zhenhanLin.jpeg" class="student-profile-pic">
         </div>
-        <b><a href="https://zyueek.github.io" target="_blank">Yueke Zhang</a></b> (Fall 2023 - Present) <br>
-        Ph.D. Student at Vanderbilt 
+        <b>Zhenhan Lin</b> (Fall 2024 - Present) <br>
+        Ph.D. Student in Computer Science
     </td>
  </tr>
 </table>
@@ -85,27 +85,23 @@ Current Students
 ## Undergradudate Students
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
-
     <td>
         <div style="text-align: center">
-            <img src="/images/students/yuwei.jpeg" class="student-profile-pic">
+            <img src="/images/students/sona3.jpeg" class="student-profile-pic">
         </div>
-        <b>Yuwei Yang</b> (Summer 23 - Present) <br>
-        Undergraduate Researcher at Vanderbilt
+        <b>Sona Javadi</b> (Spring 23 - Present) <br>
+        Undergraduate Researcher in Computer Science
     </td>
-
-
     <td>
         <div style="text-align: center">
-            <img src="/images/students/suad.jpeg" class="student-profile-pic">
+            <img src="/images/students/Haoran.jpg" class="student-profile-pic">
         </div>
-        <b>Suad Hassan Mohamed</b> (Spring 24 - Present) <br>
-        Undergraduate Researcher at Belmont University
+        <b>Haoran (Hunter) Qin</b> (Spring 24 - Present) <br>
+        Undergraduate Researcher in Computer Science & Economics
     </td>
-
    <td>
         <div style="text-align: center">
-            <img src="/images/students/janice.jpg" class="student-profile-pic">
+            <img src="/images/students/Jimmy.jpg" class="student-profile-pic">
         </div>
         <b>Janice Chung</b> (Spring 24 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
