@@ -58,7 +58,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2024
 - **VolcanoSV enables accurate and robust structural variant calling in diploid genomes from single-molecule long read sequencing.**  
   **C. Luo**†, **Y. H. Liu**†, **X. M. Zhou**.  
-  _Nature Communications_ (2024) 15:6956. [DOI](https://doi.org/10.1038/s41467-024-51282-0)
+  [Nature Communications_ (2024) 15:6956](https://doi.org/10.1038/s41467-024-51282-0)
 
 - **Benchmarking clustering, alignment, and integration methods for spatial transcriptomics.**  
   **Y. Hu**, **M. Xie**, **Y. Li**, **M. Rao**, W. Shen, **C. Luo**, **H. Qin**, **J. Baek**, **X. M. Zhou**.  
@@ -145,7 +145,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 - **Editorial: predicting high-risk individuals for common diseases using multi-omics and epidemiological data.**  
   D. Chowdhury, **X. Zhou**, B. Li, Y. Zhang, W. K. Cheung, A. Lyu, L. Zhang.    
-  _Front. Genet. (2021) 12:737598. [DOI](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.737598/full)
+  _Front. Genet._ (2021) 12:737598. [DOI](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.737598/full)
 
 - **DeepDRIM: a deep neural network to reconstruct cell-type-specific gene regulatory network using single-cell RNA-Seq Data.**  
   J. Chen, C. Cheong, L. Lan, **X. Zhou**, J. Liu, A. Lyu, W. K. Cheung, L. Zhang.     
