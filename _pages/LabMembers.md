@@ -197,42 +197,55 @@ Current Students
  <!-- </tr> -->
 
 
+## High School Student Intern
+<table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
+ <tr>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/YiruChen.jpg" class="student-profile-pic">
+        </div>
+        <b>Yiru Chen</b> (2024 Spring – present) <br>
+        Biomedical Informatics, Zhejiang University  ’26
+    </td>
+    <!-- <td>
+        <div style="text-align: center">
+            <img src="/images/students/IMG_2146.jpg" class="student-profile-pic">
+        </div>
+        <b>Lily Wang</b> (2024/01 – present) <br>
+        The Harpeth Hall School
+    </td> -->
+   <!-- <td>
+        <div style="text-align: center">
+            <img src="/images/students/Jimmy.jpg" class="student-profile-pic">
+        </div>
+        <b>Janice Chung</b> (Summer 23 - Present) <br>
+        Undergraduate Researcher in Computer Science & Medicine, Health, and Society
+    </td> -->
 
-</table> 
+</tr>
 
-Emeritus Members
+
+Summer Research Intern
 =====
- <!-- <p> <img src="index_files/people/danielle.png" height="60"/>
-            Danielle Page </p>-->
 
+Supriyo Rana  BME, BS, 2023 Summer
 
+Neal Bagai  CS, BS, 2023 Summer
 
-<!-- <b>Yehan Subasinghe</b>: Summer 2024. Undergraduate researcher, Clark
-scholar
+Haoran (Hunter) Qin  CS & Economics, BS, 2023 Summer
 
-<b>Amanda Zhou</b>: Fall 2023 - Spring 2024. Undergraduate researcher 
+Jihoon Jimmy Baek   CS & Medicine, Health, and Society, BS, 2023 Summer
 
-<b>Anda Liang</b>: Spring 2022 - Summer 2024. Undergraduate researcher,
-moved on to NASA JPL
+Xinyu Gao  Data Science, MS, 2022 Summer
 
-<b>Eric Jiliang Li</b>: Summer 2022 - Summer 2024. Undergraduate researcher,
-moved on to Stanford University 
+Muwen Zhan  Data Science, MS, 2022 Summer
 
-<b>Ellie Li</b>: Summer 2023 - Spring 2024. Undergraduate researcher,
-moved on to Northwestern University 
+Cameron Pirozzi   BME & CS & Mathematics, BS, 2022 Summer
 
-<b>Haonan Hou</b>: Summer 2022 - Fall 2023. Undergraduate researcher, moved on to UC Berkeley 
+Georgia Reed Cooper   BME, BS,  2021 Summer  (Clark Scholars Program)
 
-<b>Weizhe Jiao</b>: Fall 2023 - Spring 2024. Undergraduate researcher 
+<!-- </table>  -->
 
-<b>Eamon (Yimeng) Ma</b>: Summer 2022 - Summer 2023. Undergraduate researcher, moved on to Duke University 
-
-<b>Danielle Page</b>: Fall 2022 - Fall 2023. Undergraduate researcher,
-moved on to ZeroWheel 
-
-<b>Garrett (Yuankai) Xue</b>: Summer 2023 - Fall 2023. Undergraduate researcher, moved on to Vanderbilt University, Master in Data Science
-
-<b>Hanlin Chen</b>: Summer 2023 - Fall 2023. Graduate researcher, moved on to Vanderbilt University, Master in Data Science
-               
-<b>Sawan Ahmed</b>: Summer 2022. Undergraduate researcher, Clark scholar  -->
-    
+Lab Alumni
+=====
+ 
