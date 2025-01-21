@@ -112,7 +112,7 @@ Current Students
  
 <td>
         <div style="text-align: center">
-            <img src="/images/students/manish.jpeg" class="student-profile-pic">
+            <img src="/images/students/yujiewang.jpg" class="student-profile-pic">
         </div>
         <b>Yujie Wang</b> (Summer 2024 - Present) <br>
         Undergraduate Researcher in Mathematics & Computer Science
@@ -207,7 +207,7 @@ Emeritus Members
 
 
 
-<b>Yehan Subasinghe</b>: Summer 2024. Undergraduate researcher, Clark
+<!-- <b>Yehan Subasinghe</b>: Summer 2024. Undergraduate researcher, Clark
 scholar
 
 <b>Amanda Zhou</b>: Fall 2023 - Spring 2024. Undergraduate researcher 
@@ -234,5 +234,5 @@ moved on to ZeroWheel
 
 <b>Hanlin Chen</b>: Summer 2023 - Fall 2023. Graduate researcher, moved on to Vanderbilt University, Master in Data Science
                
-<b>Sawan Ahmed</b>: Summer 2022. Undergraduate researcher, Clark scholar 
+<b>Sawan Ahmed</b>: Summer 2022. Undergraduate researcher, Clark scholar  -->
     
