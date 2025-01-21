@@ -95,13 +95,11 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2022
 - **Haplotype-phasing of long-read HiFi data to enhance structural variant detection through a Skip-Gram model.**  
   **C. Luo**, **P. A. Datar**, **Y. H. Liu**, **X. Zhou**.    
-  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, Las Vegas, NV, USA, 2022, pp. 2326-2333  
-  [DOI: 10.1109/BIBM55620.2022.9995293](https://doi.org/10.1109/BIBM55620.2022.9995293)
+  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, Las Vegas, NV, USA, 2022, pp. 2326-2333 [DOI](https://doi.org/10.1109/BIBM55620.2022.9995293)
 
 - **A comprehensive investigation of statistical and machine learning approaches for predicting complex human diseases on genomic variants.**  
   C. Wang, J. Zhang, **X. Zhou**, L. Zhang.     
-  _Briefings in Bioinformatics_ (2022)  
-  [DOI: 10.1093/bib/bbac552](https://doi.org/10.1093/bib/bbac552)
+  _Briefings in Bioinformatics_ (2022)  [DOI](https://doi.org/10.1093/bib/bbac552)
 
 - **Automated filtering of genome-wide large deletions through an ensemble deep learning framework.**  
   **Y. Hu**, **S. Mangal**, L. Zhang, **X. Zhou**.    
