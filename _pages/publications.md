@@ -77,15 +77,31 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   J. Zhu, B. Hammond, **X. M. Zhou**, C. Constantinidis  
   _Journal of Neurophysiology_ (2023) 130(4):980-989.
 
+- **Editorial: predicting high-risk individuals for common diseases using multi-omics and epidemiological data, volume II**  
+  W. P. Veldsman, **X. M. Zhou**, Y. Zhang, B. Li, L. Zhang.
+  _Front. Genet._ (2023) 14:1280648.
+
 - **ADEPT: Autoencoder with differentially expressed genes and imputation for robust spatial transcriptomics clustering**  
   **Y. Hu†**, Y. Zhao†, C. T. Schunk, Y. Ma, T. Derr*, **X. M. Zhou***  
   _iScience_ (2023) 26(6):106792. [DOI](https://doi.org/10.1016/j.isci.2023.106792)
 
 - **Haplotyping-assisted diploid assembly and variant detection with linked-reads**  
   **Y. Hu**, C. Yang, L. Zhang*, **X. Zhou***  
-  _Methods in Molecular Biology_ (2023) 2590:161-182
+  _Methods in Molecular Biology_ (2023) 2590:161-182. doi: 10.1007/978-1-0716-2819-5_1. PMID: 36335499.
 
 ### 2022
+- **Haplotype-phasing of long-read HiFi data to enhance structural variant detection through a Skip-Gram model**  
+  **C. Luo**, **P. A. Datar**, **Y. H. Liu**, **X. Zhou**  
+  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2022), Las Vegas, NV, USA, 2022, pp. 2326-2333, doi: 10.1109/BIBM55620.2022.9995293.
+
+- **A comprehensive investigation of statistical and machine learning approaches for predicting complex human diseases on genomic variants**  
+  C. Wang, J. Zhang, **X. Zhou**, L. Zhang. 
+  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2022), Las Vegas, NV, USA, 2022, pp. 2326-2333, doi: 10.1109/BIBM55620.2022.9995293.
+
+- **Automated filtering of genome-wide large deletions through an ensemble deep learning framework**  
+  **Y. Hu**, **S. Mangal**, L. Zhang, **X. Zhou**.
+  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2022), Las Vegas, NV, USA, 2022, pp. 2326-2333, doi: 10.1109/BIBM55620.2022.9995293.
+
 - **Graphing cell relations in spatial transcriptomics**  
   **X. Zhou**  
   _Nature Computational Science (2022) 2, 354-355_  
