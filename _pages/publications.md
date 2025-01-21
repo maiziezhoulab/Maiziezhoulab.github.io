@@ -90,7 +90,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 - **Haplotyping-assisted diploid assembly and variant detection with linked-reads.**  
   **Y. Hu**†, C. Yang†, L. Zhang\*, **X. Zhou**\*.      
-  _Methods in Molecular Biology_ (2023) 2590:161-182. doi: 10.1007/978-1-0716-2819-5_1. PMID: 36335499.
+  _Methods in Molecular Biology_ (2023) 2590:161-182. [DOI](https://link.springer.com/protocol/10.1007/978-1-0716-2819-5_11)
 
 ### 2022
 - **Haplotype-phasing of long-read HiFi data to enhance structural variant detection through a Skip-Gram model.**  
@@ -103,8 +103,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 - **Automated filtering of genome-wide large deletions through an ensemble deep learning framework.**  
   **Y. Hu**, **S. Mangal**, L. Zhang, **X. Zhou**.    
-  _Methods_  (2022) 206, 77-86 
-  [DOI: 10.1016/j.ymeth.2022.08.001](https://doi.org/10.1016/j.ymeth.2022.08.001)
+  _Methods_  (2022) 206, 77-86 [DOI](https://doi.org/10.1016/j.ymeth.2022.08.001)
 
 - **Graphing cell relations in spatial transcriptomics.**  
   **X. Zhou**.     
@@ -112,44 +111,36 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 - **Identification of cell types in multiplexed in situ images by combining protein expression and spatial information using CELESTA reveals novel spatial biology.**  
   W. Zhang, I. Li, N. E. Reticker-Flynn, Z. Good, S. Chang, N. Samusik, S. Saumyaa, Y. Li, **X. Zhou**, et al.      
-  _Nature Methods_ (2022) 9, 759–769  
-  [DOI: 10.1038/s41592-022-01498-z](https://doi.org/10.1038/s41592-022-01498-z)
+  _Nature Methods_ (2022) 9, 759–769  [DOI](https://doi.org/10.1038/s41592-022-01498-z)
 
 - **Strong gamma frequency oscillations in the adolescent prefrontal cortex.**  
   Z. Wang, B. Singh, **X. Zhou**\*, C. Constantinidis\*.    
-  _Journal of Neuroscience_ (2022) 42 (14) 2917-2929  
-  [DOI: 10.1523/JNEUROSCI.1604-21.2022](https://doi.org/10.1523/JNEUROSCI.1604-21.2022)
+  _Journal of Neuroscience_ (2022) 42 (14) 2917-2929  [DOI](https://doi.org/10.1523/JNEUROSCI.1604-21.2022)
 
 - **Benchmarking challenging small variants with linked and long reads.**  
   J. Wagner, N. D. Olson…, **X. Zhou**,…, J. Zook.      
-  _Cell Genomics_ (2022) 2(5), 100128
-  [DOI: 10.1016/j.xgen.2022.100128](https://doi.org/10.1016/j.xgen.2022.100128)
+  _Cell Genomics_ (2022) 2(5), 100128  [DOI](https://doi.org/10.1016/j.xgen.2022.100128)
 
 - **Neural mechanisms of working memory accuracy revealed by recurrent neural networks.**  
   **Y. Xie**, **Y. H. Liu**, C. Constantinidis, **X. Zhou**.    
-  _Front. Syst. Neurosci._ (2022) 16:760864  
-  [DOI: 10.3389/fnsys.2022.760864](https://doi.org/10.3389/fnsys.2022.760864)
+  _Front. Syst. Neurosci._ (2022) 16:760864  [DOI](https://doi.org/10.3389/fnsys.2022.760864)
 
 - **A Bayesian factorization method to recover single-cell RNA sequencing data.**  
   **Z.-H. Wen**, **J. L. Langsam**, L. Zhang, W. Shen\*, **X. Zhou**\*.     
-  _Cell Reports Methods_ (2022) 2, 100133  
-  [DOI: 10.1016/j.crmeth.2021.100133](https://doi.org/10.1016/j.crmeth.2021.100133)
+  _Cell Reports Methods_ (2022) 2, 100133  [DOI](https://doi.org/10.1016/j.crmeth.2021.100133)
 
 ### 2021
 - **An ensemble deep learning framework to refine large deletions in linked-reads.**  
   **Y. Hu**, **S. V. Mangal**, L. Zhang, **X. Zhou**.     
-  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2021), pp. 288-295  
-  [DOI: 10.1109/BIBM52615.2021.9669571](https://doi.org/10.1109/BIBM52615.2021.9669571)
+  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (2021), pp. 288-295 [DOI](https://doi.org/10.1109/BIBM52615.2021.9669571)
 
 - **The epithelial and stromal immune microenvironment in gastric cancer: a comprehensive analysis reveals prognostic factors with digital cytometry.**  
   W. Shen, G. Wang, **G. R. Cooper**, Y. Jiang, **X. Zhou**.     
-  _Cancers (Basel)_ (2021) 13(21):5382  
-  [DOI: 10.3390/cancers13215382](https://doi.org/10.3390/cancers13215382)
+  _Cancers (Basel)_ (2021) 13(21):5382  [DOI](https://doi.org/10.3390/cancers13215382)
 
 - **Emergence of prefrontal neuron maturation properties by training recurrent neural networks in cognitive tasks.**  
   **Y. H. Liu**, J. Zhu, C. Constantinidis, **X. Zhou**.     
-  _iScience_ (2021) 24(10):103178  
-  [DOI: 10.1016/j.isci.2021.103178](https://doi.org/10.1016/j.isci.2021.103178)
+  _iScience_ (2021) 24(10):103178  [DOI](https://doi.org/10.1016/j.isci.2021.103178)
 
 - **Editorial: predicting high-risk individuals for common diseases using multi-omics and epidemiological data.**  
   D. Chowdhury, **X. Zhou**, B. Li, Y. Zhang, W. K. Cheung, A. Lyu, L. Zhang.    
@@ -157,17 +148,14 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 - **DeepDRIM: a deep neural network to reconstruct cell-type-specific gene regulatory network using single-cell RNA-Seq Data.**  
   J. Chen, C. Cheong, L. Lan, **X. Zhou**, J. Liu, A. Lyu, W. K. Cheung, L. Zhang.     
-  _Briefings in Bioinformatics_ (2021) 22(6):bbab325  
-  [DOI: 10.1093/bib/bbab325](https://doi.org/10.1093/bib/bbab325)
+  _Briefings in Bioinformatics_ (2021) 22(6):bbab325  [DOI](https://doi.org/10.1093/bib/bbab325)
 
 - **Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes.**  
   **S. Li**†, **Z. Guo**†, **J. B. Ioffe**, **Y. Hu**, Y. Zhen\*, **X. Zhou**\*.    
-  _Scientific Reports_  (2021) 11(1):15269 
-  [DOI: 10.1038/s41598-021-94742-z](https://doi.org/10.1038/s41598-021-94742-z) 
+  _Scientific Reports_  (2021) 11(1):15269 [DOI](https://doi.org/10.1038/s41598-021-94742-z) 
 
 - **Aquila_stLFR: diploid genome assembly based structural variant calling package for stLFR linked-reads.**  
   **Y. H. Liu**, **G. L. Grubbs**, L. Zhang, X. Fang, D. L. Dill, A. Sidow, **X. Zhou**.     
-  _Bioinformatics Advances_ (2021) 1, vbab007 
-  [DOI: 10.1093/bioadv/vbab007](https://doi.org/10.1093/bioadv/vbab007)
+  _Bioinformatics Advances_ (2021) 1, vbab007 [DOI](https://doi.org/10.1093/bioadv/vbab007)
 
 ### 2020 and earlier
