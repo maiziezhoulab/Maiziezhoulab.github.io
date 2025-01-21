@@ -72,7 +72,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   _iScience_ (2024) 27(8):110488. [DOI](https://doi.org/10.1016/j.isci.2024.110488)
 
 - **Tradeoffs in alignment and assembly-based methods for structural variant detection with long-read sequencing data.**  
-  **Y. H. Liu**†, **C. Luo**†, S. G. Golding, J. B. Ioffe, **X. M. Zhou**.
+  **Y. H. Liu**†, **C. Luo**†, S. G. Golding, J. B. Ioffe, **X. M. Zhou**.    
   _Nature Communications_ (2024) 15:2447. [DOI](https://doi.org/10.1038/s41467-024-46614-z)
 
 ### 2023
