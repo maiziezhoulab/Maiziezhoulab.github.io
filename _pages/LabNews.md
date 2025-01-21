@@ -40,13 +40,13 @@ author_profile: true
 
 ### VADD Travel Funds
 - **Jul. 3, 2024**  
-  Congratulations to **Yunfei (Oliver)** for receiving the **2024 VADD Travel Funds**.
+  Congratulations to **Yunfei** for receiving the **2024 VADD Travel Funds**.
 
 ### Graduate School Travel Grants
 - **Apr. 14, 2024**  
   Congratulations to **Can** for receiving the **2024 Graduate School Travel Grant**.
 - **Mar. 20, 2024**  
-  Congratulations to **Yunfei (Oliver)** for receiving the **2024 Graduate School Travel Grant**.
+  Congratulations to **Yunfei** for receiving the **2024 Graduate School Travel Grant**.
 - **Mar. 18, 2024**  
   Congratulations to **Weiman** for receiving the **2024 Graduate School Travel Grant**.
 - **Mar. 20, 2023**  
