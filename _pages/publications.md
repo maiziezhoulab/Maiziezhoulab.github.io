@@ -32,7 +32,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 
 - **Leveraging cross-source heterogeneity to improve the performance of bulk gene expression deconvolution.**  
-  W. Shen*, C. Liu, **Y. Hu**, Y. Lei, H.-S. Wong*, S. Wu*, **X. M. Zhou** *.  
+  W. Shen*, C. Liu, **Y. Hu**, Y. Lei, H.-S. Wong*, S. Wu*, **X. M. Zhou\***.  
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v1)
 
 - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data.**  
@@ -51,7 +51,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ### 2025
 - **stDyer enables spatial domain clustering with dynamic graph embedding.**  
-  K. Xu, Y. Xu, Z. Wang, **X. M. Zhou***, L. Zhang*.  
+  K. Xu, Y. Xu, Z. Wang, **X. M. Zhou\***, L. Zhang*.  
   _Genome Biology_ (2024) (accepted)
   
 ### 2024
