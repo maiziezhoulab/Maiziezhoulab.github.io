@@ -12,8 +12,8 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/maizie_profile.jpg" class="student-profile-pic">
         </div>
-        <b><a href="https://maiziezhoulab.github.io/" target="_blank">Maizie Zhou</a></b>  <br>
-        Assistant Professor, Biomedical Engineering (Primary) and Computer Science 
+        <b><a href="https://maiziezhoulab.github.io/" target="_blank">Xin Maizie Zhou</a></b>  <br>
+        Assistant Professor, Biomedical Engineering (Primary) and Computer Science <br>
         Maizie completed her undergraduate study at Huazhong University of Science and Technology (HUST) in China and holds a Ph.D. in Neuroscience from Wake Forest School of Medicine, and a Ph.D. in Computer Science from Stanford University, where she was supported by a fellowship by the US National Institute of Standards and Technology and the Enlight Foundation. Maizie joined Vandy as an Assistant Professor in August 2020. She is the recipient of an outstanding investigator award (R35) from the National Institutes of Health.
     </td>
  </tr>
