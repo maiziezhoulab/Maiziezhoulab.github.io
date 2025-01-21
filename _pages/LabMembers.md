@@ -196,7 +196,7 @@ Principal Investigator
  <!-- </tr> -->
 </table>
 
-## High School Student Intern
+## Remote Student Intern
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
     <td>
