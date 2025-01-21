@@ -32,7 +32,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 
 - **Leveraging cross-source heterogeneity to improve the performance of bulk gene expression deconvolution.**  
-  W. Shen*, C. Liu, **Y. Hu**, Y. Lei, H.-S. Wong*, S. Wu*, **X. M. Zhou\***.  
+  W. Shen\*, C. Liu, **Y. Hu**, Y. Lei, H.-S. Wong*, S. Wu\*, **X. M. Zhou\***.  
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v1)
 
 - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data.**  
@@ -89,7 +89,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   _iScience_ (2023) 26(6):106792. [DOI](https://doi.org/10.1016/j.isci.2023.106792)
 
 - **Haplotyping-assisted diploid assembly and variant detection with linked-reads.**  
-  **Y. Hu**, C. Yang, L. Zhang*, **X. Zhou***.  
+  **Y. Hu**, C. Yang, L. Zhang\*, **X. Zhou**\*.  
   _Methods in Molecular Biology_ (2023) 2590:161-182. doi: 10.1007/978-1-0716-2819-5_1. PMID: 36335499.
 
 ### 2022
@@ -119,7 +119,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   [DOI: 10.1038/s41592-022-01498-z](https://doi.org/10.1038/s41592-022-01498-z)
 
 - **Strong gamma frequency oscillations in the adolescent prefrontal cortex.**  
-  Z. Wang, B. Singh, **X. Zhou***, C. Constantinidis*.
+  Z. Wang, B. Singh, **X. Zhou**\*, C. Constantinidis\*.
   _Journal of Neuroscience_ (2022) 42 (14) 2917-2929  
   [DOI: 10.1523/JNEUROSCI.1604-21.2022](https://doi.org/10.1523/JNEUROSCI.1604-21.2022)
 
@@ -134,7 +134,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   [DOI: 10.3389/fnsys.2022.760864](https://doi.org/10.3389/fnsys.2022.760864)
 
 - **A Bayesian factorization method to recover single-cell RNA sequencing data.**  
-  **Z.-H. Wen**, **J. L. Langsam**, L. Zhang, W. Shen*, **X. Zhou***.  
+  **Z.-H. Wen**, **J. L. Langsam**, L. Zhang, W. Shen\*, **X. Zhou**\*.  
   _Cell Reports Methods_ (2022) 2, 100133  
   [DOI: 10.1016/j.crmeth.2021.100133](https://doi.org/10.1016/j.crmeth.2021.100133)
 
@@ -164,7 +164,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   [DOI: 10.1093/bib/bbab325](https://doi.org/10.1093/bib/bbab325)
 
 - **Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes.**  
-  **S. Li†**, **Z. Guo†**, **J. B. Ioffe**, **Y. Hu**, Y. Zhen*, **X. Zhou***. 
+  **S. Li†**, **Z. Guo†**, **J. B. Ioffe**, **Y. Hu**, Y. Zhen\*, **X. Zhou**\*. 
   _Scientific Reports_  (2021) 11(1):15269 
   [DOI: 10.1038/s41598-021-94742-z](https://doi.org/10.1038/s41598-021-94742-z) 
 
