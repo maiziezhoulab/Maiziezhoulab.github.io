@@ -4,7 +4,6 @@ title: "Lab News"
 permalink: /LabNews/
 author_profile: true
 ---
-# Lab News
 
 ## Paper Acceptances
 
@@ -32,6 +31,9 @@ author_profile: true
 - **Nov. 29, 2023**  
   Our Research Topic *“Towards a More Complete and Accurate Personal Genome Sequence: Methods and Use Cases”* in **Frontiers in Genetics** is accepted and online! We welcome all forms of submissions, including Original Research Articles, Review Articles, Method Articles, and more.
 
+- **Mar. 1, 2023**
+  Congrats to **Yunfei (Oliver) Hu** and **Yuying Zhao** (from Prof. Derr’s lab)! Their paper, *“ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering”* has been selected as a proceedings track paper for **RECOMB-Seq** 2023 and is also being considered for publication in iScience. https://recomb-seq.github.io/program/  
+
 ---
 
 ## Awards and Achievements
@@ -42,10 +44,14 @@ author_profile: true
   Congratulations to **Can** for receiving the **2024 Graduate School Travel Grant**.
 - **Mar. 20, 2024**  
   Congratulations to **Yunfei** for receiving the **2024 Graduate School Travel Grant**.
-- **Mar. 20, 2023**  
-  Congratulations to **Yunfei** for receiving the **2022-2023 Graduate School Travel Grant**! He presented his work *“ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering”* in Istanbul, Turkey, on April 15th at **RECOMB-Seq**. [View program](https://recomb-seq.github.io/program/).
 - **Mar. 18, 2024**  
   Congratulations to **Weiman** for receiving the **2024 Graduate School Travel Grant**.
+- **Mar. 20, 2023**  
+  Congratulations to **Yunfei** for receiving the **2022-2023 Graduate School Travel Grant**! He presented his work *“ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering”* in Istanbul, Turkey, on April 15th at **RECOMB-Seq**. [View program](https://recomb-seq.github.io/program/).
+- **Dec. 12, 2022**
+  Congratulations to **Can** for receiving the **2022-2023 Graduate School Travel Grant**
+- **Dec. 15, 2021**
+  Congratulations to **Yunfei (Oliver)** for receiving the **student travel award from IEEE BIBM**!
 ---
 
 ## Milestones
@@ -53,9 +59,49 @@ author_profile: true
 - **Mar. 19, 2024**  
   Congratulations to **Can**, she passed her **qualifying exam** today!
 
+- **Nov. 16, 2022**  
+  Yunfei and Yichen pass their CS Ph.D. prelim exams.
+
+- **May. 4, 2022**  
+  Parth Datar successfully defends his CS Master’s thesis in April 22~
+
 ---
+
+
+## Invited Talk
+
+- **Dec. 12, 2022**  
+  Maizie is invited to speak at the 2nd Annual **Spatial Biology Congress**.
+
+- **Nov. 14, 2022**
+  Maizie has been invited to give a data science talk titled *“Big genomic data: algorithm design and applications”* on Tuesday, November 15, 2022, at the Department of Computer Science of Tennessee State University.
+
+- **Aug. 28, 2022**
+  Maizie has been invited to give a colloquium talk titled *“Methods for characterizing structural variants with high-throughput sequencing data”* on Friday, November 18, 2022, at the Department of Computer Science of Florida State University.
+
+- **Apr. 18, 2022**
+  Maizie is invited to give a talk on April 22 at the 6th Annual Translational and Transformative Informatics Symposium (ATTIS), which is sponsored by UAB Informatics Institute and the Center for Clinical and Translational Science. 
+
+- **Jan. 25, 2022**
+  Maizie has been invited to present a research seminar on Friday, April 01, 2022, at Bioengineering of the University of Toledo.  
+  
+- **Dec. 13, 2021**
+  Maizie has been invited to present a virtual research seminar on Friday, March 18, 2022 at the University of Arkansas BME.
+
+- **Oct. 3, 2021**
+  Maizie has been invited to give a talk on Friday, October 22, 2021 at “Frontiers of Biomedical Imaging Science” that is being organized at VUIIS. These lectures are planned to be held over Zoom, as the audience will consist of researchers across imaging fields at a variety of institutions.
+
+---
+
+
 
 ## Grants
 
 - **Aug. 2, 2023**  
   Our **R35 Maximizing Investigators’ Research Award (MIRA)** supplement proposal was funded by the **National Institute of General Medical Sciences**! Many thanks for the support!
+
+- **Feb. 9, 2023**
+  We received funding support from **Vanderbilt Brain Institute**!
+
+- **Dec. 16, 2022**
+  We received funding support from **Complete Genomics** for stLFR research!
