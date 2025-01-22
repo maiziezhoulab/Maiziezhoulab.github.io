@@ -60,10 +60,10 @@ author_profile: true
   Congratulations to **Can**, she passed her qualifying exam today!
 
 - **Nov. 16, 2022**  
-  Yunfei and Yichen pass their CS Ph.D. prelim exams.
+  **Yunfei** and **Yichen** pass their CS Ph.D. prelim exams.
 
 - **May. 4, 2022**  
-  Parth Datar successfully defends his CS Master’s thesis in April 22~
+  **Parth Datar** successfully defends his CS Master’s thesis in April 22~
 
 ---
 
