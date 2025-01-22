@@ -58,7 +58,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/weimanyuan.jpeg" class="student-profile-pic">
         </div>
-        <b>Weiman Yuan</b> <br>(Fall 2023 - Present) <br>
+        <b>Weiman Yuan</b> <br>(Fall 2022 - Present) <br>
         Ph.D. Student in Biomedical Engineering
     </td>
     <td>
