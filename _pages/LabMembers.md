@@ -42,14 +42,14 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/Canluo.jpeg" class="student-profile-pic">
         </div>
-        <b>Can Luo</b> (Fall 2021 - Present) <br>
+        <b>Can Luo</b> <br> (Fall 2021 - Present) <br>
         Ph.D. Candidate in Biomedical Engineering
     </td>
     <td>
         <div style="text-align: center">
             <img src="/images/students/yunfei.jpeg" class="student-profile-pic" >
         </div>
-        <b><a href="https://oliiverhu.github.io/" target="_blank">Yunfei Hu</a></b> (Fall 2021 - Present) <br>
+        <b><a href="https://oliiverhu.github.io/" target="_blank">Yunfei Hu</a></b> <br>(Fall 2021 - Present) <br>
         Ph.D. Candidate in Computer Science 
     </td>
  </tr>
@@ -58,21 +58,21 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/weimanyuan.jpeg" class="student-profile-pic">
         </div>
-        <b>Weiman Yuan</b> (Fall 2023 - Present) <br>
+        <b>Weiman Yuan</b> <br>(Fall 2023 - Present) <br>
         Ph.D. Student in Biomedical Engineering
     </td>
     <td>
         <div style="text-align: center">
             <img src="/images/students/manfeixie.jpeg" class="student-profile-pic">
         </div>
-        <b>Manfei Xie</b> (2024 Spring – Present) <br>
+        <b>Manfei Xie</b> <br>(2024 Spring – Present) <br>
         Ph.D. Student in Biomedical Engineering
     </td>
     <td>
         <div style="text-align: center">
             <img src="/images/students/yuqi_lei.jpg" class="student-profile-pic">
         </div>
-        <b>Yuqi Lei</b> (Fall 2024 - Present) <br>
+        <b>Yuqi Lei</b> <br> (Fall 2024 - Present) <br>
         Ph.D. Student in Computer Science
     </td>
  </tr>
@@ -81,7 +81,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/zhenhanLin.jpeg" class="student-profile-pic">
         </div>
-        <b>Zhenhan Lin</b> (Fall 2024 - Present) <br>
+        <b>Zhenhan Lin</b> <br> (Fall 2024 - Present) <br>
         Ph.D. Student in Computer Science
     </td>
  </tr>
