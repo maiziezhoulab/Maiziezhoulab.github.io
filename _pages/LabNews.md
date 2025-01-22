@@ -25,13 +25,13 @@ author_profile: true
 - **Mar. 4, 2024**  
   Congrats to **Yichen (Henry)** and **Can**! Their paper, *“Tradeoffs in alignment and assembly-based methods for structural variant detection with long-read sequencing data”*, has just been accepted for publication in **Nature Communications**.
 
-- **Apr. 27, 2023**  
+- **Apr. 27, 2023**     
   Our paper, *“ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering”*, has just been accepted to the journal **iScience**.
 
-- **Nov. 29, 2023**  
+- **Nov. 29, 2023**      
   Our Research Topic *“Towards a More Complete and Accurate Personal Genome Sequence: Methods and Use Cases”* in **Frontiers in Genetics** is accepted and online! We welcome all forms of submissions, including Original Research Articles, Review Articles, Method Articles, and more.
 
-- **Mar. 1, 2023**
+- **Mar. 1, 2023**    
   Congrats to **Yunfei (Oliver) Hu** and **Yuying Zhao** (from Prof. Derr’s lab)! Their paper, *“ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering”* has been selected as a proceedings track paper for **RECOMB-Seq** 2023 and is also being considered for publication in iScience. https://recomb-seq.github.io/program/  
 
 ---
