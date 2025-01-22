@@ -48,9 +48,9 @@ author_profile: true
   Congratulations to **Weiman** for receiving the **2024 Graduate School Travel Grant**.
 - **Mar. 20, 2023**  
   Congratulations to **Yunfei** for receiving the **2022-2023 Graduate School Travel Grant**.
-- **Dec. 12, 2022**
+- **Dec. 12, 2022**    
   Congratulations to **Can** for receiving the **2022-2023 Graduate School Travel Grant**.
-- **Dec. 15, 2021**
+- **Dec. 15, 2021**     
   Congratulations to **Yunfei (Oliver)** for receiving the **student travel award from IEEE BIBM**.
 ---
 
