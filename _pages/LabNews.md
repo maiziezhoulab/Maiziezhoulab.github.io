@@ -68,6 +68,25 @@ author_profile: true
 ---
 
 
+## Grants
+- **Dec. 19, 2024**
+  Our proposal *"Next generation of spatial transcriptomics analysis tools to understand somatosensation development"* has been selected as an awardee for the **Seeding Success** -  Fall 2024 cycle.
+  
+- **Aug. 2, 2023**     
+  Our **R35 Maximizing Investigators’ Research Award (MIRA) supplement** proposal was funded by the **National Institute of General Medical Sciences**! Many thanks for the support!
+
+- **Feb. 9, 2023**   
+  We received funding support from **Vanderbilt Brain Institute**!
+
+- **Dec. 16, 2022**    
+  We received funding support from **Complete Genomics** for stLFR research!
+
+- **Sep. 20, 2022**    
+  Our **R35 Maximizing Investigators’ Research Award (MIRA)** proposal was funded by the National Institute of General Medical Sciences! The grant will support our work on algorithm design for structural variant detection through different high-throughput sequencing data. We are so excited!
+
+---
+
+
 ## Invited Talk
 
 - **Dec. 12, 2022**  
@@ -93,15 +112,3 @@ author_profile: true
 
 ---
 
-
-
-## Grants
-
-- **Aug. 2, 2023**     
-  Our **R35 Maximizing Investigators’ Research Award (MIRA)** supplement proposal was funded by the **National Institute of General Medical Sciences**! Many thanks for the support!
-
-- **Feb. 9, 2023**   
-  We received funding support from **Vanderbilt Brain Institute**!
-
-- **Dec. 16, 2022**    
-  We received funding support from **Complete Genomics** for stLFR research!
