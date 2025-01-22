@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maizie Zhou test"
+title                    : "Maizie Zhou Lab"
 title_separator          : "-"
-name                     : &name "Maizie Zhou Lab"
+name                     : &name "Maizie Zhou"
 description              : &description "personal description"
 url                      : "https://maiziezhoulab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
