@@ -235,3 +235,12 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 - **Comparison of neural activity related to working memory in primate dorsolateral prefrontal and posterior parietal cortex.**  
   X.-L. Qi, F. Katsuki, T. Meyer, J. B. Rawley, **X. Zhou**, K. Douglas, C. Constantinidis.       
   _Front. Syst. Neurosci._ (2010) 4:12.
+
+## Book Chapters
+- **Dynamic interactions in prefrontal functional connectivity during adolescence.**  
+  **X. Zhou**, E. Salinas, T. R. Stanford, C. Constantinidis.     
+  _In: Advances in Cognitive Neurodynamics (V)_ (2016) R. Wang and X. Pan, Editors. Springer. pp. 193-197
+
+- **Neurophysiological mechanisms of working memory: cortical specialization & plasticity..**  
+  X.-L. Qi, **X. Zhou**, C. Constantinidis.  
+  _In: Attention and Performance XXV_ (2015). Jolicoeur P., Lefebvre C. and Martinez-Trujillo J., Editors. Academic Press. pp. 171-186
