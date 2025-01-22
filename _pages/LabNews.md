@@ -47,11 +47,11 @@ author_profile: true
 - **Mar. 18, 2024**  
   Congratulations to **Weiman** for receiving the **2024 Graduate School Travel Grant**.
 - **Mar. 20, 2023**  
-  Congratulations to **Yunfei** for receiving the **2022-2023 Graduate School Travel Grant**! He presented his work *“ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering”* in Istanbul, Turkey, on April 15th at **RECOMB-Seq**. [View program](https://recomb-seq.github.io/program/).
+  Congratulations to **Yunfei** for receiving the **2022-2023 Graduate School Travel Grant**.
 - **Dec. 12, 2022**
-  Congratulations to **Can** for receiving the **2022-2023 Graduate School Travel Grant**
+  Congratulations to **Can** for receiving the **2022-2023 Graduate School Travel Grant**.
 - **Dec. 15, 2021**
-  Congratulations to **Yunfei (Oliver)** for receiving the **student travel award from IEEE BIBM**!
+  Congratulations to **Yunfei (Oliver)** for receiving the **student travel award from IEEE BIBM**.
 ---
 
 ## Milestones
