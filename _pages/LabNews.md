@@ -69,7 +69,7 @@ author_profile: true
 
 
 ## Grants
-- **Dec. 19, 2024**
+- **Dec. 19, 2024**    
   Our proposal for spatial transcriptomics research has been selected as an awardee for the **Seeding Success** -  Fall 2024 cycle.
   
 - **Aug. 2, 2023**     
