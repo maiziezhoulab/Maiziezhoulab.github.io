@@ -57,7 +57,7 @@ author_profile: true
 ## Milestones
 
 - **Mar. 19, 2024**  
-  Congratulations to **Can**, she passed her **qualifying exam** today!
+  Congratulations to **Can**, she passed her qualifying exam today!
 
 - **Nov. 16, 2022**  
   Yunfei and Yichen pass their CS Ph.D. prelim exams.
@@ -71,24 +71,24 @@ author_profile: true
 ## Invited Talk
 
 - **Dec. 12, 2022**  
-  Maizie is invited to speak at the 2nd Annual **Spatial Biology Congress**.
+  Maizie is invited to speak at the 2nd Annual Spatial Biology Congress.
 
-- **Nov. 14, 2022**
+- **Nov. 14, 2022**   
   Maizie has been invited to give a data science talk titled *“Big genomic data: algorithm design and applications”* on Tuesday, November 15, 2022, at the Department of Computer Science of Tennessee State University.
 
-- **Aug. 28, 2022**
+- **Aug. 28, 2022**     
   Maizie has been invited to give a colloquium talk titled *“Methods for characterizing structural variants with high-throughput sequencing data”* on Friday, November 18, 2022, at the Department of Computer Science of Florida State University.
 
-- **Apr. 18, 2022**
+- **Apr. 18, 2022**    
   Maizie is invited to give a talk on April 22 at the 6th Annual Translational and Transformative Informatics Symposium (ATTIS), which is sponsored by UAB Informatics Institute and the Center for Clinical and Translational Science. 
 
-- **Jan. 25, 2022**
+- **Jan. 25, 2022**    
   Maizie has been invited to present a research seminar on Friday, April 01, 2022, at Bioengineering of the University of Toledo.  
   
-- **Dec. 13, 2021**
+- **Dec. 13, 2021**    
   Maizie has been invited to present a virtual research seminar on Friday, March 18, 2022 at the University of Arkansas BME.
 
-- **Oct. 3, 2021**
+- **Oct. 3, 2021**    
   Maizie has been invited to give a talk on Friday, October 22, 2021 at “Frontiers of Biomedical Imaging Science” that is being organized at VUIIS. These lectures are planned to be held over Zoom, as the audience will consist of researchers across imaging fields at a variety of institutions.
 
 ---
@@ -97,11 +97,11 @@ author_profile: true
 
 ## Grants
 
-- **Aug. 2, 2023**  
+- **Aug. 2, 2023**     
   Our **R35 Maximizing Investigators’ Research Award (MIRA)** supplement proposal was funded by the **National Institute of General Medical Sciences**! Many thanks for the support!
 
-- **Feb. 9, 2023**
+- **Feb. 9, 2023**   
   We received funding support from **Vanderbilt Brain Institute**!
 
-- **Dec. 16, 2022**
+- **Dec. 16, 2022**    
   We received funding support from **Complete Genomics** for stLFR research!
