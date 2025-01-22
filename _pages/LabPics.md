@@ -48,3 +48,23 @@ author_profile: true
   </p>
 </div>
 
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/images/labpics/WechatIMG217-1024x1024.jpeg" alt="RECOMB 2024 Yunfei Presentation" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2024 Happy New Year – hot pot at shabu shabu — Jimmy, Hunter, Yunfei, Yichen, Yikang, and Han (table 1); Maizie, Lily, Sona, Weiman, Can, and Manfei (table 2) (from left to right)*
+  </p>
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/images/labpics/recombseq2023_yunfei-768x1024.jpeg" alt="RECOMB 2024 Yunfei Presentation" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2023 RECOMB Conference @ Istanbul – Yunfei’s oral presentation*
+  </p>
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/images/labpics/recombseq2023_yunfei_2.jpeg" alt="RECOMB 2024 Yunfei Presentation" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2023 RECOMB Conference @ Istanbul – Yunfei’s oral presentation*
+  </p>
+</div>
