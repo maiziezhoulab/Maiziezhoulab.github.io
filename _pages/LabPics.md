@@ -7,21 +7,21 @@ author_profile: true
 
 
 <div style="text-align: center;">
-  <img src="/images/labpics/recomb2024_1-1024x768.jpg" alt="RECOMB 2024 Group Photo" style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/recomb2024_1-1024x768.jpg" alt="RECOMB 2024 Group Photo" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2024 RECOMB Conference @ Boston — Yunfei, Yichen (Henry), Maizie, Can, and Weiman (from left to right)*
   </p>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/images/labpics/recomb2024_2-768x1024.jpg" alt="RECOMB 2024 Poster Session" style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/recomb2024_2-768x1024.jpg" alt="RECOMB 2024 Poster Session" style="max-width: 60%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2024 RECOMB Conference @ Boston – Poster session — Yichen (Henry), Can, Weiman, Maizie, and Yunfei (from left to right)*
   </p>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/images/labpics/recomb2024_3-768x1024.jpg" alt="RECOMB 2024 Group Photo 2" style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/recomb2024_3-768x1024.jpg" alt="RECOMB 2024 Group Photo 2" style="max-width: 60%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2024 RECOMB Conference @ Boston — Yunfei, Yichen (Henry), Maizie, Can, and Weiman (from left to right)*
   </p>
@@ -35,35 +35,35 @@ author_profile: true
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/images/labpics/recomb2024_weimancan-1024x768.jpg" alt="RECOMB 2024 Can and Weiman Presentation" style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/recomb2024_weimancan-1024x768.jpg" alt="RECOMB 2024 Can and Weiman Presentation" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2024 RECOMB Conference @ Boston – Can & Weiman’s oral presentation*
   </p>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/images/labpics/recomb2024_yunfei-768x1024.jpg" alt="RECOMB 2024 Yunfei Presentation" style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/recomb2024_yunfei-768x1024.jpg" alt="RECOMB 2024 Yunfei Presentation" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2024 RECOMB Conference @ Boston – Yunfei’s oral presentation*
   </p>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/images/labpics/WechatIMG217-1024x1024.jpeg" alt="RECOMB 2024 Yunfei Presentation" style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/WechatIMG217-1024x1024.jpeg" alt="RECOMB 2024 Yunfei Presentation" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2024 Happy New Year – hot pot at shabu shabu — Jimmy, Hunter, Yunfei, Yichen, Yikang, and Han (table 1); Maizie, Lily, Sona, Weiman, Can, and Manfei (table 2) (from left to right)*
   </p>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/images/labpics/recombseq2023_yunfei-768x1024.jpeg" alt="RECOMB 2024 Yunfei Presentation" style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/recombseq2023_yunfei-768x1024.jpeg" alt="RECOMB 2024 Yunfei Presentation" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2023 RECOMB Conference @ Istanbul – Yunfei’s oral presentation*
   </p>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/images/labpics/recombseq2023_yunfei_2.jpeg" alt="RECOMB 2024 Yunfei Presentation" style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/recombseq2023_yunfei_2.jpeg" alt="RECOMB 2024 Yunfei Presentation" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2023 RECOMB Conference @ Istanbul – Yunfei’s oral presentation*
   </p>
