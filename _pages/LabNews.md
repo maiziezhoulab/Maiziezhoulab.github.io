@@ -32,7 +32,7 @@ author_profile: true
   Our Research Topic *“Towards a More Complete and Accurate Personal Genome Sequence: Methods and Use Cases”* in **Frontiers in Genetics** is accepted and online! We welcome all forms of submissions, including Original Research Articles, Review Articles, Method Articles, and more.
 
 - **Mar. 1, 2023**    
-  Congrats to **Yunfei (Oliver) Hu** and **Yuying Zhao** (from Prof. Derr’s lab)! Their paper, *“ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering”* has been selected as a proceedings track paper for **RECOMB-Seq** 2023 and is also being considered for publication in iScience. https://recomb-seq.github.io/program/  
+  Congrats to **Yunfei Hu** and Yuying Zhao (from Prof. Derr’s lab)! Their paper, *“ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering”* has been selected as a proceedings track paper for **RECOMB-Seq** 2023 and is also being considered for publication in iScience. https://recomb-seq.github.io/program/  
 
 ---
 
@@ -51,7 +51,8 @@ author_profile: true
 - **Dec. 12, 2022**    
   Congratulations to **Can** for receiving the **2022-2023 Graduate School Travel Grant**.
 - **Dec. 15, 2021**     
-  Congratulations to **Yunfei (Oliver)** for receiving the **student travel award from IEEE BIBM**.
+  Congratulations to **Yunfei** for receiving the **student travel award from IEEE BIBM**.
+
 ---
 
 ## Milestones

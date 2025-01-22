@@ -160,3 +160,78 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   _Bioinformatics Advances_ (2021) 1, vbab007. [DOI](https://doi.org/10.1093/bioadv/vbab007)
 
 ### 2020 and earlier
+- **Aquila enables reference-assisted diploid personal genome assembly and comprehensive variant detection based on linked-reads.**  
+  **X. Zhou***, L. Zhang, Z. Weng, D. L. Dill, A. Sidow*.
+  _Nature Communications_ (2021) 12:1077.  
+
+- **A comprehensive investigation of metagenome assembly by linked-read sequencing.**  
+  L. Zhang, X. Fang, H. Liao, Z. Zhang, **X. Zhou**, L. Han, Y. Chen, Q. Qiu, S. C. Li.  
+  _Microbiome_ (2020) 8(1), 1-11.  
+
+- **A diploid assembly-based benchmark for variants in the major histocompatibility complex.**  
+  C. Chin, J. Wagner,…, **X. Zhou**,…, J. Zook.  
+  _Nature Communications_ (2020) 11:4794.  
+
+- **De novo diploid genome assembly for genome-wide structural variant detection.**  
+  L. Zhang†, **X. Zhou†**, Z. Weng, A. Sidow. (†equal contribution)  
+  _NAR Genomics and Bioinformatics_ (2020) 2(1), 1-10.  
+
+- **Plasticity of persistent activity and its constraints.**  
+  S. Li, **X. Zhou**, C. Constantinidis, X.-L. Qi.  
+  _Frontiers in Neural Circuits_ (2020) 14:15.  
+
+- **Assessment of human diploid genome assembly with 10x Linked-Reads data.**  
+  L. Zhang†, **X. Zhou†**, Z. Weng, A. Sidow. (†equal contribution)  
+  _GigaScience_ (2019) 8:1-11.  
+
+- **Assessment of network module identification across complex diseases.**  
+  S. Choobdar et al.  
+  _Nature Methods_ (2019) 16:843-852.  
+
+- **HAPDeNovo: a haplotype-based approach for filtering and phasing de novo mutations in linked read sequencing data.**  
+  **X. Zhou**, S. Batzoglou, A. Sidow, L. Zhang.  
+  _BMC Genomics_ (2018) 19(1), 467.  
+
+- **Anterior-posterior gradient of plasticity in primate prefrontal cortex.**  
+  M. Riley, X.-L. Qi, **X. Zhou**, C. Constantinidis.  
+  _Nature Communications_ (2018) 9(1):3790.  
+
+- **Fixation target representation in prefrontal cortex during the anti-saccade task.**  
+  **X. Zhou**, C. Constantinidis.  
+  _J. Neurophysiology_ (2017) 117:2152-2162.  
+
+- **Neural correlates of working memory development in adolescent primates.**  
+  **X. Zhou**, D. Zhu, X.-L. Qi, S. H. Li, S. G. King, E. Salinas, T. R. Stanford, C. Constantinidis.  
+  _Nature Communications_ (2016) 7:13423.  
+
+- **Behavioral response inhibition and maturation of goal representation in prefrontal cortex after puberty.**  
+  **X. Zhou**, D. Zhu, S. G. King, C. J. Lees, A. J. Bennett, E. Salinas, T. R. Stanford, C. Constantinidis.  
+  _Proc. Natl. Acad. Sci. USA_ (2016) 113(12):3353-3358.  
+
+- **Distinct roles of the prefrontal and posterior parietal cortices in response inhibition.**  
+  **X. Zhou**, X.-L. Qi, C. Constantinidis.  
+  _Cell Reports_ (2016) 14(12):2765-2773.  
+
+- **An evolutionary strategy for resilient cyber defense.**  
+  E. W. Fulp, H. D. Gage, D. J. John, M. McNiece, W. H. Turkett, **X. Zhou**. [alphabetical]  
+  _Proceedings of the IEEE Global Communications Conference (GLOBECOM)_ (2015).  
+
+- **Age-dependent changes in prefrontal intrinsic connectivity.**  
+  **X. Zhou**, D. Zhu, F. Katsuki, X.-L. Qi, C. J. Lees, A. J. Bennett, E. Salinas, T. R. Stanford, C. Constantinidis.  
+  _Proc. Natl. Acad. Sci. USA_ (2014) 111(10):3853-3858.  
+
+- **Working memory performance and neural activity in the prefrontal cortex of peri-pubertal monkeys.**  
+  **X. Zhou**, D. Zhu, X.-L. Qi, C. J. Lees, A. J. Bennett, E. Salinas, T. R. Stanford, C. Constantinidis.  
+  _J. Neurophysiology_ (2013) 110:2648-2660.  
+
+- **Neurons with inverted tuning during the delay periods of working memory tasks in the dorsal prefrontal and posterior parietal cortex.**  
+  **X. Zhou**, F. Katsuki, X.-L. Qi, C. Constantinidis.  
+  _J. Neurophysiology_ (2012) 108:31-38.  
+
+- **Cholinergic modulation of working memory activity in primate prefrontal cortex.**  
+  **X. Zhou**, X.-L. Qi, K. Douglas, K. Palaninathan, H. S. Kang, J. J. Buccafusco, D. T. Blake, C. Constantinidis.  
+  _J. Neurophysiology_ (2011) 106:2180-2188.  
+
+- **Comparison of neural activity related to working memory in primate dorsolateral prefrontal and posterior parietal cortex.**  
+  X.-L. Qi, F. Katsuki, T. Meyer, J. B. Rawley, **X. Zhou**, K. Douglas, C. Constantinidis.  
+  _Front. Syst. Neurosci._ (2010) 4:12.
