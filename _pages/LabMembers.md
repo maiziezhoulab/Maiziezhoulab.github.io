@@ -35,7 +35,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/yichen_liu.jpeg" class="student-profile-pic">
         </div>
-        <b><a href="https://lyc-vio.github.io/Intro/" target="_blank">Yichen (Henry) Liu</a></b> (Spring 2021 - Present) <br>
+        <b><a href="https://lyc-vio.github.io/Intro/" target="_blank">Yichen (Henry) Liu</a></b> <br> (Spring 2021 - Present) <br>
         Ph.D. Candidate in Computer Science 
     </td>
     <td>
