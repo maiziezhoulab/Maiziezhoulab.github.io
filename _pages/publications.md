@@ -241,6 +241,6 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   **X. Zhou**, E. Salinas, T. R. Stanford, C. Constantinidis.          
   _In: Advances in Cognitive Neurodynamics (V)_ (2016) R. Wang and X. Pan, Editors. Springer. pp. 193-197
 
-- **Neurophysiological mechanisms of working memory: cortical specialization & plasticity..**  
+- **Neurophysiological mechanisms of working memory: cortical specialization & plasticity.**  
   X.-L. Qi, **X. Zhou**, C. Constantinidis.       
   _In: Attention and Performance XXV_ (2015). Jolicoeur P., Lefebvre C. and Martinez-Trujillo J., Editors. Academic Press. pp. 171-186
