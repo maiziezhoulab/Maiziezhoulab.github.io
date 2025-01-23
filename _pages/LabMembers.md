@@ -95,7 +95,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/sona3.jpeg" class="student-profile-pic">
         </div>
-        <b>Sona Javadi</b> (Spring 23 - Present) <br>
+        <b>Sona Javadi</b> <br> (Spring 23 - Present) <br>
         Undergraduate Researcher in Computer Science
     </td>
     <td>
