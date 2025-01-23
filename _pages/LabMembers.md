@@ -102,14 +102,14 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/Haoran.jpg" class="student-profile-pic">
         </div>
-        <b>Haoran (Hunter) Qin</b> (Summer 23 - Present) <br>
+        <b>Haoran (Hunter) Qin</b> <br>(Summer 23 - Present) <br>
         Undergraduate Researcher in Computer Science & Economics
     </td>
    <td>
         <div style="text-align: center">
             <img src="/images/students/Jimmy.jpg" class="student-profile-pic">
         </div>
-        <b>Janice Chung</b> (Summer 23 - Present) <br>
+        <b>Janice Chung</b> <br>(Summer 23 - Present) <br>
         Undergraduate Researcher in Computer Science & Medicine, Health, and Society
     </td>
 
@@ -120,7 +120,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/yujiewang.jpg" class="student-profile-pic">
         </div>
-        <b>Yujie Wang</b> (Summer 2024 - Present) <br>
+        <b>Yujie Wang</b> <br>(Summer 2024 - Present) <br>
         Undergraduate Researcher in Mathematics & Computer Science
     </td>
 
@@ -128,7 +128,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/esha.JPEG" class="student-profile-pic">
         </div>
-        <b>Esha Rashid</b> (Fall 2024 - Present) <br>
+        <b>Esha Rashid</b> <br>(Fall 2024 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
     </td>
 
@@ -136,7 +136,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/helen.jpg" class="student-profile-pic">
         </div>
-        <b>Helen Wu</b> (Fall 2024 - Present) <br>
+        <b>Helen Wu</b> <br>(Fall 2024 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
     </td> -->
 
