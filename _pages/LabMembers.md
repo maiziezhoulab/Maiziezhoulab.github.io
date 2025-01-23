@@ -93,13 +93,6 @@ author_profile: true
  <tr>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/sona3.jpeg" class="student-profile-pic">
-        </div>
-        <b>Sona Javadi</b> <br> (Spring 23 - Present) <br>
-        Undergraduate Researcher in Computer Science
-    </td>
-    <td>
-        <div style="text-align: center">
             <img src="/images/students/Haoran.jpg" class="student-profile-pic">
         </div>
         <b>Haoran (Hunter) Qin</b> <br>(Summer 23 - Present) <br>
@@ -295,6 +288,10 @@ author_profile: true
 
 ## Undergraduate Students (>= 2 semesters)
 
+- **Sona Javadi**  
+  CS, BS, 2023 Spring - 2024 Spring 
+  First Job: Goldman Sachs @ Dallas
+
 - **Zimeng (Jamie) Zhou**  
   CS & Mathematics, BS, 2022 Fall – 2024 Spring  
   First Job: Goldman Sachs @ Dallas
@@ -342,3 +339,5 @@ author_profile: true
 - **Ziqi Guo** (remote)  
   EPE, BS, 2020 Fall – 2021 Summer  
   First Job: Ph.D. student in ME @ Purdue University
+
+
