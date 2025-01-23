@@ -151,16 +151,9 @@ author_profile: true
  <tr>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/lilybowen.jpg" class="student-profile-pic">
-        </div>
-        <b>Lily Bowen</b> (2023/08 – present) <br>
-        The Harpeth Hall School (Honors STEM Research Course for girls)
-    </td>
-    <td>
-        <div style="text-align: center">
             <img src="/images/students/IMG_2146.jpg" class="student-profile-pic">
         </div>
-        <b>Lily Wang</b> (2024/01 – present) <br>
+        <b>Lily Wang</b><br> (2024/01 – present) <br>
         The Harpeth Hall School
     </td>
    <!-- <td>
@@ -263,10 +256,18 @@ author_profile: true
 
 # Lab Alumni
 
-## Lab Assistant
+## Lab Assistants
 
 - **Sihan Ye**  
   Computer Science, BS, 2022 Fall – 2023 Fall
+
+## High School Students
+
+- **Lily Bowen**  
+  The Harpeth Hall School (Honors STEM Research Course for girls), 2023/08 – 2024/05
+        
+
+
 
 ## Masters Students
 
