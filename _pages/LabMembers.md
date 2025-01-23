@@ -167,7 +167,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/Jimmy.jpg" class="student-profile-pic">
         </div>
-        <b>Janice Chung</b> (Summer 23 - Present) <br>
+        <b>Jimmy Baek</b> (Summer 23 - Present) <br>
         Undergraduate Researcher in Computer Science & Medicine, Health, and Society
     </td> -->
 
