@@ -203,7 +203,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/YiruChen.jpg" class="student-profile-pic">
         </div>
-        <b>Yiru Chen</b> (2024 Spring – present) <br>
+        <b>Yiru Chen</b> <br>(2024 Spring – present) <br>
         Biomedical Informatics, Zhejiang University  ’26
     </td>
     <!-- <td>
