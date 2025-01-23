@@ -72,8 +72,8 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/yuqi_lei.jpg" class="student-profile-pic">
         </div>
-        <b>Yuqi Lei</b> <br> (Fall 2024 - Present) <br>
-        Ph.D. Student in Computer Science
+        <b><a href="cyclopsray.github.io/" target="_blank">Yuqi Lei</a></b> <br> (Fall 2024 - Present) <br>
+        Ph.D. Student in Computer Science 
     </td>
  </tr>
  <tr>
