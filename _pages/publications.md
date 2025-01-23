@@ -24,7 +24,11 @@ Lab members are **bold**.
 used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
-- **FocalSV: target region-based structural variant assembly and refinement using single-molecule long read sequencing data. .**  
+- **stDyer-image improves clustering analysis of spatially resolved transcriptomics and proteomics with morphological images.**        
+  K. Xu, **X. M. Zhou\***, L. Zhang*.  
+  (2025)
+  
+- **FocalSV: target region-based structural variant assembly and refinement using single-molecule long read sequencing data.**  
   **C. Luo**†, **Z. J. Zhou**†, **X. M. Zhou**.  
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.11.21.624735v1)
 
