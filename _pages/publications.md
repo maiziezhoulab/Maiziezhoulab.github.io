@@ -24,6 +24,10 @@ Lab members are **bold**.
 used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
+- **SCGclust: single cell graph clustering using graph autoencoders integrating SNVs and CNAs.**        
+  T. Potu†, **Y. Hu**†, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*
+  (2025)
+  
 - **stDyer-image improves clustering analysis of spatially resolved transcriptomics and proteomics with morphological images.**        
   K. Xu, **X. M. Zhou\***, L. Zhang*.  
   (2025)
