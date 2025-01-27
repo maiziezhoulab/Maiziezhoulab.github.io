@@ -24,6 +24,10 @@ Lab members are **bold**.
 used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
+- **MaskGraphene: an advanced framework for interpretable joint representation for multi-slice, multi-condition spatial transcriptomics.**  
+  **Y. Hu**, **Z. Lin**, **M. Xie**, **W. Yuan**, **Y. Li**, **M. Rao**, **Y. H. Liu**, W. Shen, L. Zhang\*, **X. M. Zhou**\*.  
+  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2024.02.21.581387v2)
+  
 - **SCGclust: single cell graph clustering using graph autoencoders integrating SNVs and CNAs.**                      
   T. Potu†, **Y. Hu**†, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*.            
   (2025)
@@ -48,9 +52,6 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   **W. Yuan**†, **C. Luo**†, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory\*, **X. M. Zhou**\*.  
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.02.21.581409v1)
 
-- **MaskGraphene: an advanced framework for interpretable joint representation for multi-slice, multi-condition spatial transcriptomics.**  
-  **Y. Hu**, **Z. Lin**, **M. Xie**, **W. Yuan**, **Y. Li**, **M. Rao**, **Y. H. Liu**, W. Shen, L. Zhang\*, **X. M. Zhou**\*.  
-  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2024.02.21.581387v2)
 
 - **Large indel detection in region-based phased diploid assemblies from linked-reads.**  
   **C. Luo**, B. A. Peters, **X. M. Zhou**.    
