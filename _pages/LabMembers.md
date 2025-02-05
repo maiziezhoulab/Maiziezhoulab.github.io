@@ -105,22 +105,16 @@ author_profile: true
         <b>Jimmy Baek</b> <br>(Summer 23 - Present) <br>
         Undergraduate Researcher in Computer Science & Medicine, Health, and Society
     </td>
-
-</tr>
-<tr>
- 
-    <td>
+   <td>
         <div style="text-align: center">
             <img src="/images/students/yujiewang.jpg" class="student-profile-pic">
         </div>
         <b>Yujie Wang</b> <br>(Summer 2024 - Present) <br>
         Undergraduate Researcher in Mathematics & Computer Science
     </td>
-
-    
-
-
-  <td>
+</tr>
+<tr>
+    <td>
         <div style="text-align: center">
             <img src="/images/students/esha.JPEG" class="student-profile-pic">
         </div>
@@ -128,7 +122,7 @@ author_profile: true
         Undergraduate Researcher at Vanderbilt 
     </td>
 
-  <td>
+    <td>
         <div style="text-align: center">
             <img src="/images/students/helen.jpg" class="student-profile-pic">
         </div>
@@ -138,7 +132,7 @@ author_profile: true
 
  
 
- </tr>
+</tr>
 </table>
 
 
