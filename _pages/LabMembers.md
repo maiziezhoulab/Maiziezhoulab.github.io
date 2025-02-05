@@ -117,6 +117,15 @@ author_profile: true
         Undergraduate Researcher in Mathematics & Computer Science
     </td>
 
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/KeyiTang.jpg" class="student-profile-pic">
+        </div>
+        <b>Keyi Tang</b> <br>(Spring 2025 - Present) <br>
+        Undergraduate Researcher in Computer Science & Applied Mathematics
+    </td>
+
+
  <!-- <td>
         <div style="text-align: center">
             <img src="/images/students/esha.JPEG" class="student-profile-pic">
