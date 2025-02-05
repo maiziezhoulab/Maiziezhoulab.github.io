@@ -120,7 +120,7 @@ author_profile: true
     
 
 
- <!-- <td>
+  <td>
         <div style="text-align: center">
             <img src="/images/students/esha.JPEG" class="student-profile-pic">
         </div>
@@ -134,7 +134,7 @@ author_profile: true
         </div>
         <b>Helen Wu</b> <br>(Fall 2024 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
-    </td> -->
+    </td> 
 
  
 
