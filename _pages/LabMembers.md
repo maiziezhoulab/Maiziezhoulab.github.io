@@ -118,16 +118,16 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/KeyiTang.jpg" class="student-profile-pic">
         </div>
-        <b>Esha Rashid</b> <br>(Spring 2025 - Present) <br>
+        <b>Keyi Tang</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Computer Science & Applied Mathematics
     </td>
 
     <td>
         <div style="text-align: center">
-            <img src="/images/students/helen.jpg" class="student-profile-pic">
+            <img src="/images/students/MelanieFernandez.jpg" class="student-profile-pic">
         </div>
-        <b>Helen Wu</b> <br>(Fall 2024 - Present) <br>
-        Undergraduate Researcher at Vanderbilt 
+        <b>Melanie Fernandez</b> <br>(Spring 2025 - Present) <br>
+        Undergraduate Researcher in Computer Science
     </td> 
 
  
