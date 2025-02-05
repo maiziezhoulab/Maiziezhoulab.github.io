@@ -130,8 +130,7 @@ author_profile: true
         Undergraduate Researcher in Computer Science
     </td> 
 
- <td>&nbsp;</td> 
-
+ 
 </tr>
 </table>
 
