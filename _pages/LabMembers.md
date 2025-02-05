@@ -88,7 +88,7 @@ author_profile: true
 </table>
 
 
-## Undergradudate Students
+## Undergraduate Students
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
     <td>
@@ -109,7 +109,7 @@ author_profile: true
 </tr>
 <tr>
  
-<td>
+    <td>
         <div style="text-align: center">
             <img src="/images/students/yujiewang.jpg" class="student-profile-pic">
         </div>
@@ -117,13 +117,7 @@ author_profile: true
         Undergraduate Researcher in Mathematics & Computer Science
     </td>
 
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/KeyiTang.jpg" class="student-profile-pic">
-        </div>
-        <b>Keyi Tang</b> <br>(Spring 2025 - Present) <br>
-        Undergraduate Researcher in Computer Science & Applied Mathematics
-    </td>
+    
 
 
  <!-- <td>
