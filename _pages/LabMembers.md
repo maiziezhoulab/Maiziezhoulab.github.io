@@ -116,10 +116,10 @@ author_profile: true
 <tr>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/esha.JPEG" class="student-profile-pic">
+            <img src="/images/students/KeyiTang.jpg" class="student-profile-pic">
         </div>
-        <b>Esha Rashid</b> <br>(Fall 2024 - Present) <br>
-        Undergraduate Researcher at Vanderbilt 
+        <b>Esha Rashid</b> <br>(Spring 2025 - Present) <br>
+        Undergraduate Researcher in Computer Science & Applied Mathematics
     </td>
 
     <td>
