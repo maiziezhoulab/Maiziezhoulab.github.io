@@ -35,8 +35,6 @@ author_profile: true
 
 **Guest Associate Editor**, Frontiers in Genetics              2020 – present
 
-**Special Issue Editor**, Life                                 2022 – present
-
 ### Conference and Workshop Organization
 
 **Conference Organization Committee and Session Chair**, IEEE BIBM Workshop on computational methods to characterize genomic variants using high-throughput sequencing data, Dec 6-9, 2022, Las Vegas, NV, USA
