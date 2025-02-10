@@ -34,7 +34,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   
 - **stDyer-image improves clustering analysis of spatially resolved transcriptomics and proteomics with morphological images.**        
   K. Xu, **X. M. Zhou\***, L. Zhang*.  
-  (2025)
+  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2025.02.07.634992v1)
   
 - **FocalSV: target region-based structural variant assembly and refinement using single-molecule long read sequencing data.**  
   **C. Luo**†, **Z. J. Zhou**†, **X. M. Zhou**.  
