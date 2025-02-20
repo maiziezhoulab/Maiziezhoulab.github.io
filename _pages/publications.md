@@ -24,6 +24,10 @@ Lab members are **bold**.
 used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
+- **scLongTree: an accurate computational tool to infer the longitudinal tree for single-cell DNA sequencing data.**  
+  R. Khan, **X. M. Zhou**\*, X. Mallory\*.      
+  [(2025)]
+  
 - **MaskGraphene: an advanced framework for interpretable joint representation for multi-slice, multi-condition spatial transcriptomics.**  
   **Y. Hu**, **Z. Lin**, **M. Xie**, **W. Yuan**, **Y. Li**, **M. Rao**, **Y. H. Liu**, W. Shen, L. Zhang\*, **X. M. Zhou**\*.  
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2024.02.21.581387v2)
