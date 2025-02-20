@@ -62,7 +62,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2025
 - **stDyer enables spatial domain clustering with dynamic graph embedding.**  
   K. Xu, Y. Xu, Z. Wang, **X. M. Zhou\***, L. Zhang*.  
-  _Genome Biology_ (2024) (accepted)
+  _Genome Biology_ (2025) 26:34 [DOI](https://doi.org/10.1186/s13059-025-03503-y)
   
 ### 2024
 - **VolcanoSV enables accurate and robust structural variant calling in diploid genomes from single-molecule long read sequencing.**  
