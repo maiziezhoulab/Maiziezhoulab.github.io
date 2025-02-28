@@ -47,5 +47,5 @@ author_profile: true
 
 ### Ad hoc Reviewer for Journals
 
-Nature Methods, Nature Genetics, Nature Communications, Nature Computational Science, Genome Biology, Genome Research, Nucleic Acids Research, Bioinformatics, Briefings in Bioinformatics, PLOS Computational Biology, iScience, Cell Reports Methods, NAR Genomics and Bioinformatics, BMC Genomics, BMC Bioinformatics, Journal of Neurophysiology, Frontiers in Cell and Developmental Biology, Frontiers in Genetics, Frontiers in Plant Science, Genes
+Nature Methods, Nature Genetics, Nature Communications, Nature Computational Science, Genome Biology, Genome Research, Nucleic Acids Research, Cell Report, Bioinformatics, Briefings in Bioinformatics, PLOS Computational Biology, iScience, Cell Reports Methods, NAR Genomics and Bioinformatics, BMC Genomics, BMC Bioinformatics, Journal of Neurophysiology, Frontiers in Cell and Developmental Biology, Frontiers in Genetics, Frontiers in Plant Science, Genes
 
