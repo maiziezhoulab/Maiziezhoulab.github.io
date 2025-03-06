@@ -38,20 +38,22 @@ author_profile: true
 
 ## Awards and Achievements
 
+- **Mar. 6, 2025**  
+  Congratulations to **Can Luo** for receiving the **2025 prestigious Provost's Pathbreaking Discovery Award**.
 - **Jul. 3, 2024**  
-  Congratulations to **Yunfei** for receiving the **2024 VADD Travel Funds**.
+  Congratulations to **Yunfei Hu** for receiving the **2024 VADD Travel Funds**.
 - **Apr. 14, 2024**  
-  Congratulations to **Can** for receiving the **2024 Graduate School Travel Grant**.
+  Congratulations to **Can Luo** for receiving the **2024 Graduate School Travel Grant**.
 - **Mar. 20, 2024**  
-  Congratulations to **Yunfei** for receiving the **2024 Graduate School Travel Grant**.
+  Congratulations to **Yunfei Hu** for receiving the **2024 Graduate School Travel Grant**.
 - **Mar. 18, 2024**  
-  Congratulations to **Weiman** for receiving the **2024 Graduate School Travel Grant**.
+  Congratulations to **Weiman Yuan** for receiving the **2024 Graduate School Travel Grant**.
 - **Mar. 20, 2023**  
-  Congratulations to **Yunfei** for receiving the **2022-2023 Graduate School Travel Grant**.
+  Congratulations to **Yunfei Hu** for receiving the **2022-2023 Graduate School Travel Grant**.
 - **Dec. 12, 2022**    
-  Congratulations to **Can** for receiving the **2022-2023 Graduate School Travel Grant**.
+  Congratulations to **Can Luo** for receiving the **2022-2023 Graduate School Travel Grant**.
 - **Dec. 15, 2021**     
-  Congratulations to **Yunfei** for receiving the **student travel award from IEEE BIBM**.
+  Congratulations to **Yunfei Hu** for receiving the **student travel award from IEEE BIBM**.
 
 ---
 
