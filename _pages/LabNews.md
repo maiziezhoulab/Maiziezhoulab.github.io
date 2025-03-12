@@ -40,7 +40,7 @@ author_profile: true
 - **Mar. 12, 2025**  
   Congratulations to **Yuqi Lei** for receiving the **2025 Graduate School Travel Grant**.
 - **Mar. 6, 2025**  
-  Congratulations to **Can Luo** for receiving the **2025 prestigious Provost's Pathbreaking Discovery Award**.
+  Congratulations to **Can Luo** for receiving the prestigious **2025 Provost's Pathbreaking Discovery Award**.
 - **Mar. 6, 2025**  
   Congratulations to **Keyi Tang & Miao Deng** on being selected for the  **2025 Vanderbilt Undergraduate Summer Research Program (VUSRP)**. They will each receive a $6000 award stipend.
 - **Jul. 3, 2024**  
