@@ -37,7 +37,8 @@ author_profile: true
 ---
 
 ## Awards and Achievements
-
+- **Mar. 12, 2025**  
+  Congratulations to **Yuqi Lei** for receiving the **2025 Graduate School Travel Grant**.
 - **Mar. 6, 2025**  
   Congratulations to **Can Luo** for receiving the **2025 prestigious Provost's Pathbreaking Discovery Award**.
 - **Mar. 6, 2025**  
@@ -62,10 +63,10 @@ author_profile: true
 ## Milestones
 
 - **Mar. 19, 2024**  
-  Congratulations to **Can**, she passed her qualifying exam today!
+  Congratulations to **Can Luo**, she passed her qualifying exam today!
 
 - **Nov. 16, 2022**  
-  **Yunfei** and **Yichen** pass their CS Ph.D. prelim exams.
+  **Yunfei Hu** and **Yichen Liu** pass their CS Ph.D. prelim exams.
 
 - **May. 4, 2022**  
   **Parth Datar** successfully defends his CS Master’s thesis in April 22~
