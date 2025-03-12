@@ -5,37 +5,6 @@ permalink: /LabNews/
 author_profile: true
 ---
 
-## Paper Acceptances
-
-- **Jul. 31, 2024**  
-  Congrats to **Can** and **Yichen (Henry)**! Their paper, *“VolcanoSV enables accurate and robust structural variant calling in diploid genomes from single-molecule long read sequencing”*, has just been accepted for publication in **Nature Communications**.
-  
-- **Jul. 30, 2024**  
-  Congrats to **Yunfei** and all coauthors! Our paper, *“Benchmarking clustering, alignment, and integration methods for spatial transcriptomics”*, has just been accepted for publication in **Genome Biology**.
-
-- **Mar. 12, 2024**  
-  Congrats to **Weiman** & **Can**! Our paper, *“CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single cell sequencing data”*, has been accepted for presentation at **RECOMB-Seq** at MIT, April 27-28, 2024.
-
-- **Mar. 12, 2024**  
-  Congrats to **Yunfei Hu**! Our paper, *“MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning”*, has been accepted for presentation at **RECOMB-Seq** at MIT, April 27-28, 2024.
-
-- **Mar. 4, 2024**  
-  Congrats to **Weiman** and **Can**! Their paper, *“CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single cell sequencing data”*, has been accepted by **RECOMB** for a poster presentation.
-
-- **Mar. 4, 2024**  
-  Congrats to **Yichen (Henry)** and **Can**! Their paper, *“Tradeoffs in alignment and assembly-based methods for structural variant detection with long-read sequencing data”*, has just been accepted for publication in **Nature Communications**.
-
-- **Apr. 27, 2023**     
-  Our paper, *“ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering”*, has just been accepted to the journal **iScience**.
-
-- **Nov. 29, 2023**      
-  Our Research Topic *“Towards a More Complete and Accurate Personal Genome Sequence: Methods and Use Cases”* in **Frontiers in Genetics** is accepted and online! We welcome all forms of submissions, including Original Research Articles, Review Articles, Method Articles, and more.
-
-- **Mar. 1, 2023**    
-  Congrats to **Yunfei Hu** and Yuying Zhao (from Prof. Derr’s lab)! Their paper, *“ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering”* has been selected as a proceedings track paper for **RECOMB-Seq** 2023 and is also being considered for publication in iScience. https://recomb-seq.github.io/program/  
-
----
-
 ## Awards and Achievements
 - **Mar. 12, 2025**  
   Congratulations to **Yuqi Lei** for receiving the **2025 Graduate School Travel Grant**.
