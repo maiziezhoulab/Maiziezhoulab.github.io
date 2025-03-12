@@ -24,6 +24,10 @@ Lab members are **bold**.
 used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
+- **CSsingle: a unified tool for robust decomposition of bulk and spatial transcriptomic data across diverse single-cell references.**  
+  W. Shen\*, C. Liu, **Y. Hu**, Y. Lei, H.-S. Wong, S. Wu\*, **X. M. Zhou\***.  
+  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v2)
+  
 - **scLongTree: an accurate computational tool to infer the longitudinal tree for single-cell DNA sequencing data.**  
   R. Khan, **X. M. Zhou**\*, X. Mallory\*.      
   (2025)
@@ -47,10 +51,6 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 - **Brain structure and activity predicting cognitive maturation in adolescence.**  
   J. Zhu, C. M. Garin, X.-L. Qi, A. Machado, Z. Wang, S. B. Hamed, T. R. Stanford, E. Salinas, C. T. Whitlow, A. W. Anderson, **X. M. Zhou**, F. Calabro, B. Luna, C. Constantinidis.  
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.08.23.608315v1)
-
-- **Leveraging cross-source heterogeneity to improve the performance of bulk gene expression deconvolution.**  
-  W. Shen\*, C. Liu, **Y. Hu**, Y. Lei, H.-S. Wong, S. Wu\*, **X. M. Zhou\***.  
-  [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v1)
 
 - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data.**  
   **W. Yuan**†, **C. Luo**†, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory\*, **X. M. Zhou**\*.  
