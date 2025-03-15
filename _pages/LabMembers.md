@@ -10,7 +10,7 @@ author_profile: true
  <tr>
     <td>
         <div style="text-align: center">
-            <img src="/images/maizie_profile.jpg" class="student-profile-pic">
+            <img src="/images/maiziezhou_profile2025.jpg" class="student-profile-pic">
         </div>
         <b><a href="https://maiziezhoulab.github.io/" target="_blank">Xin Maizie Zhou</a></b>  <br>
         Assistant Professor, Biomedical Engineering (Primary) and Computer Science <br>
