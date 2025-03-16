@@ -129,6 +129,13 @@ author_profile: true
         <b>Melanie Fernandez</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Computer Science
     </td> 
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/miaodeng.jpg" class="student-profile-pic">
+        </div>
+        <b>Miao (Serena) Deng</b> <br>(Spring 2025 - Present) <br>
+        Undergraduate Researcher in Computer Science & Medicine, Health, and Society
+    </td> 
 
  
 </tr>
