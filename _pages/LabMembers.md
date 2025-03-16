@@ -95,14 +95,14 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/Haoran.jpg" class="student-profile-pic">
         </div>
-        <b>Haoran (Hunter) Qin</b> <br>(Summer 23 - Present) <br>
+        <b>Haoran (Hunter) Qin</b> <br>(Summer 2023 - Present) <br>
         Undergraduate Researcher in Computer Science & Economics
     </td>
    <td>
         <div style="text-align: center">
             <img src="/images/students/Jimmy.jpg" class="student-profile-pic">
         </div>
-        <b>Jimmy Baek</b> <br>(Summer 23 - Present) <br>
+        <b>Jimmy Baek</b> <br>(Summer 2023 - Present) <br>
         Undergraduate Researcher in Computer Science & Medicine, Health, and Society
     </td>
    <td>
@@ -135,10 +135,20 @@ author_profile: true
         </div>
         <b>Miao (Serena) Deng</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Computer Science & Medicine, Health, and Society
-    </td> 
-
- 
+    </td>  
 </tr>
+<tr>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/hanzewu.jpg" class="student-profile-pic">
+        </div>
+        <b>Louis Wu</b> <br>(Spring 2025 - Present) <br>
+        Undergraduate Researcher in Cellular and Molecular Biology
+    </td>
+  
+   
+</tr>
+
 </table>
 
 
