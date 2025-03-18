@@ -63,7 +63,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2025
 - **Large indel detection in region-based phased diploid assemblies from linked-reads.**  
   **C. Luo**, B. A. Peters, **X. M. Zhou**.    
-  _BMC Genomics_ (2025) (in press)
+  _BMC Genomics_ (2025) 26:263 [DOI](https://doi.org/10.1186/s12864-025-11398-z)
   
 - **stDyer enables spatial domain clustering with dynamic graph embedding.**  
   K. Xu, Y. Xu, Z. Wang, **X. M. Zhou\***, L. Zhang*.  
