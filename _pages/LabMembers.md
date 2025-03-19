@@ -145,6 +145,14 @@ author_profile: true
         <b>Louis Wu</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Cellular and Molecular Biology
     </td>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/gigiliu.jpg" class="student-profile-pic">
+        </div>
+        <b>Gigi Liu</b> <br>(Spring 2025 - Present) <br>
+        Undergraduate Researcher in Computer Science & Cognitive Studies
+    </td>
+  
   
    
 </tr>
