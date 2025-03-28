@@ -7,6 +7,13 @@ author_profile: true
 
 
 <div style="text-align: center;">
+  <img src="/images/labpics/valiant_opening.jpg" alt="VALIANT Grand Opening Group Photo" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2025 March 27 VALIANT Grand Opening @ FGH — Weiman, Manfei (Bella), Yichen (Henry), and Yuqi (from left to right, second row), Can, Yunfei, Zhenhan, and Maizie (from left to right, first row)*
+  </p>
+</div>
+
+<div style="text-align: center;">
   <img src="/images/labpics/recomb2024_1-1024x768.jpg" alt="RECOMB 2024 Group Photo" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2024 RECOMB Conference @ Boston — Yunfei, Yichen (Henry), Maizie, Can, and Weiman (from left to right)*
