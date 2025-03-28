@@ -30,7 +30,7 @@ author_profile: true
 ---
 
 ## Milestones
-- **Mar. 27, 2025**
+- **Mar. 27, 2025**  
   Congratulations to **Yunfei Hu**, she passed his qualifying exam today!
   
 - **Mar. 19, 2024**  
@@ -47,7 +47,7 @@ author_profile: true
 
 ## Grants
 - **Mar. 27, 2025**    
-  We received the **CCSB Accelerator Fund*** in collaboration with Dr. Meltzer's lab.
+  We received the **CCSB Accelerator Fund*** in collaboration with Dr. Meltzer's lab.  
   
 - **Dec. 19, 2024**    
   Our proposal for spatial transcriptomics research has been selected as an awardee for the **Seeding Success** -  Fall 2024 cycle.
