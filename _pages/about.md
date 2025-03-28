@@ -27,3 +27,4 @@ Funding Agencies
 <img src="images/nih_nimh.png" alt="Logo of Vanderbilt" style="margin: 10px;" width="200">
 <img src="images/CompleteGenomicsInc.png" alt="Logo of Vanderbilt" style="margin: 10px;" width="200">
 <img src="images/VBI.png" alt="Logo of Vanderbilt" style="margin: 10px;" width="200">
+<img src="images/CCSB.jpg" alt="Logo of Vanderbilt" style="margin: 10px;" width="200">
