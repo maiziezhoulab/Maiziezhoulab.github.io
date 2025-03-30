@@ -25,7 +25,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
 - **Enhancing variant detection in complex genomes: leveraging linked reads for robust SNP, Indel, and structural variant analysis.**  
-   **C. Luo**†, **Y. H. Liu**†, **H. Liu**, Z. Zhang, L. Zhang, B. A. Peters, **X. M. Zhou**.  
+   **C. Luo**†, **Y. H. Liu**†, **H. Liu**, Z. Zhang, L. Zhang, B. A. Peters\*, **X. M. Zhou\***.  
   (2025)
 
 - **CSsingle: a unified tool for robust decomposition of bulk and spatial transcriptomic data across diverse single-cell references.**  
