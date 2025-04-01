@@ -84,6 +84,15 @@ author_profile: true
         <b>Zhenhan Lin</b> <br> (Fall 2024 - Present) <br>
         Ph.D. Student in Computer Science
     </td>
+
+  <td>
+        <div style="text-align: center">
+            <img src="/images/students/catprofile.jpeg" class="student-profile-pic">
+        </div>
+        <b>Yuling Zhu</b> <br> (incoming Fall 2025) <br>
+        Ph.D. Student in Biomedical Engineering
+        (co-advised by Dr.Shan Meltzer)
+    </td>
  </tr>
 </table>
 
