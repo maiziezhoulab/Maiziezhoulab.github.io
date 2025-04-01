@@ -33,7 +33,7 @@ author_profile: true
 
 ### Editorial Service
 
-**Guest Associate Editor**, Frontiers in Genetics              2020 – present
+**Guest Associate Editor**, Frontiers in Genetics,              2020 – present
 
 ### Conference and Workshop Organization
 
