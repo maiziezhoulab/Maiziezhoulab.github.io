@@ -91,7 +91,7 @@ author_profile: true
         </div>
         <b>Yuling Zhu</b> <br> (incoming Fall 2025) <br>
         Ph.D. Student in Biomedical Engineering
-        (co-advised by Dr.Shan Meltzer)
+        (co-advised by <a href="https://www.shanmeltzerlab.com/shan" target="_blank">Dr. Shan Meltzer</a>)
     </td>
  </tr>
 </table>
