@@ -30,6 +30,8 @@ author_profile: true
 ---
 
 ## Milestones
+- **Apr. 08, 2025**  
+  Congratulations to **Yichen (Henry) Liu**, he passed his qualifying exam today!  
 - **Mar. 27, 2025**  
   Congratulations to **Yunfei Hu**, he passed his qualifying exam today!  
 - **Mar. 19, 2024**  
