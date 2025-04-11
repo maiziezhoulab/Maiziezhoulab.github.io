@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Summer Interns"
+title: "Summer Research Interns"
 permalink: /SummerIntern/
 author_profile: true
 ---
 
-
-# Summer Research Intern
 
 - **Supriyo Rana**  
   BME, BS, 2023 Summer
