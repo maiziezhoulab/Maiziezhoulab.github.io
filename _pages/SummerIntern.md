@@ -5,16 +5,20 @@ permalink: /SummerIntern/
 author_profile: true
 ---
 - **Melanie Fernandez**  
-  CS, BS, 2025 Summer (Supported by SyBBURE Research Program)
+  CS, BS, 2025 Summer   
+  (Supported by SyBBURE Research Program)
   
 - **Keyi (Zoey) Tang**  
-  CS & Applied Mathematics, BS, 2025 Summer (Supported by VUSRP)
+  CS & Applied Mathematics, BS, 2025 Summer  
+  (Supported by VUSRP)
 
 - **Miao (Serena) Deng**  
-  CS & Medicine, Health, and Society, BS, 2025 Summer (Supported by VUSRP)
+  CS & Medicine, Health, and Society, BS, 2025 Summer    
+  (Supported by VUSRP)
 
 - **Terra Jang**  
-  CS & Applied Mathematics, BS, 2025 Summer (Supported by Engineering Student Success)
+  CS & Applied Mathematics, BS, 2025 Summer    
+  (Supported by Engineering Student Success)
   
 - **Supriyo Rana**  
   BME, BS, 2023 Summer
@@ -38,5 +42,6 @@ author_profile: true
   BME & CS & Mathematics, BS, 2022 Summer
 
 - **Georgia Reed Cooper**  
-  BME, BS, 2021 Summer (Supported by Clark Scholars Program)
+  BME, BS, 2021 Summer   
+  (Supported by Clark Scholars Program)
 
