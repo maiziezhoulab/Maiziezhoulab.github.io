@@ -4,6 +4,9 @@ title: "Summer Research Interns"
 permalink: /SummerIntern/
 author_profile: true
 ---
+- **Melanie Fernandez**  
+  CS, BS, 2025 Summer (Supported by SyBBURE Research Program)
+  
 - **Keyi (Zoey) Tang**  
   CS & Applied Mathematics, BS, 2025 Summer (Supported by VUSRP)
 
