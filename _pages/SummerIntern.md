@@ -4,6 +4,19 @@ title: "Summer Research Interns"
 permalink: /SummerIntern/
 author_profile: true
 ---
+- **Pratika Kumar**  
+  CE (Purdue University), BS, 2025 Summer
+
+- **Yiman Rui**  
+  Statistics (University of Michigan), BS, 2025 Summer
+  
+- **Aki Karthi**  
+  CS, BS, 2025 Summer
+  
+- **Melanie Fernandez**  
+  CS, BS, 2025 Summer   
+  (Supported by SyBBURE Research Program)
+  
 - **Melanie Fernandez**  
   CS, BS, 2025 Summer   
   (Supported by SyBBURE Research Program)
