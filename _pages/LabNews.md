@@ -30,6 +30,8 @@ author_profile: true
 ---
 
 ## Milestones
+- **Apr. 11, 2025**  
+  Congratulations to **Weiman Yuan**, he passed her qualifying exam today!
 - **Apr. 08, 2025**  
   Congratulations to **Yichen (Henry) Liu**, he passed his qualifying exam today!  
 - **Mar. 27, 2025**  
