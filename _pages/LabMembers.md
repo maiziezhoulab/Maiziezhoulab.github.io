@@ -289,7 +289,10 @@ author_profile: true
   First Job: Ph.D. student in CS @ University of Sheffield
 
 ## Undergraduate Students (>= 2 semesters)
-
+- **Yujie Wang**  
+  CS, BS, 2024 Summer - 2025 Spring 
+  First Job: Master’s student in Biomedical Informatics @ Harvard
+  
 - **Sona Javadi**  
   CS, BS, 2023 Spring - 2024 Spring 
 
