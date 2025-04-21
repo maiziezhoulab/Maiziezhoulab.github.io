@@ -290,7 +290,7 @@ author_profile: true
 
 ## Undergraduate Students (>= 2 semesters)
 - **Yujie Wang**  
-  CS, BS, 2024 Summer - 2025 Spring 
+  CS, BS, 2024 Summer - 2025 Spring       
   First Job: Master’s student in Biomedical Informatics @ Harvard
   
 - **Sona Javadi**  
