@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Awards and Achievements
+- **May. 6, 2025**  
+  Congratulations to **Yichen Liu, Can Luo, and Maizie** for receiving the **VUSE Best Paper Award/Outstanding Graduate Student Research Paper**.
 - **Mar. 12, 2025**  
   Congratulations to **Yuqi Lei** for receiving the **2025 Graduate School Travel Grant**.
 - **Mar. 6, 2025**  
