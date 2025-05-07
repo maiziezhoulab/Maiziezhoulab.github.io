@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: center;">
-  <img src="/images/labpics/VUSE_best_paper_award_2024-2025.jpg" alt="VUSE Best Paper Award" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/VUSE_best_paper_award_2024-2025.jpg" alt="VUSE Best Paper Award" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2025 May 06 VUSE Faculty Meeting & End of Year Reception @ FGH — Yichen (Henry), Can, and Dean Roy (from left to right)
   </p>
