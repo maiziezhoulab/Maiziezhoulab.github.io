@@ -66,7 +66,9 @@ author_profile: true
 
 
 ## Invited Talk
-
+- **March. 27, 2025**  
+  Maizie is invited to give a seminar talk titled *“Domain identification, integration, and 3D reconstruction with spatial
+transcriptomics data”* on Friday, May 02, 2025, at the Department of Computer Science of Hong Kong Baptist University.
 - **Dec. 12, 2022**  
   Maizie is invited to speak at the 2nd Annual Spatial Biology Congress.
 - **Nov. 14, 2022**   
