@@ -13,7 +13,7 @@ author_profile: true
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/labpics/yuqilei2025recomb.jpg" alt="2025 RECOMB Poster Lightning Talk" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/yuqilei2025recomb.jpg" alt="2025 RECOMB Poster Lightning Talk" style="max-width: 60%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2025 RECOMB Poster Lightning Talk by Yuqi @ Seoul, South Korea at April 26th ~
   </p>
