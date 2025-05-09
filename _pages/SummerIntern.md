@@ -7,6 +7,9 @@ author_profile: true
 - **Pratika Kumar**  
   CE (Purdue University), BS, 2025 Summer
 
+- **Christina Qi**  
+  Statistics (University of Michigan), BS, 2025 Summer
+
 - **Yiman Rui**  
   Statistics (University of Michigan), BS, 2025 Summer
   
