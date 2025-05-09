@@ -13,6 +13,14 @@ author_profile: true
 </div>
 
 <div style="text-align: center;">
+  <img src="/images/labpics/yuqilei2025recomb.jpg" alt="2025 RECOMB Poster Lightning Talk" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2025 RECOMB Poster Lightning Talk by Yuqi @ Seoul, South Korea at April 26th ~
+  </p>
+</div>
+
+
+<div style="text-align: center;">
   <img src="/images/labpics/valiant_opening.jpg" alt="VALIANT Grand Opening Group Photo" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2025 March 27 VALIANT Grand Opening @ FGH — Weiman, Manfei (Bella), Yichen (Henry), and Yuqi (from left to right, second row), Can, Yunfei, Zhenhan, and Maizie (from left to right, first row)*
