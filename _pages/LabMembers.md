@@ -87,7 +87,7 @@ author_profile: true
 
   <td>
         <div style="text-align: center">
-            <img src="/images/students/yulingzhu.jpg" class="student-profile-pic">
+            <img src="/images/students/yuling_zhu.jpg" class="student-profile-pic">
         </div>
         <b>Yuling Zhu</b> <br> (incoming Fall 2025) <br>
         Ph.D. Student in Biomedical Engineering
