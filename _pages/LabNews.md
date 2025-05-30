@@ -7,7 +7,7 @@ author_profile: true
 
 ## Awards and Achievements
 - **May. 30, 2025**  
-  Congratulations to **Maizie** on being selected as an awardee for **Global Engagement Travel Grants**(Fall 2025).
+  Congratulations to **Maizie** on being selected as an awardee for **Global Engagement Travel Grants**.
 - **May. 6, 2025**  
   Congratulations to **Yichen Liu, Can Luo, and Maizie** for receiving the **VUSE Best Paper Award/Outstanding Graduate Student Research Paper**.
 - **Mar. 12, 2025**  
