@@ -63,7 +63,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2025
 - **Brain structure and activity predicting cognitive maturation in adolescence.**  
   J. Zhu, C. M. Garin, X.-L. Qi, A. Machado, Z. Wang, S. B. Hamed, T. R. Stanford, E. Salinas, C. T. Whitlow, A. W. Anderson, **X. M. Zhou**, F. Calabro, B. Luna, C.   Constantinidis.  
-  _Nature Methods_ (2025) (in press) [DOI](https://www.biorxiv.org/content/10.1101/2024.08.23.608315v1)
+  _Nature Neuroscience_ (2025) (in press) [DOI](https://www.biorxiv.org/content/10.1101/2024.08.23.608315v1)
   
 - **Large indel detection in region-based phased diploid assemblies from linked-reads.**  
   **C. Luo**, B. A. Peters, **X. M. Zhou**.    
