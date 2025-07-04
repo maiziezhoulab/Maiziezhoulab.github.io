@@ -36,6 +36,8 @@ author_profile: true
 **Guest Associate Editor**, Frontiers in Genetics,              2020 – present
 
 ### Conference and Workshop Organization
+**Area Chair**, the 16th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2025), October 11–15, Philadelphia, PA
+
 **Conference Organization Committee and Session Chair**, IEEE BIBM Workshop on algorithmic advances for single-cell and spatial omics data analysis, Dec 15-18, 2025, Wuhan, China
 
 **Conference Organization Committee and Session Chair**, IEEE BIBM Workshop on computational methods to characterize genomic variants using high-throughput sequencing data, Dec 6-9, 2022, Las Vegas, NV, USA
