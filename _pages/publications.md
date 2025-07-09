@@ -30,7 +30,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 - **CSsingle: a unified tool for robust decomposition of bulk and spatial transcriptomic data across diverse single-cell references.**  
   W. Shen\*, C. Liu, **Y. Hu**, Y. Lei, H.-S. Wong, S. Wu\*, **X. M. Zhou\***.  
-  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v2)
+  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v2)[_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v1)
   
 - **scLongTree: an accurate computational tool to infer the longitudinal tree for single-cell DNA sequencing data.**  
   R. Khan, **X. M. Zhou**\*, X. Mallory\*.      
