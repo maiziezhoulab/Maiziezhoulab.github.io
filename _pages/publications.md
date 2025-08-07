@@ -47,10 +47,6 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 - **stDyer-image improves clustering analysis of spatially resolved transcriptomics and proteomics with morphological images.**        
   K. Xu, **X. M. Zhou\***, L. Zhang*.  
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2025.02.07.634992v1)
-  
-- **FocalSV: target region-based structural variant assembly and refinement using single-molecule long read sequencing data.**  
-  **C. Luo**†, **Z. J. Zhou**†, **Y. H. Liu**, **X. M. Zhou**.  
-  [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.11.21.624735v1)
 
 - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data.**  
   **W. Yuan**†, **C. Luo**†, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory\*, **X. M. Zhou**\*.  
@@ -61,6 +57,10 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ## Peer-reviewed Publications
 
 ### 2025
+- **FocalSV enables target region-based structural variant assembly and refinement using single-molecule long read sequencing data.**  
+  **C. Luo**†, **Z. J. Zhou**†, **Y. H. Liu**, **X. M. Zhou**.  
+  _Genome Research_ (2025) (accepted) [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.11.21.624735v1)
+  
 - **Brain structure and activity predicting cognitive maturation in adolescence.**  
   J. Zhu, C. M. Garin, X.-L. Qi, A. Machado, Z. Wang, S. B. Hamed, T. R. Stanford, E. Salinas, C. T. Whitlow, A. W. Anderson, **X. M. Zhou**, F. Calabro, B. Luna, C.   Constantinidis.  
   _Nature Neuroscience_ (2025) (in press) [DOI](https://www.biorxiv.org/content/10.1101/2024.08.23.608315v1)
