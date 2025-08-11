@@ -219,16 +219,16 @@ author_profile: true
  <!-- </tr> -->
 </table>
 
-## Remote Student Intern
+## Remote/In-person Student Intern
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
-    <!-- <td>
+     <td>
         <div style="text-align: center">
             <img src="/images/students/YiruChen.jpg" class="student-profile-pic">
         </div>
         <b>Yiru Chen</b> <br>(2024 Spring – present) <br>
         Biomedical Informatics, Zhejiang University  ’26
-     </td> -->
+     </td> 
     <!-- <td>
         <div style="text-align: center">
             <img src="/images/students/IMG_2146.jpg" class="student-profile-pic">
