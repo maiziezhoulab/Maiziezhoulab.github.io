@@ -59,7 +59,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2025
 - **FocalSV enables target region-based structural variant assembly and refinement using single-molecule long read sequencing data.**  
   **C. Luo**†, **Z. J. Zhou**†, **Y. H. Liu**, **X. M. Zhou**.  
-  _Genome Research_ (2025) (accepted) [DOI](https://www.biorxiv.org/content/10.1101/2024.11.21.624735v1)
+  _Genome Research_ (2025) (in press) [DOI](https://doi.org/10.1101/gr.280282.124)
   
 - **Brain structure and activity predicting cognitive maturation in adolescence.**  
   J. Zhu, C. M. Garin, X.-L. Qi, A. Machado, Z. Wang, S. B. Hamed, T. R. Stanford, E. Salinas, C. T. Whitlow, A. W. Anderson, **X. M. Zhou**, F. Calabro, B. Luna, C.   Constantinidis.  
