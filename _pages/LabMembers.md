@@ -89,7 +89,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/yuling_zhu.jpg" class="student-profile-pic">
         </div>
-        <b>Yuling Zhu</b> <br> (incoming Fall 2025) <br>
+        <b>Yuling Zhu</b> <br> (Fall 2025 - Present) <br>
         Ph.D. Student in Biomedical Engineering
         (co-advised by <a href="https://www.shanmeltzerlab.com/shan" target="_blank">Dr. Shan Meltzer</a>)
     </td>
