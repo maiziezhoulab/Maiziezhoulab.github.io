@@ -63,7 +63,7 @@ author_profile: true
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/manfei_xie2025.jpg" class="student-profile-pic">
+            <img src="/images/students/manfei_xie_2025.jpg" class="student-profile-pic">
         </div>
         <b>Manfei Xie</b> <br>(2024 Spring – Present) <br>
         Ph.D. Student in Biomedical Engineering
