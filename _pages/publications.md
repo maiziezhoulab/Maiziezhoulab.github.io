@@ -24,6 +24,10 @@ Lab members are **bold**.
 used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
+- **Interpretable spatial multi-omics data integration and dimension reduction with SpaMV.**  
+   Y. Liu, K. Ma, H. Xu, K. Xu, **Y. Hu**, **Z. Lin**, J. Lin, B. Han, S. Li, Z. Lin, Z. Zhang, **X. M. Zhou\***, L. Zhang\*.  
+  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2025.08.02.668264v1)
+
 - **Enhancing variant detection in complex genomes: leveraging linked reads for robust SNP, Indel, and structural variant analysis.**  
    **C. Luo**†, **Y. H. Liu**†, **H. Liu**, Z. Zhang, L. Zhang, B. A. Peters\*, **X. M. Zhou\***.  
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2025.03.31.646392v1)
