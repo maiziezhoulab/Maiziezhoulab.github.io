@@ -9,7 +9,8 @@ author_profile: true
 ## Teaching
 
 - ### [BME2400: Quantitative Methods I]()
-  - Vanderbilt University, 2024 Fall  
+  - Vanderbilt University, 2024 Fall
+  - Vanderbilt University, 2025 Fall  
 
 - ### [BME2302: Systems Physiology II]()
   - Vanderbilt University, 2022 Fall
