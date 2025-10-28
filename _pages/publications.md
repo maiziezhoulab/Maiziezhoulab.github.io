@@ -65,7 +65,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   **C. Luo**†, **Z. J. Zhou**†, **Y. H. Liu**, **X. M. Zhou**.  
   _Genome Research_ (2025) 10.1101/gr.280282.124 [DOI](https://doi.org/10.1101/gr.280282.124)
   
-- **RNN\_PFCmaturation: codes for neural networks to model brain maturation during learning working memory and response inhibition tasks. https://github.com/maiziezhoulab/RNN_BrainMaturation.**  
+- **Longitudinal measures of monkey brain structure and activity through adolescence predict cognitive maturation.**  
   J. Zhu, C. M. Garin, X.-L. Qi, A. Machado, Z. Wang, S. B. Hamed, T. R. Stanford, E. Salinas, C. T. Whitlow, A. W. Anderson, **X. M. Zhou**, F. Calabro, B. Luna, C.   Constantinidis.  
   _Nature Neuroscience_ (2025) [DOI](https://doi.org/10.1038/s41593-025-02076-0)
   
