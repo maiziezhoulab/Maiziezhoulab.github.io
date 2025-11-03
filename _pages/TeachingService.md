@@ -34,7 +34,7 @@ author_profile: true
 
 ### Editorial Service
 **Guest Editor**, Genome Biology,              2025 – present   
-**Guest Associate Editor**, Frontiers in Genetics,              2020 – present
+**Guest Associate Editor**, Frontiers in Genetics,              2020 – 2024
 
 ### Conference and Workshop Organization
 **Area Chair**, the 16th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2025), October 11–15, Philadelphia, PA
