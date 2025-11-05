@@ -88,7 +88,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 - **SCCNAInfer: A robust and accurate tool to infer the absolute copy number on scDNA-seq data.**  
   L. Zhang, **X. M. Zhou**, X. Mallory.  
-  _Bioinformatics_ (2024) 40(7), btae454. [DOI](https://doi.org/10.1093/bioinformatics/btae454)
+  _Bioinformatics_ (2024) 40(7). [DOI](https://doi.org/10.1093/bioinformatics/btae454)
 
 - **Parallel signatures of cognitive maturation in primate antisaccade performance and prefrontal activity.**  
   J. Zhu, **X. M. Zhou**, C. Constantinidis, E. Salinas, T. R. Stanford.  
