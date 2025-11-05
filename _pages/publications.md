@@ -59,7 +59,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2025
 - **MaskGraphene: an advanced framework for interpretable joint representation for multi-slice, multi-condition spatial transcriptomics.**  
   **Y. Hu**, **Z. Lin**, **M. Xie**, **W. Yuan**, **Y. Li**, **M. Rao**, **Y. H. Liu**, W. Shen, L. Zhang\*, **X. M. Zhou**\*.  
-  _Genome Biology_ (2025) (accepted) [DOI](https://www.biorxiv.org/content/10.1101/2024.02.21.581387v2)
+  _Genome Biology_ (2025) 26:380. [DOI](https://www.biorxiv.org/content/10.1101/2024.02.21.581387v2)
   
 - **FocalSV enables target region-based structural variant assembly and refinement using single-molecule long read sequencing data.**  
   **C. Luo**†, **Z. J. Zhou**†, **Y. H. Liu**, **X. M. Zhou**.  
@@ -67,7 +67,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   
 - **Longitudinal measures of monkey brain structure and activity through adolescence predict cognitive maturation.**  
   J. Zhu, C. M. Garin, X.-L. Qi, A. Machado, Z. Wang, S. B. Hamed, T. R. Stanford, E. Salinas, C. T. Whitlow, A. W. Anderson, **X. M. Zhou**, F. Calabro, B. Luna, C.   Constantinidis.  
-  _Nature Neuroscience_ (2025) [DOI](https://doi.org/10.1038/s41593-025-02076-0)
+  _Nature Neuroscience_ (2025) 28, 2344-2355. [DOI](https://doi.org/10.1038/s41593-025-02076-0)
   
 - **Large indel detection in region-based phased diploid assemblies from linked-reads.**  
   **C. Luo**, B. A. Peters, **X. M. Zhou**.    
