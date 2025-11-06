@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Awards and Achievements
+- **Nov. 6, 2025**  
+  Congratulations to **Maizie** on receiving the **Provost’s Faculty Grant for Immersion Vanderbilt** to support Immersion Vanderbilt Cohort Project: Integrative AI Methods for Cell Type Transfer in Spatial Biology.
 - **May. 30, 2025**  
   Congratulations to **Maizie** on being selected as an awardee for **Global Engagement Travel Grants**.
 - **May. 6, 2025**  
