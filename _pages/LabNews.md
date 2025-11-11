@@ -36,6 +36,8 @@ author_profile: true
 ---
 
 ## Milestones
+- **Nov. 10, 2025**  
+  Congratulations to **Zhenhan Lin**, she passed her prelim exam today!
 - **Apr. 11, 2025**  
   Congratulations to **Weiman Yuan**, he passed her qualifying exam today!
 - **Apr. 08, 2025**  
