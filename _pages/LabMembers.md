@@ -156,7 +156,7 @@ author_profile: true
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/DerekYoung.jpg" class="student-profile-pic">
+            <img src="/images/students/DerekYoung.JPG" class="student-profile-pic">
         </div>
         <b>Derek Young</b> <br>(Fall 2025 - Present) <br>
         Undergraduate Researcher in Biomedical Engineering
