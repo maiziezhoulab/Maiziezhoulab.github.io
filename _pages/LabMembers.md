@@ -257,7 +257,7 @@ author_profile: true
   First Job: Master’s student in Biomedical Informatics @ Harvard
   
 - **Sona Javadi**  
-  CS, BS, 2023 Spring - 2024 Spring 
+  CS, BS, 2023 Spring - 2024 Spring     
   First Job: PhD Student in CS @ UCSC
   
 - **Zimeng (Jamie) Zhou**  
