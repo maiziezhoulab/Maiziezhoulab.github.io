@@ -116,21 +116,14 @@ author_profile: true
     </td>
    <td>
         <div style="text-align: center">
-            <img src="/images/students/yujiewang.jpg" class="student-profile-pic">
-        </div>
-        <b>Yujie Wang</b> <br>(Summer 2024 - Present) <br>
-        Undergraduate Researcher in Mathematics & Computer Science
-    </td>
-</tr>
-<tr>
-    <td>
-        <div style="text-align: center">
             <img src="/images/students/KeyiTang.jpg" class="student-profile-pic">
         </div>
         <b>Keyi Tang</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Computer Science & Applied Mathematics
     </td>
-
+   
+</tr>
+<tr>    
     <td>
         <div style="text-align: center">
             <img src="/images/students/MelanieFernandez.jpg" class="student-profile-pic">
@@ -145,8 +138,6 @@ author_profile: true
         <b>Miao (Serena) Deng</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Computer Science & Medicine, Health, and Society
     </td>  
-</tr>
-<tr>
     <td>
         <div style="text-align: center">
             <img src="/images/students/hanzewu.jpg" class="student-profile-pic">
@@ -154,12 +145,28 @@ author_profile: true
         <b>Louis Wu</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Cellular and Molecular Biology
     </td>
+</tr>
+<tr>    
     <td>
         <div style="text-align: center">
             <img src="/images/students/gigiliu.jpg" class="student-profile-pic">
         </div>
         <b>Gigi Liu</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Computer Science & Cognitive Studies
+    </td>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/DerekYoung.jpg" class="student-profile-pic">
+        </div>
+        <b>Derek Young</b> <br>(Fall 2025 - Present) <br>
+        Undergraduate Researcher in Biomedical Engineering
+    </td>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/Zuzanna Szul.jpg" class="student-profile-pic">
+        </div>
+        <b>Zuzanna Szul</b> <br>(Fall 2025 - Present) <br>
+        Undergraduate Researcher in Computer Science & Mathematics
     </td>
   
   
