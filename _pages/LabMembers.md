@@ -295,6 +295,11 @@ author_profile: true
   Informatics, MS, 2020 Fall – 2021 Summer  
   First Job: Ph.D. student in CS @ University of Sheffield
 
+## High School Students
+- **Lily Wang**  
+  2024 Spring - 2025 Summer       
+  First Job: Undergraduate student in CS @ Northwestern University
+
 ## Undergraduate Students (>= 2 semesters)
 - **Yujie Wang**  
   CS, BS, 2024 Summer - 2025 Spring       
