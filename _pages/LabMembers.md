@@ -258,7 +258,8 @@ author_profile: true
   
 - **Sona Javadi**  
   CS, BS, 2023 Spring - 2024 Spring 
-
+  First Job: PhD Student in CS @ UCSC
+  
 - **Zimeng (Jamie) Zhou**  
   CS & Mathematics, BS, 2022 Fall – 2024 Spring  
   First Job: Goldman Sachs @ Dallas
