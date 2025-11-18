@@ -221,7 +221,7 @@ author_profile: true
 ## High School Students
 
 - **Lily Bowen**  
-  The Harpeth Hall School (Honors STEM Research Course for girls), 2023/08 – 2024/05
+  The Harpeth Hall School (Honors STEM Research Course for girls), 2023/08 – 2024/05    
   First Job: Undergraduate student in CS @ Northwestern University
 
 
