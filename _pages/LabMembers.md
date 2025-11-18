@@ -176,55 +176,10 @@ author_profile: true
 </table>
 
 
-## High School Student Intern
-<table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
- <tr>
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/IMG_2146.jpg" class="student-profile-pic">
-        </div>
-        <b>Lily Wang</b><br> (2024/01 – present) <br>
-        The Harpeth Hall School
-    </td>
-   <!-- <td>
-        <div style="text-align: center">
-            <img src="/images/students/Jimmy.jpg" class="student-profile-pic">
-        </div>
-        <b>Jimmy Baek</b> (Summer 23 - Present) <br>
-        Undergraduate Researcher in Computer Science & Medicine, Health, and Society
-    </td> -->
 
-</tr>
-<!-- <tr> -->
- 
-<!-- <td>
-        <div style="text-align: center">
-            <img src="/images/students/manish.jpeg" class="student-profile-pic">
-        </div>
-        <b>Yujie Wang</b> (Summer 2024 - Present) <br>
-        Undergraduate Researcher in Mathematics & Computer Science
-    </td> -->
-
- <!-- <td>
-        <div style="text-align: center">
-            <img src="/images/students/esha.JPEG" class="student-profile-pic">
-        </div>
-        <b>Esha Rashid</b> (Fall 2024 - Present) <br>
-        Undergraduate Researcher at Vanderbilt 
-    </td>
-
-  <td>
-        <div style="text-align: center">
-            <img src="/images/students/helen.jpg" class="student-profile-pic">
-        </div>
-        <b>Helen Wu</b> (Fall 2024 - Present) <br>
-        Undergraduate Researcher at Vanderbilt 
-    </td> -->
 
  
 
- <!-- </tr> -->
-</table>
 
 ## Remote/In-person Student Intern
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
