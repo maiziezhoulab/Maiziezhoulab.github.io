@@ -24,6 +24,14 @@ Lab members are **bold**.
 used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
+- **From features to slice: parameter-cloud modeling of spatial transcriptomics for simulation and 3D interpolatory augmentation.**  
+  **Y. Chen**†, **M. Xie**†, **Y. Hu**, **W. Yuan**, H. Sarkar, B. Li, L. Zhang\*, **X. M. Zhou\***.     
+  [_bioRxiv_ (2025)]
+  
+- **BioLACE: unifying spatial geometry and marker priors for cohesive cell-type clustering in spatial transcriptomics.**
+  **H. Qin**, **Y. Hu**, **Y. Zhu**, **J. Beak**, **W. Yuan**, S. Meltzer, **X. M. Zhou**   
+  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.64898/2025.12.01.691603v1)
+  
 - **Interpretable spatial multi-omics data integration and dimension reduction with SpaMV.**  
    Y. Liu, K. Ma, H. Xu, K. Xu, **Y. Hu**, **Z. Lin**, J. Lin, B. Han, S. Li, Z. Lin, Z. Zhang, **X. M. Zhou\***, L. Zhang\*.  
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2025.08.02.668264v1)
