@@ -28,7 +28,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   **Y. Chen**†, **M. Xie**†, **Y. Hu**, **W. Yuan**, H. Sarkar, B. Li, L. Zhang\*, **X. M. Zhou\***.     
   [_bioRxiv_ (2025)]
   
-- **BioLACE: unifying spatial geometry and marker priors for cohesive cell-type clustering in spatial transcriptomics.**
+- **BioLACE: unifying spatial geometry and marker priors for cohesive cell-type clustering in spatial transcriptomics.**    
   **H. Qin**, **Y. Hu**, **Y. Zhu**, **J. Beak**, **W. Yuan**, S. Meltzer, **X. M. Zhou**        
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.64898/2025.12.01.691603v1)
   
