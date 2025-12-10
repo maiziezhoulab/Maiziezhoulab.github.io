@@ -48,10 +48,6 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   R. Khan, **X. M. Zhou**\*, X. Mallory\*.      
   (2025)
   
-- **SCGclust: single cell graph clustering using graph autoencoders integrating SNVs and CNAs.**                      
-  T. Potu†, **Y. Hu**†, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*.            
-  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2025.01.28.635357v1)
-  
 - **stDyer-image improves clustering analysis of spatially resolved transcriptomics and proteomics with morphological images.**        
   K. Xu, **X. M. Zhou\***, L. Zhang*.  
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2025.02.07.634992v1)
@@ -65,6 +61,10 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ## Peer-reviewed Publications
 
 ### 2025
+- **SCGclust: single cell graph clustering using graph autoencoders integrating SNVs and CNAs.**                      
+  T. Potu†, **Y. Hu**†, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*.            
+  [_Mathematics_ (2025)](accepted)
+  
 - **MaskGraphene: an advanced framework for interpretable joint representation for multi-slice, multi-condition spatial transcriptomics.**  
   **Y. Hu**, **Z. Lin**, **M. Xie**, **W. Yuan**, **Y. Li**, **M. Rao**, **Y. H. Liu**, W. Shen, L. Zhang\*, **X. M. Zhou**\*.  
   _Genome Biology_ (2025) 26:380. [DOI](https://www.biorxiv.org/content/10.1101/2024.02.21.581387v2)
