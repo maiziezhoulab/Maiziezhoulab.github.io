@@ -63,7 +63,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2025
 - **SCGclust: single cell graph clustering using graph autoencoders integrating SNVs and CNAs.**                      
   T. Potu†, **Y. Hu**†, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*.            
-  [_Mathematics_ (2025)](accepted)
+  _Mathematics_ (2025) (Accepted)
   
 - **MaskGraphene: an advanced framework for interpretable joint representation for multi-slice, multi-condition spatial transcriptomics.**  
   **Y. Hu**, **Z. Lin**, **M. Xie**, **W. Yuan**, **Y. Li**, **M. Rao**, **Y. H. Liu**, W. Shen, L. Zhang\*, **X. M. Zhou**\*.  
