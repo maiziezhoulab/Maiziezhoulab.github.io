@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Awards and Achievements
+- **Dec. 17, 2025**  
+  Congratulations to **Yunfei Hu** for receiving the prestigious **Graduate School Endowed Awards - Edward Ferguson Jr. Graduate Award**.
+- **Dec. 17, 2025**  
+  Congratulations to **Can Luo** for receiving the prestigious **Graduate School Endowed Awards - Lai Sulin Scholarship**.
 - **Nov. 6, 2025**  
   Congratulations to **Maizie** on receiving the **Provost’s Faculty Grant for Immersion Vanderbilt** to support Immersion Vanderbilt Cohort Project: Integrative AI Methods for Cell Type Transfer in Spatial Biology.
 - **May. 30, 2025**  
