@@ -64,14 +64,15 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Peer-reviewed Publications
 
-### 2025
+### 2026
 - **SCGclust: single cell graph clustering using graph autoencoders integrating SNVs and CNAs.**                      
-  T. Potu†, **Y. Hu**†, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*.            
-  _Mathematics_ (2025) (Accepted)
-  
+  T. Potu†, **Y. Hu**†, J. WANG, H. Chi, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*.            
+  _Mathematics_ (2026) 14(1),46. [DOI](https://doi.org/10.3390/math14010046)
+
+### 2025
 - **MaskGraphene: an advanced framework for interpretable joint representation for multi-slice, multi-condition spatial transcriptomics.**  
   **Y. Hu**, **Z. Lin**, **M. Xie**, **W. Yuan**, **Y. Li**, **M. Rao**, **Y. H. Liu**, W. Shen, L. Zhang\*, **X. M. Zhou**\*.  
-  _Genome Biology_ (2025) 26:380. [DOI](https://www.biorxiv.org/content/10.1101/2024.02.21.581387v2)
+  _Genome Biology_ (2025) 26:380. [DOI](https://doi.org/10.1186/s13059-025-03850-w)
   
 - **FocalSV enables target region-based structural variant assembly and refinement using single-molecule long read sequencing data.**  
   **C. Luo**†, **Z. J. Zhou**†, **Y. H. Liu**, **X. M. Zhou**.  
