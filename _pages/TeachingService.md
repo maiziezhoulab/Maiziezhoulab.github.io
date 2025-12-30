@@ -24,6 +24,7 @@ author_profile: true
   - Vanderbilt University, 2023 Fall
 
 - ### [BME3890/BME8901: Special Topics – Computational Genomics]()
+  - Vanderbilt University, 2026 Spring
   - Vanderbilt University, 2025 Spring
   - Vanderbilt University, 2024 Spring
   - Vanderbilt University, 2021 Fall
