@@ -26,7 +26,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ## Preprints/Under Review
 - **Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain.**    
   Q. Wang†, **Y. Hu**†, **Y. Zhu**, J. Peng, E. Osei-Asante, G. Chelliah, M. Sobanko, B. Sanchez, D. D. Ginty\*, **X. M. Zhou\***, S. Meltzer\*.    
-  [(2025)]
+  (2025)
   
 - **From features to slice: parameter-cloud modeling of spatial transcriptomics for simulation and 3D interpolatory augmentation.**  
   **Y. Chen**†, **M. Xie**†, **Y. Hu**, **W. Yuan**, H. Sarkar, B. Li, L. Zhang\*, **X. M. Zhou\***.     
