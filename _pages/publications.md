@@ -66,7 +66,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ### 2026
 - **SCGclust: single cell graph clustering using graph autoencoders integrating SNVs and CNAs.**                      
-  T. Potu†, **Y. Hu**†, J. WANG, H. Chi, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*.            
+  T. Potu†, **Y. Hu**†, J. Wang, H. Chi, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*.            
   _Mathematics_ (2026) 14(1),46. [DOI](https://doi.org/10.3390/math14010046)
 
 ### 2025
