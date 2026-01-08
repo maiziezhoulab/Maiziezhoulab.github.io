@@ -178,7 +178,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/XiwenZhang.jpg" class="student-profile-pic">
         </div>
-        <b>Gigi Liu</b> <br>(Fall 2025 - Present) <br>
+        <b>Xiwen Zhang</b> <br>(Fall 2025 - Present) <br>
         Undergraduate Researcher in Integrative Biology & Computer Science
     </td>
    
