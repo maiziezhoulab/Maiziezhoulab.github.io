@@ -11,6 +11,26 @@ author_profile: true
   </p>
 </div>
 
+<div style="text-align: center;">
+  <img src="/images/labpics/CanLuo_phd_defense_2026_01_21_use1.jpg" alt="Can Luo's PhD defense" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2026 Jan 21 Can Luo's PhD defense - Maizie & Dr. Luo ~
+  </p>
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/labpics/CanLuo_phd_defense_2026_01_21_use2.jpg" alt="Can Luo's PhD defense" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2026 Jan 21 Can Luo's PhD defense Cake - Maizie & Dr. Luo ~
+  </p>
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/labpics/CanLuo_phd_defense_2026_01_21_use4.jpg" alt="Can Luo's PhD defense" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2026 Jan 21 Can Luo's PhD defense - Huge congratulations to Dr. Can Luo, she successfully passed her PhD defense! 🎉~
+  </p>
+</div>
 
 <div style="text-align: center;">
   <img src="/images/labpics/VUSE_best_paper_award_2024-2025.jpg" alt="VUSE Best Paper Award" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
