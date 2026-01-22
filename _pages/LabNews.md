@@ -40,6 +40,8 @@ author_profile: true
 ---
 
 ## Milestones
+- **Jan. 21, 2026**  
+  Huge congratulations to **Dr. Can Luo**, she successfully passed her PhD defense today! 🎉
 - **Nov. 10, 2025**  
   Congratulations to **Zhenhan Lin**, she passed her prelim exam today!
 - **Apr. 11, 2025**  
