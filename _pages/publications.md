@@ -24,9 +24,13 @@ Lab members are **bold**.
 used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
-- **Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain.**    
-  Q. Wang†, **Y. Hu**†, **Y. Zhu**, J. Peng, E. Osei-Asante, G. Chelliah, M. Sobanko, B. Sanchez, D. D. Ginty\*, **X. M. Zhou\***, S. Meltzer\*.     
-  [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.01.10.698734v1) 
+- **Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain.**     
+  Q. Wang†, **Y. Hu**†, **Y. Zhu**, J. Peng, E. Osei-Asante, G. Chelliah, M. Sobanko, B. Sanchez, D. D. Ginty\*, **X. M. Zhou\***, S. Meltzer\*.  
+  [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.01.10.698734v1)
+
+- **scCotag: Diagonal integration of single-cell multi-omics data via prior-informed co-optimal transport and regularized barycentric mapping.**     
+  Y. Li†, Y. Tan, R. Chen, **X. M. Zhou**, Y. Chen, Y. Huo, X. Guo, A. Tiwari, Z. Wen, X. Zhong, B. A. Malin, B. Li, Z. Yin.      
+  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.64898/2025.12.11.693589v1) 
   
 - **ResGAT: sample-efficient graph attention for appendiceal cancer subtypes whole slide image analysis.**    
   **Z. Lin**, H. Tong, **Y. Hu**, X. S. Gui, J. Shen, B. Lee, L. Zhang, D. Moyer, M. Zhou, **X. M. Zhou\***, K. Votanopoulos\*.    
