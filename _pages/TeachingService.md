@@ -40,7 +40,7 @@ author_profile: true
 ### Conference and Workshop Organization
 **Program Committee**, 30th Annual International Conference on Research in Computational Molecular Biology (RECOMB), May 26-29, 2026, Thessaloniki, Greece
 
-**Area Chair**, 17th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2026), June 30-July 03, Calabria, Italy
+**Area Chair**, 17th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2026), June 30-July 03, Calabria, Italy  
 
 **Area Chair**, 16th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2025), October 11–15, Philadelphia, PA
 
