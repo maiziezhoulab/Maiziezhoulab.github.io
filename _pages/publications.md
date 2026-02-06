@@ -59,10 +59,6 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 - **scLongTree: an accurate computational tool to infer the longitudinal tree for single-cell DNA sequencing data.**  
   R. Khan, **X. M. Zhou**\*, X. Mallory\*.      
   (2025)
-  
-- **stDyer-image improves clustering analysis of spatially resolved transcriptomics and proteomics with morphological images.**        
-  K. Xu, **X. M. Zhou\***, L. Zhang*.  
-  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2025.02.07.634992v1)
 
 - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data.**  
   **W. Yuan**†, **C. Luo**†, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory\*, **X. M. Zhou**\*.  
@@ -73,6 +69,10 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ## Peer-reviewed Publications
 
 ### 2026
+- **stDyer-image improves clustering analysis of spatially resolved transcriptomics and proteomics with morphological images.**        
+  K. Xu, **X. M. Zhou\***, L. Zhang*.  
+   _Bioinformatics_ (2026) (accepted)   
+  
 - **SCGclust: single cell graph clustering using graph autoencoders integrating SNVs and CNAs.**                      
   T. Potu†, **Y. Hu**†, J. Wang, H. Chi, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*.            
   _Mathematics_ (2026) 14(1),46. [DOI](https://doi.org/10.3390/math14010046)
