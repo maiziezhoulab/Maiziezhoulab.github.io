@@ -31,10 +31,6 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 - **scCotag: Diagonal integration of single-cell multi-omics data via prior-informed co-optimal transport and regularized barycentric mapping.**     
   Y. Li†, Y. Tan, R. Chen, **X. M. Zhou**, Y. Chen, Y. Huo, X. Guo, A. Tiwari, Z. Wen, X. Zhong, B. A. Malin, B. Li, Z. Yin.      
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.64898/2025.12.11.693589v1) 
-  
-- **ResGAT: sample-efficient graph attention for appendiceal cancer subtypes whole slide image analysis.**    
-  **Z. Lin**, H. Tong, **Y. Hu**, X. S. Gui, J. Shen, B. Lee, L. Zhang, D. Moyer, M. Zhou, **X. M. Zhou\***, K. Votanopoulos\*.    
-  (2025)
     
 - **From features to slice: parameter-cloud modeling of spatial transcriptomics for simulation and 3D interpolatory augmentation.**  
   **Y. Chen**†, **M. Xie**†, **Y. Hu**, **W. Yuan**, H. Sarkar, B. Li, L. Zhang\*, **X. M. Zhou\***.     
@@ -69,6 +65,10 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ## Peer-reviewed Publications
 
 ### 2026
+- **ResGAT: sample-efficient graph attention for appendiceal cancer subtypes whole slide image analysis.**    
+  **Z. Lin**, H. Tong, **Y. Hu**, X. S. Gui, J. Shen, B. Lee, L. Zhang, D. Moyer, M. Zhou, **X. M. Zhou\***, K. Votanopoulos\*.    
+  _Medical Imaging with Deep Learning_ (2026) (accepted)        
+  
 - **stDyer-image improves clustering analysis of spatially resolved transcriptomics and proteomics with morphological images.**        
   K. Xu, **X. M. Zhou\***, L. Zhang*.  
    _Bioinformatics_ (2026) (accepted)   
