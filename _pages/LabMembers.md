@@ -149,10 +149,10 @@ author_profile: true
 <tr>    
     <td>
         <div style="text-align: center">
-            <img src="/images/students/gigiliu.jpg" class="student-profile-pic">
+            <img src="/images/students/wenjunmao.jpg" class="student-profile-pic">
         </div>
-        <b>Gigi Liu</b> <br>(Spring 2025 - Present) <br>
-        Undergraduate Researcher in Computer Science & Cognitive Studies
+        <b>Wenjun (Maggie) Mao</b> <br>(Fall 2025 - Present) <br>
+        Undergraduate Researcher in Computer Science & Applied Mathematics
     </td>
     <td>
         <div style="text-align: center">
