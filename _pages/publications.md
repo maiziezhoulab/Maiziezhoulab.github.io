@@ -67,7 +67,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2026
 - **ResGAT: A residual graph attention network for cancer subtype classification in whole slide images.**    
   **Z. Lin**, H. Tong, **Y. Hu**, X. S. Gui, J. Shen, B. Lee, L. Zhang, D. Moyer, M. Zhou, **X. M. Zhou\***, K. Votanopoulos\*.    
-  _Medical Imaging with Deep Learning_ (2026) (accepted)        
+  _Medical Imaging with Deep Learning_ (2026)        
   
 - **stDyer-image improves clustering analysis of spatially resolved transcriptomics and proteomics with morphological images.**        
   K. Xu, **X. M. Zhou\***, L. Zhang*.  
