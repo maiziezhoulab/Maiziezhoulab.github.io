@@ -65,7 +65,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ## Peer-reviewed Publications
 
 ### 2026
-- **ResGAT: sample-efficient graph attention for appendiceal cancer subtypes whole slide image analysis.**    
+- **ResGAT: A residual graph attention network for cancer subtype classification in whole slide images.**    
   **Z. Lin**, H. Tong, **Y. Hu**, X. S. Gui, J. Shen, B. Lee, L. Zhang, D. Moyer, M. Zhou, **X. M. Zhou\***, K. Votanopoulos\*.    
   _Medical Imaging with Deep Learning_ (2026) (accepted)        
   
