@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Awards and Achievements
+- **Feb. 22, 2026**  
+  Congratulations to **Can Luo** for receiving the prestigious **Outstanding Graduate Student Award**, one of only three recipients selected across the entire university.
 - **Dec. 17, 2025**  
   Congratulations to **Yunfei Hu** for receiving the prestigious **Graduate School Endowed Awards - Edward Ferguson Jr. Graduate Award**.
 - **Dec. 17, 2025**  
