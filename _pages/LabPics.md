@@ -5,6 +5,27 @@ permalink: /LabPics/
 author_profile: true
 ---
 <div style="text-align: center;">
+  <img src="/images/labpics/canluo_outstanding_student_Plaque2026_2.jpg" alt="2026 Vanderbilt Graduate Education Honors Banquet" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2026 Mar 19 Vanderbilt Graduate Education Honors Banquet - Can Luo's Outstanding Doctoral Student Award Announcement
+  </p>
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/labpics/canluo_outstanding_student_Plaque2026.jpg" alt="2026 Vanderbilt Graduate Education Honors Banquet" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2026 Mar 19 Vanderbilt Graduate Education Honors Banquet - Can Luo's Outstanding Doctoral Student Award Plaque
+  </p>
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/labpics/award_ceremony2026_03_19.jpg" alt="2026 Vanderbilt Graduate Education Honors Banquet" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2026 Mar 19 Vanderbilt Graduate Education Honors Banquet - Can Luo (Outstanding Doctoral Student Award & Lai Sulin Scholarship); Yunfei Hu (Edward Ferguson, Jr. Graduate Award)  🎉~
+  </p>
+</div>
+
+<div style="text-align: center;">
   <img src="/images/labpics/CanLuo_phd_defense_2026_01_21_use3.jpg" alt="Can Luo's PhD defense" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2026 Jan 21 Can Luo's PhD defense - Huge congratulations to Dr. Can Luo, she successfully passed her PhD defense! 🎉~
