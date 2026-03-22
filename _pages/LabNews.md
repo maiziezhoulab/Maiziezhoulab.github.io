@@ -17,11 +17,11 @@ author_profile: true
 - **May. 30, 2025**  
   Congratulations to **Maizie** on being selected as an awardee for **Global Engagement Travel Grants**.
 - **May. 6, 2025**  
-  Congratulations to **Yichen Liu, Can Luo, and Maizie** for receiving the **VUSE Best Paper Award/Outstanding Graduate Student Research Paper**.
+  Congratulations to **Yichen Liu, Can Luo, and Maizie** for receiving the <span style="color:blue;"><strong>VUSE Best Paper Award/Outstanding Graduate Student Research Paper</strong></span>.
 - **Mar. 12, 2025**  
-  Congratulations to **Yuqi Lei** for receiving the **2025 Graduate School Travel Grant**.
+  Congratulations to **Yuqi Lei** for receiving the **2025 Graduate School Travel Grant</strong></span>.
 - **Mar. 6, 2025**  
-  Congratulations to **Can Luo** for receiving the prestigious **2025 Provost's Pathbreaking Discovery Award**.
+  Congratulations to **Can Luo** for receiving the prestigious <span style="color:blue;"><strong>2025 Provost's Pathbreaking Discovery Award**.
 - **Mar. 6, 2025**  
   Congratulations to **Keyi Tang & Miao Deng** on being selected for the  **2025 Vanderbilt Undergraduate Summer Research Program (VUSRP) Awardees**. They will each receive a $6000 award stipend.
 - **Jul. 3, 2024**  
