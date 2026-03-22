@@ -96,10 +96,10 @@ transcriptomics data”* on Friday, May 02, 2025, at the Department of Computer 
 - **Aug. 28, 2022**     
   Maizie has been invited to give a colloquium talk titled *“Methods for characterizing structural variants with high-throughput sequencing data”* on Friday, November 18, 2022, at the Department of Computer Science of Florida State University.
 - **Apr. 18, 2022**    
- Maizie was invited to give a talk on April 22 at the 6th Annual Translational and Transformative Informatics Symposium (ATTIS), sponsored by the UAB Informatics Institute and the Center for Clinical and Translational Science, titled *“Methods for Characterizing Structural Variants with High-Throughput Sequencing Data”*.
+ Maizie was invited to give a talk on April 22 at the 6th Annual Translational and Transformative Informatics Symposium (ATTIS), sponsored by the UAB Informatics Institute and the Center for Clinical and Translational Science, titled *“Methods for characterizing structural variants with high-throughput sequencing data”*.
 - **Jan. 25, 2022**    
- Maizie was invited to present a research seminar at the Bioengineering Department of the University of Toledo on Friday, April 1, 2022, titled *“Methods for Characterizing Structural Variants with High-Throughput Sequencing Data”*.
+ Maizie was invited to present a research seminar at the Bioengineering Department of the University of Toledo on Friday, April 1, 2022, titled *“Methods for characterizing structural variants with high-throughput sequencing data”*.
 - **Dec. 13, 2021**    
-  Maizie was invited to present a virtual research seminar at the University of Arkansas Department of Biomedical Engineering on Friday, March 18, 2022, titled *“Methods for Characterizing Structural Variants with High-Throughput Sequencing Data”*.
+  Maizie was invited to present a virtual research seminar at the University of Arkansas Department of Biomedical Engineering on Friday, March 18, 2022, titled *“Methods for characterizing structural variants with high-throughput sequencing data”*.
 ---
 
