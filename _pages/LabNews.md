@@ -79,24 +79,27 @@ author_profile: true
 ---
 
 
-## Invited Talk
+## Invited Talk (External Conference/Seminar)
+- **Mar. 14, 2026**  
+  Maizie is invited to give a seminar talk titled *“Domain identification, integration, and 3D reconstruction with spatial
+transcriptomics data”* on Saturday, March 28, 2026, The 22nd Annual Meeting of the MidSouth Computational Biology and Bioinformatics Society (MCBIOS) at Tampa, Florida.
+- **Oct. 20, 2025**  
+  Maizie is invited to give a seminar talk titled *“Domain identification, integration, and 3D reconstruction with spatial
+transcriptomics data”* on Thursday, March 19, 2026, at the Department of Statistics and Probability at Michigan State University.
 - **Mar. 27, 2025**  
   Maizie is invited to give a seminar talk titled *“Domain identification, integration, and 3D reconstruction with spatial
 transcriptomics data”* on Friday, May 02, 2025, at the Department of Computer Science of Hong Kong Baptist University.
 - **Dec. 12, 2022**  
-  Maizie is invited to speak at the 2nd Annual Spatial Biology Congress in June 2023.
+  Maizie was invited to speak at the 2nd Annual Spatial Biology Congress in June 2023, presenting a talk titled *“Autoencoder with differentially expressed genes and imputation for robust spatial transcriptomics clustering and integration”*.
 - **Nov. 14, 2022**   
   Maizie has been invited to give a data science talk titled *“Big genomic data: algorithm design and applications”* on Tuesday, November 15, 2022, at the Department of Computer Science of Tennessee State University.
 - **Aug. 28, 2022**     
   Maizie has been invited to give a colloquium talk titled *“Methods for characterizing structural variants with high-throughput sequencing data”* on Friday, November 18, 2022, at the Department of Computer Science of Florida State University.
 - **Apr. 18, 2022**    
-  Maizie is invited to give a talk on April 22 at the 6th Annual Translational and Transformative Informatics Symposium (ATTIS), which is sponsored by UAB Informatics Institute and the Center for Clinical and Translational Science. 
+ Maizie was invited to give a talk on April 22 at the 6th Annual Translational and Transformative Informatics Symposium (ATTIS), sponsored by the UAB Informatics Institute and the Center for Clinical and Translational Science, titled *“Methods for Characterizing Structural Variants with High-Throughput Sequencing Data”*.
 - **Jan. 25, 2022**    
-  Maizie has been invited to present a research seminar on Friday, April 01, 2022, at Bioengineering of the University of Toledo.   
+ Maizie was invited to present a research seminar at the Bioengineering Department of the University of Toledo on Friday, April 1, 2022, titled *“Methods for Characterizing Structural Variants with High-Throughput Sequencing Data”*.
 - **Dec. 13, 2021**    
-  Maizie has been invited to present a virtual research seminar on Friday, March 18, 2022 at the University of Arkansas BME.
-- **Oct. 3, 2021**    
-  Maizie has been invited to give a talk on Friday, October 22, 2021 at “Frontiers of Biomedical Imaging Science” that is being organized at VUIIS. These lectures are planned to be held over Zoom, as the audience will consist of researchers across imaging fields at a variety of institutions.
-
+  Maizie was invited to present a virtual research seminar at the University of Arkansas Department of Biomedical Engineering on Friday, March 18, 2022, titled *“Methods for Characterizing Structural Variants with High-Throughput Sequencing Data”*.
 ---
 
