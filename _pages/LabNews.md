@@ -9,9 +9,9 @@ author_profile: true
 - **Feb. 20, 2026**  
   Congratulations to **Can Luo** for receiving the prestigious <span style="color:blue;"><strong>Outstanding Doctoral Student Award</strong></span>, one of three recipients selected across the entire university.
 - **Dec. 17, 2025**  
-  Congratulations to **Yunfei Hu** for receiving the prestigious **Graduate School Endowed Awards - Edward Ferguson Jr. Graduate Award**.
+  Congratulations to **Yunfei Hu** for receiving the prestigious <span style="color:blue;"><strong>Graduate School Endowed Awards - Edward Ferguson Jr. Graduate Award</strong></span>.
 - **Dec. 17, 2025**  
-  Congratulations to **Can Luo** for receiving the prestigious **Graduate School Endowed Awards - Lai Sulin Scholarship**.
+  Congratulations to **Can Luo** for receiving the prestigious <span style="color:blue;"><strong>Graduate School Endowed Awards - Lai Sulin Scholarship</strong></span>.
 - **Nov. 6, 2025**  
   Congratulations to **Maizie** on receiving the **Provost’s Faculty Grant for Immersion Vanderbilt** to support Immersion Vanderbilt Cohort Project: Integrative AI Methods for Cell Type Transfer in Spatial Biology.
 - **May. 30, 2025**  
