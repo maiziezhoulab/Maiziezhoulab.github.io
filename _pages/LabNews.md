@@ -7,21 +7,21 @@ author_profile: true
 
 ## Awards and Achievements
 - **Feb. 20, 2026**  
-  Congratulations to **Can Luo** for receiving the prestigious <span style="color:blue;"><strong>Outstanding Doctoral Student Award</strong></span>, one of three recipients selected across the entire university.
+  Congratulations to **Can Luo** for receiving the prestigious <span style="color:green;"><strong>Outstanding Doctoral Student Award</strong></span>, one of three recipients selected across the entire university.
 - **Dec. 17, 2025**  
-  Congratulations to **Yunfei Hu** for receiving the prestigious <span style="color:blue;"><strong>Graduate School Endowed Awards - Edward Ferguson Jr. Graduate Award</strong></span>.
+  Congratulations to **Yunfei Hu** for receiving the prestigious <span style="color:green;"><strong>Graduate School Endowed Awards - Edward Ferguson Jr. Graduate Award</strong></span>.
 - **Dec. 17, 2025**  
-  Congratulations to **Can Luo** for receiving the prestigious <span style="color:blue;"><strong>Graduate School Endowed Awards - Lai Sulin Scholarship</strong></span>.
+  Congratulations to **Can Luo** for receiving the prestigious <span style="color:green;"><strong>Graduate School Endowed Awards - Lai Sulin Scholarship</strong></span>.
 - **Nov. 6, 2025**  
   Congratulations to **Maizie** on receiving the **Provost’s Faculty Grant for Immersion Vanderbilt** to support Immersion Vanderbilt Cohort Project: Integrative AI Methods for Cell Type Transfer in Spatial Biology.
 - **May. 30, 2025**  
   Congratulations to **Maizie** on being selected as an awardee for **Global Engagement Travel Grants**.
 - **May. 6, 2025**  
-  Congratulations to **Yichen Liu, Can Luo, and Maizie** for receiving the <span style="color:blue;"><strong>VUSE Best Paper Award/Outstanding Graduate Student Research Paper</strong></span>.
+  Congratulations to **Yichen Liu, Can Luo, and Maizie** for receiving the <span style="color:green;"><strong>VUSE Best Paper Award/Outstanding Graduate Student Research Paper</strong></span>.
 - **Mar. 12, 2025**  
   Congratulations to **Yuqi Lei** for receiving the **2025 Graduate School Travel Grant</strong></span>.
 - **Mar. 6, 2025**  
-  Congratulations to **Can Luo** for receiving the prestigious <span style="color:blue;"><strong>2025 Provost's Pathbreaking Discovery Award</strong></span>.
+  Congratulations to **Can Luo** for receiving the prestigious <span style="color:green;"><strong>2025 Provost's Pathbreaking Discovery Award</strong></span>.
 - **Mar. 6, 2025**  
   Congratulations to **Keyi Tang & Miao Deng** on being selected for the  **2025 Vanderbilt Undergraduate Summer Research Program (VUSRP) Awardees**. They will each receive a $6000 award stipend.
 - **Jul. 3, 2024**  
