@@ -103,5 +103,8 @@ transcriptomics data”* on Friday, May 02, 2025, at the Department of Computer 
  Maizie was invited to present a research seminar at the Bioengineering Department of the University of Toledo on Friday, April 1, 2022, titled *“Methods for characterizing structural variants with high-throughput sequencing data”*.
 - **Dec. 13, 2021**    
   Maizie was invited to present a virtual research seminar at the University of Arkansas Department of Biomedical Engineering on Friday, March 18, 2022, titled *“Methods for characterizing structural variants with high-throughput sequencing data”*.
+
+
 ---
+
 
