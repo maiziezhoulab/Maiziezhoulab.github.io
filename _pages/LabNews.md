@@ -81,10 +81,12 @@ author_profile: true
 
 ## Invited Talk (External Conference/Seminar)
 - **Mar. 14, 2026**  
-  Maizie is invited to give a seminar talk titled *“Domain identification, integration, and 3D reconstruction with spatial
+  Maizie is invited to give a talk titled *“Domain identification, integration, and 3D reconstruction with spatial
 transcriptomics data”* on Saturday, March 28, 2026, The 22nd Annual Meeting of the MidSouth Computational Biology and Bioinformatics Society (MCBIOS) at Tampa, Florida.
+- **Aug. 19, 2025**  
+  Maizie was invited to give a talk titled *“Integrative and 3D spatial transcriptomics: interpretable embeddings, interpolation, and cell–cell communication”* at the Joint Statistical Meetings (JSM) in Boston in August 2026.
 - **Oct. 20, 2025**  
-  Maizie is invited to give a seminar talk titled *“Domain identification, integration, and 3D reconstruction with spatial
+  Maizie is invited to give a colloquium talk titled *“Domain identification, integration, and 3D reconstruction with spatial
 transcriptomics data”* on Thursday, March 19, 2026, at the Department of Statistics and Probability at Michigan State University.
 - **Mar. 27, 2025**  
   Maizie is invited to give a seminar talk titled *“Domain identification, integration, and 3D reconstruction with spatial
@@ -96,7 +98,7 @@ transcriptomics data”* on Friday, May 02, 2025, at the Department of Computer 
 - **Aug. 28, 2022**     
   Maizie has been invited to give a colloquium talk titled *“Methods for characterizing structural variants with high-throughput sequencing data”* on Friday, November 18, 2022, at the Department of Computer Science of Florida State University.
 - **Apr. 18, 2022**    
- Maizie was invited to give a talk on April 22 at the 6th Annual Translational and Transformative Informatics Symposium (ATTIS), sponsored by the UAB Informatics Institute and the Center for Clinical and Translational Science, titled *“Methods for characterizing structural variants with high-throughput sequencing data”*.
+ Maizie was invited to give a talk on April 22 at the 6th Annual Translational and Transformative Informatics Symposium (ATTIS), sponsored by the University of Alabama at Birmingham (UAB) Informatics Institute and the Center for Clinical and Translational Science, titled *“Methods for characterizing structural variants with high-throughput sequencing data”*.
 - **Jan. 25, 2022**    
  Maizie was invited to present a research seminar at the Bioengineering Department of the University of Toledo on Friday, April 1, 2022, titled *“Methods for characterizing structural variants with high-throughput sequencing data”*.
 - **Dec. 13, 2021**    
