@@ -42,8 +42,10 @@ author_profile: true
 ---
 
 ## Milestones
+- **Mar. 23, 2026**  
+  **Haoran (Hunter) Qin** successfully defended his CS Master’s thesis today. Congratulations~
 - **Jan. 21, 2026**  
-  Huge congratulations to **Dr. Can Luo**, she successfully passed her PhD defense today! 🎉
+  Congratulations to **Dr. Can Luo**, she successfully passed her PhD defense today! 🎉
 - **Nov. 10, 2025**  
   Congratulations to **Zhenhan Lin**, she passed her prelim exam today!
 - **Apr. 11, 2025**  
@@ -57,7 +59,7 @@ author_profile: true
 - **Nov. 16, 2022**  
   **Yunfei Hu** and **Yichen Liu** pass their CS Ph.D. prelim exams.
 - **May. 4, 2022**  
-  **Parth Datar** successfully defends his CS Master’s thesis in April 22~
+  **Parth Datar** successfully defended his CS Master’s thesis in April 22~
 
 ---
 
