@@ -28,6 +28,10 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   Q. Wang†, **Y. Hu**†, **Y. Zhu**, J. Peng, E. Osei-Asante, G. Chelliah, M. Sobanko, B. Sanchez, D. D. Ginty\*, **X. M. Zhou\***, S. Meltzer\*.  
   [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.01.10.698734v1)
 
+- **Integrating lung tissue-based transcriptome-wide association study with single-cell RNA-sequencing uncovers susceptibility genes and cell types underlying lung cancer risk.**     
+  S. Xu, J. Shi, B. Li, X. Shu, R. Tao, H. Cai, W. Wen, S. Deppen, **X. M. Zhou**, L. Xu, J. Wang, J. Wu, Y. Yang, X. Guo, W. Zheng, J. Long, Q. Cai. 
+  [_medRxiv_ (2026)](https://www.medrxiv.org/content/10.64898/2026.03.19.26348840v1)
+
 - **scCotag: Diagonal integration of single-cell multi-omics data via prior-informed co-optimal transport and regularized barycentric mapping.**     
   Y. Li†, Y. Tan, R. Chen, **X. M. Zhou**, Y. Chen, Y. Huo, X. Guo, A. Tiwari, Z. Wen, X. Zhong, B. A. Malin, B. Li, Z. Yin.      
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.64898/2025.12.11.693589v1) 
