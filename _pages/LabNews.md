@@ -17,7 +17,7 @@ author_profile: true
 - **May. 30, 2025**  
   Congratulations to **Maizie** on being selected as an awardee for **Global Engagement Travel Grants**.
 - **May. 6, 2025**  
-  Congratulations to **Yichen Liu, Can Luo, and Maizie** for receiving the <span style="color:green;"><strong>VUSE Best Paper Award/Outstanding Graduate Student Research Paper</strong></span>.
+  Congratulations to **Yichen Liu, Can Luo, and Maizie** for receiving the <span style="color:green;"><strong>VUSE Best Paper Award/Outstanding Graduate Student Research Paper</strong></span> (select 1 paper per year in the entire engineering school).
 - **Mar. 12, 2025**  
   Congratulations to **Yuqi Lei** for receiving the **2025 Graduate School Travel Grant**.
 - **Mar. 6, 2025**  
