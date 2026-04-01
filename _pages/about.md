@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 20px;">
-    <img src="images/vandy-logo.png" alt="Logo of Vanderbilt" style="margin: 10px;" width="200">
+   
     <img src="images/lab_logo_horizontal.png" alt="Lab Logo" style="margin: 10px;" width="400">
 </div>
 
