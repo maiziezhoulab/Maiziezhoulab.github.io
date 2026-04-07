@@ -37,7 +37,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   [_medRxiv_ (2026)](https://www.medrxiv.org/content/10.64898/2026.03.19.26348840v1)
 
 - **scCotag: Diagonal integration of single-cell multi-omics data via prior-informed co-optimal transport and regularized barycentric mapping.**     
-  Y. Li†, Y. Tan, R. Chen, **X. M. Zhou**, Y. Chen, Y. Huo, X. Guo, A. Tiwari, Z. Wen, X. Zhong, B. A. Malin, B. Li, Z. Yin.      
+  Y. Li, Y. Tan, R. Chen, **X. M. Zhou**, Y. Chen, Y. Huo, X. Guo, A. Tiwari, Z. Wen, X. Zhong, B. A. Malin, B. Li, Z. Yin.      
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.64898/2025.12.11.693589v1) 
     
 - **From features to slice: parameter-cloud modeling of spatial transcriptomics for simulation and 3D interpolatory augmentation.**  
