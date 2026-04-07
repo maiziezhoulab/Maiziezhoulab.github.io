@@ -61,7 +61,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v1)[_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v2)
   
 - **scLongTree: an accurate computational tool to infer the longitudinal tree for single-cell DNA sequencing data.**  
-  R. Khan, **X. M. Zhou**\*, X. Mallory\*.      
+  R. Khan†, P. Bhattarai†, L. Zhang, **X. M. Zhou**\*, X. Mallory\*.      
   (2025)
 
 - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data.**  
