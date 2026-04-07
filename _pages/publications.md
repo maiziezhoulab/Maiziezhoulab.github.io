@@ -28,6 +28,10 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   Q. Wang†, **Y. Hu**†, **Y. Zhu**, J. Peng, E. Osei-Asante, G. Chelliah, M. Sobanko, B. Sanchez, D. D. Ginty\*, **X. M. Zhou\***, S. Meltzer\*.  
   [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.01.10.698734v1)
 
+- **Trajectories of response inhibition development in adolescence.**     
+  J. Zhu, C. R. Smith, C. M. Garin, **X. M. Zhou**, F. J. Calabro, B. Luna, C. Constantinidis.  
+  [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.04.03.716386v1)
+
 - **Integrating lung tissue-based transcriptome-wide association study with single-cell RNA-sequencing uncovers susceptibility genes and cell types underlying lung cancer risk.**     
   S. Xu, J. Shi, B. Li, X. Shu, R. Tao, H. Cai, W. Wen, S. Deppen, **X. M. Zhou**, L. Xu, J. Wang, J. Wu, Y. Yang, X. Guo, W. Zheng, J. Long, Q. Cai.              
   [_medRxiv_ (2026)](https://www.medrxiv.org/content/10.64898/2026.03.19.26348840v1)
