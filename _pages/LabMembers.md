@@ -82,7 +82,7 @@ author_profile: true
         Ph.D. Student in Biomedical Engineering
         (co-advised by <a href="https://www.hwanglab.org/people" target="_blank">Dr. Tae Hyun Hwang</a>)
     </td>
- 
+ </tr> 
 </table>
 
 
