@@ -47,6 +47,7 @@ author_profile: true
         <b><a href="https://oliiverhu.github.io/" target="_blank">Yunfei Hu</a></b> <br>(Fall 2021 - Present) <br>
         Ph.D. Candidate in Computer Science 
     </td>
+    
     <td>
         <div style="text-align: center">
             <img src="/images/students/weimanyuan.jpeg" class="student-profile-pic">
@@ -71,7 +72,7 @@ author_profile: true
         <b><a href="https://cyclopsray.github.io/" target="_blank">Yuqi Lei</a></b> <br> (Fall 2024 - Present) <br>
         Ph.D. Student in Computer Science 
     </td>
-    <tr>
+   
 
   <td>
         <div style="text-align: center">
