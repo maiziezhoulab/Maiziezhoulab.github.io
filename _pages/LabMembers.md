@@ -39,13 +39,7 @@ author_profile: true
         <b><a href="https://lyc-vio.github.io/Intro/" target="_blank">Yichen (Henry) Liu</a></b> <br> (Spring 2021 - Present) <br>
         Ph.D. Candidate in Computer Science 
     </td>
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/Canluo.jpeg" class="student-profile-pic">
-        </div>
-        <b>Can Luo</b> <br> (Fall 2021 - Present) <br>
-        Ph.D. Candidate in Biomedical Engineering
-    </td>
+   
     <td>
         <div style="text-align: center">
             <img src="/images/students/yunfei.jpeg" class="student-profile-pic" >
@@ -53,15 +47,16 @@ author_profile: true
         <b><a href="https://oliiverhu.github.io/" target="_blank">Yunfei Hu</a></b> <br>(Fall 2021 - Present) <br>
         Ph.D. Candidate in Computer Science 
     </td>
- </tr>
- <tr>
-   <td>
+    <td>
         <div style="text-align: center">
             <img src="/images/students/weimanyuan.jpeg" class="student-profile-pic">
         </div>
         <b>Weiman Yuan</b> <br>(Fall 2022 - Present) <br>
         Ph.D. Candidate in Biomedical Engineering
     </td>
+ </tr>
+ <tr>
+   
     <td>
         <div style="text-align: center">
             <img src="/images/students/manfei_xie_2025.jpg" class="student-profile-pic">
@@ -76,25 +71,17 @@ author_profile: true
         <b><a href="https://cyclopsray.github.io/" target="_blank">Yuqi Lei</a></b> <br> (Fall 2024 - Present) <br>
         Ph.D. Student in Computer Science 
     </td>
- </tr>
- <tr>
-   <td>
-        <div style="text-align: center">
-            <img src="/images/students/zhenhanLin.jpeg" class="student-profile-pic">
-        </div>
-        <b>Zhenhan Lin</b> <br> (Fall 2024 - Present) <br>
-        Ph.D. Student in Computer Science
-    </td>
+    <tr>
 
   <td>
         <div style="text-align: center">
-            <img src="/images/students/yuling_zhu.jpg" class="student-profile-pic">
+            <img src="/images/students/minji kim.jpg" class="student-profile-pic">
         </div>
-        <b>Yuling Zhu</b> <br> (Fall 2025 - Present) <br>
+        <b>Minji Kim</b> <br> (Incoming Fall 2026 ) <br>
         Ph.D. Student in Biomedical Engineering
-        (co-advised by <a href="https://www.shanmeltzerlab.com/shan" target="_blank">Dr. Shan Meltzer</a>)
+        (co-advised by <a href="https://www.hwanglab.org/people" target="_blank">Dr. Tae Hyun Hwang</a>)
     </td>
- </tr>
+ 
 </table>
 
 
@@ -228,21 +215,11 @@ author_profile: true
 
 # Lab Alumni
 
-## Lab Assistants
+## PhD Students
 
-- **Sihan Ye**  
-  Computer Science, BS, 2022 Fall – 2023 Fall
-
-## High School Students
-
-- **Lily Wang**  
-  The Harpeth Hall School (Honors STEM Research Course for girls), 2024/01 – 2025/06    
-  First Job: Undergraduate student in CS @ Northwestern University
-
-- **Lily Bowen**  
-  The Harpeth Hall School (Honors STEM Research Course for girls), 2023/08 – 2024/05    
-
-
+- **Can Luo**  
+  Biomedical Engineering, PhD, 2021 Fall – 2026 Spring  
+  First Job: Postdoc fellow in Evan Eichler's lab @ University of Washington
 
 
 ## Masters Students
@@ -326,5 +303,19 @@ author_profile: true
 - **Ziqi Guo** (remote)  
   EPE, BS, 2020 Fall – 2021 Summer  
   First Job: Ph.D. student in ME @ Purdue University
+
+## Lab Assistants
+
+- **Sihan Ye**  
+  Computer Science, BS, 2022 Fall – 2023 Fall
+
+## High School Students
+
+- **Lily Wang**  
+  The Harpeth Hall School (Honors STEM Research Course for girls), 2024/01 – 2025/06    
+  First Job: Undergraduate student in CS @ Northwestern University
+
+- **Lily Bowen**  
+  The Harpeth Hall School (Honors STEM Research Course for girls), 2023/08 – 2024/05    
 
 
