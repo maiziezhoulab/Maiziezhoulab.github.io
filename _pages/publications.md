@@ -63,10 +63,6 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 - **Enhancing variant detection in complex genomes: leveraging linked reads for robust SNP, Indel, and structural variant analysis.**  
    **C. Luo**†, **Y. H. Liu**†, **H. Liu**, Z. Zhang, L. Zhang, B. A. Peters\*, **X. M. Zhou\***.  
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2025.03.31.646392v1)
-
-- **CSsingle: a unified tool for robust decomposition of bulk and spatial transcriptomic data across diverse single-cell references.**  
-  W. Shen, **Y. Hu**, Y. Lei, H.-S. Wong, C. Liu\*, S. Wu\*, **X. M. Zhou\***.  
-  [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v1)[_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2024.04.07.588458v2)
   
 - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data.**  
   **W. Yuan**†, **C. Luo**†, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory\*, **X. M. Zhou**\*.  
@@ -77,13 +73,17 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ## Peer-reviewed Publications
 
 ### 2026
+- **CSsingle: a unified tool for robust decomposition of bulk and spatial transcriptomic data across diverse single-cell references.**  
+  W. Shen, **Y. Hu**, Y. Lei, H.-S. Wong, C. Liu\*, S. Wu\*, **X. M. Zhou\***.  
+  _Nucleic Acids Research_ (2026) (accepted)
+  
 - **ResGAT: A residual graph attention network for cancer subtype classification in whole slide images.**    
   **Z. Lin**, H. Tong, **Y. Hu**, X. S. Gui, J. Shen, B. Lee, L. Zhang, D. Moyer, M. Zhou, **X. M. Zhou\***, K. Votanopoulos\*.    
   _Medical Imaging with Deep Learning_ (2026)        
   
 - **stDyer-image improves clustering analysis of spatially resolved transcriptomics and proteomics with morphological images.**        
   K. Xu, **X. M. Zhou\***, L. Zhang*.  
-   _Bioinformatics_ (2026) (in press) [DOI](https://doi.org/10.1093/bioinformatics/btag071) 
+   _Bioinformatics_ (2026) btag071. [DOI](https://doi.org/10.1093/bioinformatics/btag071) 
   
 - **SCGclust: single cell graph clustering using graph autoencoders integrating SNVs and CNAs.**                      
   T. Potu†, **Y. Hu**†, J. Wang, H. Chi, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*.            
