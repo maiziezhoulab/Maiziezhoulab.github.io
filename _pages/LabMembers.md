@@ -106,22 +106,16 @@ author_profile: true
     </td> 
     <td>
         <div style="text-align: center">
-            <img src="/images/students/miaodeng.jpg" class="student-profile-pic">
-        </div>
-        <b>Miao (Serena) Deng</b> <br>(Spring 2025 - Present) <br>
-        Undergraduate Researcher in Computer Science & Medicine, Health, and Society
-    </td>  
-   
-</tr>
-<tr>    
-    
-    <td>
-        <div style="text-align: center">
             <img src="/images/students/hanzewu.jpg" class="student-profile-pic">
         </div>
         <b>Louis Wu</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Cellular and Molecular Biology
     </td>
+   
+</tr>
+<tr>    
+    
+    
     <td>
         <div style="text-align: center">
             <img src="/images/students/wenjunmao.jpg" class="student-profile-pic">
@@ -136,12 +130,7 @@ author_profile: true
         <b>Derek Young</b> <br>(Fall 2025 - Present) <br>
         Undergraduate Researcher in Biomedical Engineering
     </td>
-
-    
-</tr>
-<tr>    
-   
-    <td>
+     <td>
         <div style="text-align: center">
             <img src="/images/students/Zuzanna Szul.jpg" class="student-profile-pic">
         </div>
@@ -149,6 +138,11 @@ author_profile: true
         Undergraduate Researcher in Computer Science & Mathematics
     </td>
   
+    
+</tr>
+<tr>    
+   
+   
   <td>
         <div style="text-align: center">
             <img src="/images/students/XiwenZhang.jpg" class="student-profile-pic">
@@ -163,10 +157,6 @@ author_profile: true
 
 </table>
 
-
-
-
- 
 
 
 ## Remote/In-person Student Intern
@@ -235,11 +225,14 @@ author_profile: true
 
 ## Undergraduate Students (>= 2 semesters)
 - **Haoran (Hunter) Qin**  
-  CS, BS, 2023 Summer - 2026 Spring       
+  CS, BS+MS, 2023 Summer - 2026 Spring       
   First Job: PhD Student in CS @ Duke
 
 - **Jimmy Baek**  
-  CS, BS, 2023 Summer - 2026 Spring       
+  CS, BS, 2023 Summer - 2026 Spring
+
+- **Miao (Serena) Deng**  
+  CS, BS, 2025 Spring - 2026 Spring       
   
 - **Yujie Wang**  
   CS, BS, 2024 Summer - 2025 Spring       
