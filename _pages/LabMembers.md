@@ -89,20 +89,7 @@ author_profile: true
 ## Undergraduate Students
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/Haoran.jpg" class="student-profile-pic">
-        </div>
-        <b>Haoran (Hunter) Qin</b> <br>(Summer 2023 - Present) <br>
-        Undergraduate Researcher in Computer Science & Economics
-    </td>
-   <td>
-        <div style="text-align: center">
-            <img src="/images/students/Jimmy.jpg" class="student-profile-pic">
-        </div>
-        <b>Jimmy Baek</b> <br>(Summer 2023 - Present) <br>
-        Undergraduate Researcher in Computer Science & Medicine, Health, and Society
-    </td>
+    
    <td>
         <div style="text-align: center">
             <img src="/images/students/KeyiTang.jpg" class="student-profile-pic">
@@ -110,9 +97,6 @@ author_profile: true
         <b>Keyi Tang</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Computer Science & Applied Mathematics
     </td>
-   
-</tr>
-<tr>    
     <td>
         <div style="text-align: center">
             <img src="/images/students/MelanieFernandez.jpg" class="student-profile-pic">
@@ -127,6 +111,10 @@ author_profile: true
         <b>Miao (Serena) Deng</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Computer Science & Medicine, Health, and Society
     </td>  
+   
+</tr>
+<tr>    
+    
     <td>
         <div style="text-align: center">
             <img src="/images/students/hanzewu.jpg" class="student-profile-pic">
@@ -134,8 +122,6 @@ author_profile: true
         <b>Louis Wu</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Cellular and Molecular Biology
     </td>
-</tr>
-<tr>    
     <td>
         <div style="text-align: center">
             <img src="/images/students/wenjunmao.jpg" class="student-profile-pic">
@@ -150,6 +136,11 @@ author_profile: true
         <b>Derek Young</b> <br>(Fall 2025 - Present) <br>
         Undergraduate Researcher in Biomedical Engineering
     </td>
+
+    
+</tr>
+<tr>    
+   
     <td>
         <div style="text-align: center">
             <img src="/images/students/Zuzanna Szul.jpg" class="student-profile-pic">
@@ -158,12 +149,7 @@ author_profile: true
         Undergraduate Researcher in Computer Science & Mathematics
     </td>
   
-  
-   
-</tr>
-
-<tr>    
-    <td>
+  <td>
         <div style="text-align: center">
             <img src="/images/students/XiwenZhang.jpg" class="student-profile-pic">
         </div>
@@ -171,10 +157,9 @@ author_profile: true
         Undergraduate Researcher in Integrative Biology & Computer Science
     </td>
    
-  
-  
-   
 </tr>
+
+
 
 </table>
 
@@ -249,6 +234,13 @@ author_profile: true
 
 
 ## Undergraduate Students (>= 2 semesters)
+- **Haoran (Hunter) Qin**  
+  CS, BS, 2023 Summer - 2026 Spring       
+  First Job: PhD Student in CS @ Duke
+
+- **Jimmy Baek**  
+  CS, BS, 2023 Summer - 2026 Spring       
+  
 - **Yujie Wang**  
   CS, BS, 2024 Summer - 2025 Spring       
   First Job: Master’s student in Biomedical Informatics @ Harvard
