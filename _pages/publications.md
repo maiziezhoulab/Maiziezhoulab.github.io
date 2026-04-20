@@ -83,7 +83,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   
 - **stDyer-image improves clustering analysis of spatially resolved transcriptomics and proteomics with morphological images.**        
   K. Xu, **X. M. Zhou\***, L. Zhang*.  
-   _Bioinformatics_ (2026) btag071. [DOI](https://doi.org/10.1093/bioinformatics/btag071) 
+   _Bioinformatics_ (2026) 42(3):btag071. [DOI](https://doi.org/10.1093/bioinformatics/btag071) 
   
 - **SCGclust: single cell graph clustering using graph autoencoders integrating SNVs and CNAs.**                      
   T. Potu†, **Y. Hu**†, J. Wang, H. Chi, R. Khan, S. Dharani, J. Ni, L. Zhang\*, **X. M. Zhou**\*, X. Mallory\*.            
