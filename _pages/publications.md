@@ -60,9 +60,9 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
    Y. Liu, K. Ma, H. Xu, K. Xu, **Y. Hu**, **Z. Lin**, J. Lin, B. Han, S. Li, Z. Lin, Z. Zhang, **X. M. Zhou\***, L. Zhang\*.  
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2025.08.02.668264v1)
 
-- **Enhancing variant detection in complex genomes: leveraging linked reads for robust SNP, Indel, and structural variant analysis.**  
+- **A little longer, a lot better: simulation-guided exploration of extended-length single-end barcoded reads for structural variant detection.**  
    **C. Luo**†, **Y. H. Liu**†, **H. Liu**, Z. Zhang, L. Zhang, B. A. Peters\*, **X. M. Zhou\***.  
-  [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.1101/2025.03.31.646392v1)
+  [_bioRxiv_ (2025)](https://doi.org/10.1101/2025.03.31.646392)
   
 - **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data.**  
   **W. Yuan**†, **C. Luo**†, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory\*, **X. M. Zhou**\*.  
