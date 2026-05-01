@@ -34,7 +34,8 @@ author_profile: true
 ## Professional Service
 
 ### Editorial Service
-**Guest Editor**, Genome Biology,              2025 – present   
+**Editorial Board Member**, Genome Biology,              2026 –    
+**Guest Editor**, Genome Biology,              2025 – 2026   
 **Guest Associate Editor**, Frontiers in Genetics,              2020 – 2024
 
 ### Conference and Workshop Organization
