@@ -75,7 +75,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2026
 - **CSsingle: a unified tool for robust decomposition of bulk and spatial transcriptomic data across diverse single-cell references.**  
   W. Shen, **Y. Hu**, Y. Lei, H.-S. Wong, C. Liu\*, S. Wu\*, **X. M. Zhou\***.  
-  _Nucleic Acids Research_ (2026) (accepted)
+  _Nucleic Acids Research_ (2026) 54, gkag410. [DOI](https://doi.org/10.1093/nar/gkag410)
   
 - **ResGAT: A residual graph attention network for cancer subtype classification in whole slide images.**    
   **Z. Lin**, H. Tong, **Y. Hu**, X. S. Gui, J. Shen, B. Lee, L. Zhang, D. Moyer, M. Zhou, **X. M. Zhou\***, K. Votanopoulos\*.    
