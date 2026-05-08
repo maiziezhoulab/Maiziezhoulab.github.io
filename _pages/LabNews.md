@@ -82,6 +82,8 @@ author_profile: true
 
 
 ## Invited Talk (External Conference/Seminar)
+- **May. 08, 2026**  
+  Maizie was invited to give a talk titled *“Domain identification, integration, and 3D reconstruction with spatial transcriptomics data”* on Sunday, June 14, 2026, at Cold Spring Harbor Laboratory (CSHL), New York.
 - **Mar. 14, 2026**  
   Maizie was invited to give a talk titled *“Domain identification, integration, and 3D reconstruction with spatial
 transcriptomics data”* on Saturday, March 28, 2026, The 22nd Annual Meeting of the MidSouth Computational Biology and Bioinformatics Society (MCBIOS) at Tampa, Florida.
