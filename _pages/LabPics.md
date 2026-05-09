@@ -5,6 +5,13 @@ permalink: /LabPics/
 author_profile: true
 ---
 <div style="text-align: center;">
+  <img src="/images/labpics/Canluo_graduation_2026_05_08.jpg" alt="2026 Vanderbilt Graduate School Commencement - Can Luo & Maizie" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2026 Vanderbilt Graduate School Commencement - Can Luo & Maizie
+  </p>
+</div>
+
+<div style="text-align: center;">
   <img src="/images/labpics/canluo_outstanding_student_Plaque2026_2.jpg" alt="2026 Vanderbilt Graduate Education Honors Banquet" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2026 Mar 19 Vanderbilt Graduate Education Honors Banquet - Can Luo's Outstanding Doctoral Student Award Announcement
