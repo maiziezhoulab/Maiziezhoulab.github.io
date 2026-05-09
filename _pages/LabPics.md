@@ -5,9 +5,9 @@ permalink: /LabPics/
 author_profile: true
 ---
 <div style="text-align: center;">
-  <img src="/images/labpics/Canluo_graduation_2026_05_08.jpg" alt="2026 Vanderbilt Graduate School Commencement - Can Luo & Maizie" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/Canluo_graduation_2026_05_08.jpg" alt="2026 Vanderbilt Graduate School Commencement - Dr. Luo & Dr. Zhou" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
-    *2026 Vanderbilt Graduate School Commencement - Can Luo & Maizie
+    *2026 Vanderbilt Graduate School Commencement - Dr. Luo & Dr. Zhou
   </p>
 </div>
 
