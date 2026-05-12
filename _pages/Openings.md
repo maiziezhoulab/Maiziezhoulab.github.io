@@ -13,7 +13,7 @@ We seek doctoral and masters’ students with training in Bioinformatics, Comput
 
 **HOW TO APPLY**
 
-Please submit a CV to maizie.zhou@vanderbilt.edu. The subject line of your email should start with “PHD MaizieZhouLab” or “MASTERS MaizieZhouLab”. We will accept applications until the position is filled.
+Please submit a CV to maizie.zhou@vanderbilt.edu. The subject line of your email can start with “PHD MaizieZhouLab” or “MASTERS MaizieZhouLab”. We will accept applications until the position is filled.
 
 
 
