@@ -210,10 +210,10 @@ author_profile: true
 
 - **Sanidhya Mangal**  
   CS, MS, 2021 Summer – 2022 Spring
-  First Job: Data Analyst @ HealthEdge
+  First Job: Data Analyst @ HealthEdge   
   
 - **Yuanqi Xie**  
-  CS, MS, 2020 Fall – 2021 Fall
+  CS, MS, 2020 Fall – 2021 Fall     
   First Job: Lecturer in Computer Science @ University of West Florida
   
 - **Yasi Wang**  
@@ -264,7 +264,7 @@ author_profile: true
   First Job: Master’s student in Computer Science @ Stanford University
 
 - **Jia Yao** (remote)  
-  CS, 2022 Summer – 2022 Fall  
+  CS, 2022 Summer – 2022 Fall        
   First Job: Ph.D. student in Biomedical Engineering Program @ UT Southwestern Medical Center
 
 - **Zi-Hang Wen** (remote + in-person)  
