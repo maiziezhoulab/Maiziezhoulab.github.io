@@ -5,7 +5,7 @@ permalink: /Openings/
 author_profile: true
 ---
 
-<span style="color:red;">We are recruiting CS/BME PhD students for Spring and Fall 2027!</span>
+<span style="color:red;">We are recruiting CS/BME PhD students for 2027 Spring and Fall !</span>
 
 ## Graduate Students
 
