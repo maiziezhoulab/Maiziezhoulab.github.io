@@ -195,7 +195,7 @@ author_profile: true
 
 - **Can Luo**  
   Biomedical Engineering, PhD, 2021 Fall – 2026 Spring  
-  First Job: Postdoctoral Fellow in the lab of Evan Eichler @ the University of Washington
+  _First Job: Postdoctoral Fellow in the lab of Evan Eichler @ the University of Washington_
 
 
 ## Masters Students
