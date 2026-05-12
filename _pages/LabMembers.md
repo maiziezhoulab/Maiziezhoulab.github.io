@@ -202,33 +202,33 @@ author_profile: true
 
 - **Yingxiang (Andy) Ma**  
   Data Science, MS, 2021 Fall – 2023 Spring  
-  First Job: Ph.D. student in Molecular Physiology and Biophysics @ Vanderbilt University
+  _First Job: Ph.D. student in Molecular Physiology and Biophysics @ Vanderbilt University_
 
 - **Curtis Schunk** (with Prof Cynthia Reinhart-King)  
   BME, MS, 2022 Summer – 2022 Fall  
-  First Job: Analyst, Clinical & Strategic Analytics @ OneOncology
+  _First Job: Analyst, Clinical & Strategic Analytics @ OneOncology_
 
 - **Sanidhya Mangal**  
   CS, MS, 2021 Summer – 2022 Spring
-  First Job: Data Analyst @ HealthEdge   
+  _First Job: Data Analyst @ HealthEdge_   
   
 - **Yuanqi Xie**  
   CS, MS, 2020 Fall – 2021 Fall     
-  First Job: Lecturer in Computer Science @ University of West Florida
+  _First Job: Lecturer in Computer Science @ University of West Florida_
   
 - **Yasi Wang**  
   Data Science, MS, 2021 Spring (Capstone project)  
-  First Job: Amazon
+  _First Job: Amazon_
 
 - **Sijie Li** (remote)  
   Informatics, MS, 2020 Fall – 2021 Summer  
-  First Job: Ph.D. student in Computer Science @ University of Sheffield
+  _First Job: Ph.D. student in Computer Science @ University of Sheffield_
 
 
 ## Undergraduate Students (>= 2 semesters)
 - **Haoran (Hunter) Qin**  
   CS, BS+MS, 2023 Summer - 2026 Spring       
-  First Job: PhD Student in Computer Science @ Duke
+  _First Job: PhD Student in Computer Science @ Duke_
 
 - **Jimmy Baek**  
   CS, BS, 2023 Summer - 2026 Spring
@@ -238,49 +238,49 @@ author_profile: true
   
 - **Yujie Wang**  
   CS, BS, 2024 Summer - 2025 Spring       
-  First Job: Master’s student in Biomedical Informatics @ Harvard
+  _First Job: Master’s student in Biomedical Informatics @ Harvard_
   
 - **Sona Javadi**  
   CS, BS, 2023 Spring - 2024 Spring     
-  First Job: PhD Student in Computer Science @ UCSC
+  _First Job: PhD Student in Computer Science @ UCSC_
   
 - **Zimeng (Jamie) Zhou**  
   CS & Mathematics, BS, 2022 Fall – 2024 Spring  
-  First Job: Goldman Sachs @ Dallas
+  _First Job: Goldman Sachs @ Dallas_
 
 - **Adam Hollander**  
   CS & Mathematics, BS, 2022 Summer – 2023 Spring
 
 - **Jacob Ioffe**  
   CS & Public Policy, BS, 2020 Fall – 2022 Fall  
-  First Job: Master’s student in Health Tech @ Cornell Tech
+  _First Job: Master’s student in Health Tech @ Cornell Tech_
 
 - **Zheng (Wayne) Wu**  
   CS & Mathematics, BS, 2022 Summer – 2023 Spring  
-  First Job: Master’s student in Computer Science @ Rice University
+  _First Job: Master’s student in Computer Science @ Rice University_
 
 - **Rohit Khurana**  
   CS & Molecular & Cellular Biology & Mathematics, BS, 2022 Fall – 2023 Spring  
-  First Job: Master’s student in Computer Science @ Stanford University
+  _First Job: Master’s student in Computer Science @ Stanford University_
 
 - **Jia Yao** (remote)  
   CS, 2022 Summer – 2022 Fall        
-  First Job: Ph.D. student in Biomedical Engineering Program @ UT Southwestern Medical Center
+  _First Job: Ph.D. student in Biomedical Engineering Program @ UT Southwestern Medical Center_
 
 - **Zi-Hang Wen** (remote + in-person)  
   BS in Engineering, 2020 Summer – 2022 Summer  
-  First Job: Ph.D. student in Computational Biology (CPCB) through Computer Science @ CMU
+  _First Job: Ph.D. student in Computational Biology (CPCB) through Computer Science @ CMU_
 
 - **Amy Sihn**  
   EE & Mathematics, BS, 2021 Fall – 2022 Spring  
-  First Job: Master’s student in Electrical Engineering @ UCLA
+  _First Job: Master’s student in Electrical Engineering @ UCLA_
 
 - **Staunton “Hank” Golding**  
   BME, BS, 2021 Spring – 2022 Spring
 
 - **Parth A. Datar**  
   CS, BS+MS, 2021 Summer – 2022 Spring  
-  First Job: CAD SWE @ Qualcomm
+  _First Job: CAD SWE @ Qualcomm_
 
 - **Jeremy L. Langsam**  
   BME, BS, 2020 Fall – 2021 Spring
@@ -290,7 +290,7 @@ author_profile: true
 
 - **Ziqi Guo** (remote)  
   EPE, BS, 2020 Fall – 2021 Summer  
-  First Job: Ph.D. student in Mechanical Engineering @ Purdue University
+  _First Job: Ph.D. student in Mechanical Engineering @ Purdue University_
 
 ## Lab Assistants
 
@@ -301,7 +301,7 @@ author_profile: true
 
 - **Lily Wang**  
   The Harpeth Hall School (Honors STEM Research Course for girls), 2024/01 – 2025/06    
-  First Job: Undergraduate student in Computer Science @ Northwestern University
+  _First Job: Undergraduate student in Computer Science @ Northwestern University_
 
 - **Lily Bowen**  
   The Harpeth Hall School (Honors STEM Research Course for girls), 2023/08 – 2024/05    
