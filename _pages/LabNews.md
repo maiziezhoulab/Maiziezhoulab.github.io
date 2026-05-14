@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Awards and Achievements
+- **May. 13, 2026**  
+  Congratulations to **Yichen Liu** on being awarded the <span style="color:green;"><strong> Lacy-Fischer Interdisciplinary Research Grant</strong></span> with Peiyu Chen (Dr. Constantinidis's lab).
 - **Feb. 20, 2026**  
   Congratulations to **Can Luo** for receiving the prestigious <span style="color:green;"><strong>Outstanding Doctoral Student Award</strong></span>, one of three recipients selected across the entire university.
 - **Dec. 17, 2025**  
