@@ -39,13 +39,15 @@ author_profile: true
 **Guest Associate Editor**, Frontiers in Genetics,              2020 – 2024
 
 ### Conference and Workshop Organization
-**Conference Organization Committee and Co-Chair**, MICCAI Workshop on Medical Imaging Analysis for Spatial Omics (MISO), Oct 4-8, 2026, Abu Dhabi, United Arab Emirates 
+**Conference Organization Committee and Co-Chair**, MICCAI Workshop on Medical Imaging Analysis for Spatial Omics (MISO), Sep 27-Oct 11, 2026, Strasbourg, France
 
 **Program Committee**, 30th Annual International Conference on Research in Computational Molecular Biology (RECOMB), May 26-29, 2026, Thessaloniki, Greece
 
 **Area Chair**, 17th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2026), June 30-July 03, Calabria, Italy  
 
 **Area Chair**, 16th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2025), October 11–15, Philadelphia, PA
+
+**Conference Organization Committee and Session Chair**, IEEE BIBM Workshop on algorithmic advances for single-cell and spatial omics data analysis, Dec 1-4, 2026, Dallas, USA  
 
 **Conference Organization Committee and Session Chair**, IEEE BIBM Workshop on algorithmic advances for single-cell and spatial omics data analysis, Dec 15-18, 2025, Wuhan, China
 
