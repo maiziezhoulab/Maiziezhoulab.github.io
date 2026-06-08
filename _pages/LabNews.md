@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 ## Awards and Achievements
+- **June. 08, 2026**  
+  Congratulations to **Yunfei Hu, Manfei Bella Xie, and Yichen Henry Liu** for receiving the **2026 Graduate School Travel Grant**.
 - **May. 13, 2026**  
-  Congratulations to **Yichen Liu** on being awarded the <span style="color:green;"><strong> Lacy-Fischer Interdisciplinary Research Grant</strong></span> with Peiyu Chen (Dr. Constantinidis's lab).
+  Congratulations to **Yichen Henry Liu** on being awarded the <span style="color:green;"><strong> Lacy-Fischer Interdisciplinary Research Grant</strong></span> with Peiyu Chen (Dr. Constantinidis's lab).
 - **Feb. 20, 2026**  
   Congratulations to **Can Luo** for receiving the prestigious <span style="color:green;"><strong>Outstanding Doctoral Student Award</strong></span>, one of three recipients selected across the entire university.
 - **Dec. 17, 2025**  
@@ -19,7 +21,7 @@ author_profile: true
 - **May. 30, 2025**  
   Congratulations to **Maizie** on being selected as an awardee for **Global Engagement Travel Grants**.
 - **May. 6, 2025**  
-  Congratulations to **Yichen Liu, Can Luo, and Maizie** for receiving the <span style="color:green;"><strong>VUSE Best Paper Award/Outstanding Graduate Student Research Paper</strong></span> (select 1 paper per year in the entire engineering school).
+  Congratulations to **Yichen Henry Liu, Can Luo, and Maizie** for receiving the <span style="color:green;"><strong>VUSE Best Paper Award/Outstanding Graduate Student Research Paper</strong></span> (select 1 paper per year in the entire engineering school).
 - **Mar. 12, 2025**  
   Congratulations to **Yuqi Lei** for receiving the **2025 Graduate School Travel Grant**.
 - **Mar. 6, 2025**  
@@ -48,12 +50,10 @@ author_profile: true
   **Haoran (Hunter) Qin** successfully defended his CS Master’s thesis today. Congratulations~
 - **Jan. 21, 2026**  
   Congratulations to **Dr. Can Luo**, she successfully passed her PhD defense today! 🎉
-- **Nov. 10, 2025**  
-  Congratulations to **Zhenhan Lin**, she passed her prelim exam today!
 - **Apr. 11, 2025**  
   Congratulations to **Weiman Yuan**, he passed her qualifying exam today!
 - **Apr. 08, 2025**  
-  Congratulations to **Yichen (Henry) Liu**, he passed his qualifying exam today!  
+  Congratulations to **Yichen Henry Liu**, he passed his qualifying exam today!  
 - **Mar. 27, 2025**  
   Congratulations to **Yunfei Hu**, he passed his qualifying exam today!  
 - **Mar. 19, 2024**  
