@@ -7,7 +7,7 @@ author_profile: true
 
 ## Awards and Achievements
 - **June. 08, 2026**  
-  Congratulations to **Yunfei Hu, Manfei Bella Xie, and Yichen Henry Liu** for receiving the **2026 Graduate School Travel Grant**.
+  Congratulations to **Manfei Bella Xie, Yunfei Hu, and Yichen Henry Liu** for receiving the **2026 Graduate School Travel Grant**.
 - **May. 13, 2026**  
   Congratulations to **Yichen Henry Liu** on being awarded the <span style="color:green;"><strong> Lacy-Fischer Interdisciplinary Research Grant</strong></span> with Peiyu Chen (Dr. Constantinidis's lab).
 - **Feb. 20, 2026**  
