@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Awards and Achievements
+- **June. 15, 2026**  
+  Congratulations to Maizie on being named a <span style="color:green;"><strong>Waddell Walker Hancock Scholar and receiving the Hancock Cancer Discovery Fund Award from the Vanderbilt-Ingram Cancer Center (2026–2027)</strong></span>!
 - **June. 08, 2026**  
   Congratulations to **Manfei Bella Xie, Yunfei Hu, and Yichen Henry Liu** for receiving the **2026 Graduate School Travel Grant**.
 - **May. 13, 2026**  
@@ -67,8 +69,10 @@ author_profile: true
 
 
 ## Grants
+- **June. 15, 2026**    
+  We received the **Waddell Walker Hancock Cancer Discovery Fund Award** from the Vanderbilt-Ingram Cancer Center. Thanks for the Hancock   family fund!
 - **Mar. 27, 2025**    
-  We received the **CCSB Accelerator Fund** in collaboration with Dr. Meltzer's lab.    
+  We received the **CCSB Accelerator Fund** in collaboration with Dr. Meltzer's lab. Thanks for CCSB!   
 - **Dec. 19, 2024**    
   Our proposal for spatial transcriptomics research has been selected as an awardee for the **Seeding Success** -  Fall 2024 cycle.  
 - **Aug. 2, 2023**     
