@@ -7,7 +7,7 @@ author_profile: true
 
 ## Awards and Achievements
 - **June. 15, 2026**  
-  Congratulations to Maizie on being named a <span style="color:green;"><strong>Waddell Walker Hancock Scholar and receiving the Hancock Cancer Discovery Fund Award from the Vanderbilt-Ingram Cancer Center (2026–2027)</strong></span>!
+  Congratulations to Maizie on being named a <span style="color:green;"><strong>Waddell Walker Hancock Scholar and receiving the Hancock Cancer Discovery Fund Award from the Vanderbilt-Ingram Cancer Center </strong></span>!
 - **June. 08, 2026**  
   Congratulations to **Manfei Bella Xie, Yunfei Hu, and Yichen Henry Liu** for receiving the **2026 Graduate School Travel Grant**.
 - **May. 13, 2026**  
