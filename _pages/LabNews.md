@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Awards and Achievements
+- **June. 17, 2026**  
+  Congratulations to **Manfei Bella Xie** for receiving the **GLI Professional Development & Training Grant**.
 - **June. 15, 2026**  
   Congratulations to Maizie on being named a <span style="color:green;"><strong>Waddell Walker Hancock Scholar and receiving the Hancock Cancer Discovery Fund Award</strong></span> from the Vanderbilt-Ingram Cancer Center.
 - **June. 08, 2026**  
