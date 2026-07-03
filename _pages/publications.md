@@ -26,7 +26,7 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ## Preprints/Under Review
 - **Multi-modality graph representation learning for malignant cell identification from scRNA-seq using DeepMalignant.**  
   P. Bhattarai, **W. Yuan**, H. Chi, **X. M. Zhou**\*, X. Mallory\*.          
-  2026  
+  [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.06.29.734828v1)  
   
 - **Benchmarking cell type annotation in spatial transcriptomics: resolving cellular hierarchies, biological fidelity, and dynamic cell states.**     
   **Y. Zhu**†, **Y. Hu**†, **M. B. Xie**†, **H. Qin**, **Z. J. Szul**, **D. M. Young**, **W. Yuan**, Q. Wang, **Y. H. Liu**, W. Shen, S. Meltzer\*, **X. M. Zhou\***.        
