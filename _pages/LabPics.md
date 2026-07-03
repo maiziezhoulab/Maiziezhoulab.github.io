@@ -5,6 +5,20 @@ permalink: /LabPics/
 author_profile: true
 ---
 <div style="text-align: center;">
+  <img src="/images/labpics/YunfeiHu_denfense1.jpg" alt="Yunfei Hu's PhD defense" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2026 July 02 Yunfei Hu's PhD defense - Huge congratulations to Dr. Hu, he successfully passed his PhD defense! 🎉~
+  </p>
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/labpics/YunfeiHu_denfense2" alt="Yunfei Hu's PhD defense" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2026 July 02 Yunfei Hu's PhD defense  -  Dr. Hu & the lab ~
+  </p>
+</div>
+
+<div style="text-align: center;">
   <img src="/images/labpics/Canluo_graduation_2026_05_08.jpg" alt="2026 Vanderbilt Graduate School Commencement - Dr. Luo & Dr. Zhou" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2026 Vanderbilt Graduate School Commencement - Dr. Luo & Dr. Zhou
