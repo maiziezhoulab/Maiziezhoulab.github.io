@@ -12,7 +12,7 @@ author_profile: true
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/labpics/YunfeiHu_defense2" alt="Yunfei Hu's PhD defense" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
+  <img src="/images/labpics/YunfeiHu_defense2.jpg" alt="Yunfei Hu's PhD defense" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2026 July 02 Yunfei Hu's PhD defense  -  Dr. Hu & the lab ~
   </p>
