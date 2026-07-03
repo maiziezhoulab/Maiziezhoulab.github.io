@@ -50,10 +50,12 @@ author_profile: true
 ---
 
 ## Milestones
+- **July. 01, 2026**  
+  Congratulations to **Dr. Yunfei Hu**, he successfully passed his PhD defense today! 
 - **Mar. 23, 2026**  
   **Haoran (Hunter) Qin** successfully defended his CS Master’s thesis today. Congratulations~
 - **Jan. 21, 2026**  
-  Congratulations to **Dr. Can Luo**, she successfully passed her PhD defense today! 🎉
+  Congratulations to **Dr. Can Luo**, she successfully passed her PhD defense today! 
 - **Apr. 11, 2025**  
   Congratulations to **Weiman Yuan**, he passed her qualifying exam today!
 - **Apr. 08, 2025**  
