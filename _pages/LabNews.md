@@ -11,7 +11,7 @@ author_profile: true
 - **Jun. 17, 2026**  
   Congratulations to **Manfei Bella Xie** for receiving the **GLI Professional Development & Training Grant**.
 - **Jun. 15, 2026**  
-  Congratulations to Maizie on being named a <span style="color:green;"><strong>Waddell Walker Hancock Scholar and receiving the Hancock Cancer Discovery Fund Award</strong></span> from the Vanderbilt-Ingram Cancer Center.
+  Congratulations to Maizie on being named a <span style="color:green;"><strong>Waddell Walker Hancock Scholar and receiving the Hancock Cancer Discovery Fund Award</strong></span> from the Vanderbilt-Ingram Cancer Center. Thanks for the Hancock family fund!
 - **Jun. 08, 2026**  
   Congratulations to **Manfei Bella Xie, Yunfei Hu, Yichen Henry Liu, and Weiman Yuan** for receiving the **2026 Graduate School Travel Grant**.
 - **May 13, 2026**  
