@@ -7,7 +7,7 @@ author_profile: true
 
 ## Awards and Achievements
 - **Jul. 13, 2026**  
-  Congratulations to **Maizie** on receiving the **NSF CAREER Award**. Grateful to the National Science Foundation (NSF) for its support.
+  Congratulations to **Maizie** on receiving the <span style="color:green;"><strong>NSF CAREER Award</strong></span>. Grateful to the National Science Foundation (NSF) for its support.
 - **Jun. 17, 2026**  
   Congratulations to **Manfei Bella Xie** for receiving the **GLI Professional Development & Training Grant**.
 - **Jun. 15, 2026**  
