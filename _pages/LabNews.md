@@ -6,13 +6,15 @@ author_profile: true
 ---
 
 ## Awards and Achievements
-- **June. 17, 2026**  
+- **Jul. 13, 2026**  
+  Congratulations to **Maizie** on receiving the **NSF CAREER Award**. Grateful to the National Science Foundation (NSF) for its support.
+- **Jun. 17, 2026**  
   Congratulations to **Manfei Bella Xie** for receiving the **GLI Professional Development & Training Grant**.
-- **June. 15, 2026**  
+- **Jun. 15, 2026**  
   Congratulations to Maizie on being named a <span style="color:green;"><strong>Waddell Walker Hancock Scholar and receiving the Hancock Cancer Discovery Fund Award</strong></span> from the Vanderbilt-Ingram Cancer Center.
-- **June. 08, 2026**  
+- **Jun. 08, 2026**  
   Congratulations to **Manfei Bella Xie, Yunfei Hu, Yichen Henry Liu, and Weiman Yuan** for receiving the **2026 Graduate School Travel Grant**.
-- **May. 13, 2026**  
+- **May 13, 2026**  
   Congratulations to **Yichen Henry Liu** on being awarded the <span style="color:green;"><strong> Lacy-Fischer Interdisciplinary Research Grant</strong></span> with Peiyu Chen (Dr. Constantinidis's lab).
 - **Feb. 20, 2026**  
   Congratulations to **Can Luo** for receiving the prestigious <span style="color:green;"><strong>Outstanding Doctoral Student Award</strong></span>, one of three recipients selected across the entire university.
@@ -22,9 +24,9 @@ author_profile: true
   Congratulations to **Can Luo** for receiving the prestigious <span style="color:green;"><strong>Graduate School Endowed Awards - Lai Sulin Scholarship</strong></span> (for remarkable contribution in cancer research, select 1 student per year in the entire university).
 - **Nov. 6, 2025**  
   Congratulations to **Maizie** on receiving the **Provost’s Faculty Grant for Immersion Vanderbilt** to support Immersion Vanderbilt Cohort Project: Integrative AI Methods for Cell Type Transfer in Spatial Biology.
-- **May. 30, 2025**  
+- **May 30, 2025**  
   Congratulations to **Maizie** on being selected as an awardee for **Global Engagement Travel Grants**.
-- **May. 6, 2025**  
+- **May 6, 2025**  
   Congratulations to **Yichen Henry Liu, Can Luo, and Maizie** for receiving the <span style="color:green;"><strong>VUSE Best Paper Award/Outstanding Graduate Student Research Paper</strong></span> (select 1 paper per year in the entire engineering school).
 - **Mar. 12, 2025**  
   Congratulations to **Yuqi Lei** for receiving the **2025 Graduate School Travel Grant**.
@@ -73,7 +75,9 @@ author_profile: true
 
 
 ## Grants
-- **June. 15, 2026**    
+- **Jul. 13, 2026**    
+  We received the **NSF CAREER Award**. Our sincere thanks to the National Science Foundation (NSF) for its support.
+- **Jun. 15, 2026**    
   We received the **Waddell Walker Hancock Cancer Discovery Fund Award** from the Vanderbilt-Ingram Cancer Center. Thanks for the Hancock   family fund!
 - **Mar. 27, 2025**    
   We received the **CCSB Accelerator Fund** in collaboration with Dr. Meltzer's lab. Thanks for CCSB!   
