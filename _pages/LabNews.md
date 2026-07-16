@@ -19,7 +19,7 @@ author_profile: true
 - **Feb. 20, 2026**  
   Congratulations to **Can Luo** for receiving the prestigious <span style="color:green;"><strong>Outstanding Doctoral Student Award</strong></span>, one of three recipients selected across the entire university.
 - **Dec. 17, 2025**  
-  Congratulations to **Yunfei Hu** for receiving the prestigious <span style="color:green;"><strong>Graduate School Endowed Awards - Edward Ferguson Jr. Graduate Award</strong></span> (for students demonstrating excellence in research, select 1-3 students per year in the entire university).
+  Congratulations to **Yunfei Hu** for receiving the prestigious <span style="color:green;"><strong>Graduate School Endowed Awards - Edward Ferguson Jr. Graduate Award</strong></span> (for students demonstrating excellence in research, select four students per year in the entire university).
 - **Dec. 17, 2025**  
   Congratulations to **Can Luo** for receiving the prestigious <span style="color:green;"><strong>Graduate School Endowed Awards - Lai Sulin Scholarship</strong></span> (for remarkable contribution in cancer research, select 1 student per year in the entire university).
 - **Nov. 6, 2025**  
