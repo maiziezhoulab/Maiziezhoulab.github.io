@@ -5,6 +5,13 @@ permalink: /LabPics/
 author_profile: true
 ---
 <div style="text-align: center; margin-top: 20px;">
+  <img src="/images/labpics/ISCB2026.jpg" alt="ISMB 2026" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2026 ISMB @ Washington, D.C – Bella, Weiman, Henry, and Yunfei's posters*
+  </p>
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
   <img src="/images/labpics/bella_ncitalk_2026_07.jpg" alt="NCI 2026 Bella Presentation" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
     *2026 NCI Summer School on Algorithmic Cancer Biology @ Washington, D.C – Bella’s oral presentation*
