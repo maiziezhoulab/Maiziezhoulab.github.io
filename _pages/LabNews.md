@@ -52,7 +52,7 @@ author_profile: true
 ---
 
 ## Milestones
-- **July. 02, 2026**  
+- **Jul. 02, 2026**  
   Congratulations to **Dr. Yunfei Hu**, he successfully passed his PhD defense today! 
 - **Mar. 23, 2026**  
   **Haoran (Hunter) Qin** successfully defended his CS Master’s thesis today. Congratulations~
