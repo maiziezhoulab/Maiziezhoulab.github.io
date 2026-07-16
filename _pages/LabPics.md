@@ -4,6 +4,13 @@ title: "Lab Pics"
 permalink: /LabPics/
 author_profile: true
 ---
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/images/labpics/bella_ncitalk_2026_07.jpg" alt="NCI 2026 Bella Presentation" style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <p style="text-align: center; margin-top: 10px;">
+    *2026 NCI Summer School on Algorithmic Cancer Biology @ Washington, D.C – Bella’s oral presentation*
+  </p>
+</div>
+
 <div style="text-align: center;">
   <img src="/images/labpics/YunfeiHu_defense1.jpg" alt="Yunfei Hu's PhD defense" style="max-width: 65%; height: auto; display: block; margin: 0 auto;">
   <p style="text-align: center; margin-top: 10px;">
