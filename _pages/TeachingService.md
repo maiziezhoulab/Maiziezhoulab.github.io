@@ -59,6 +59,17 @@ author_profile: true
 ### Conference Judging and Reviewing Activities
 
 **Abstract Reviewer**, BMES   2021
+**Reviewer**, International Conference on System Sciences (HICSS)  2026 
+
+### Grant Review Service
+**Panelist**, National Science Foundation (NSF) Review Panel for the Computer and Information and Science and Engineering Directorate  2026
+**Reviewer**, Florida Department of Health (FLDOH) Biomedical Research Program 2025, 2026 
+**Reviewer**, Weill Cornell Medicine Clinical and Translational Science Center Pilot Grants 2025
+**Reviewer**, State University of New York (SUNY) Upstate Medical University Cancer Center Research Pilot Grants (in collaboration with Oak Ridge Associated Universities Government Services) 2025
+
+### Award Review Service
+**Reviewer**, the Ralph E. Powe Junior Faculty Enhancement Award  2025, 2026 
+
 
 ### Ad hoc Reviewer for Journals
 
