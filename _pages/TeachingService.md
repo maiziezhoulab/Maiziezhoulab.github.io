@@ -9,7 +9,10 @@ author_profile: true
 # Teaching
 
 - ### [BME2400: Quantitative Methods I]()
-  - Vanderbilt University, 2024 Fall, 2025 Fall, 2026 Fall    
+  - Vanderbilt University, 2024 Fall, 2025 Fall, 2026 Fall
+
+- ### [BME3890/BME8901: Special Topics – Computational Genomics]()
+  - Vanderbilt University, 2020 Fall, 2021 Fall, 2023 Fall, 2024 Spring, 2025 Spring, 2026 Spring   
 
 - ### [BME2302: Systems Physiology II]()
   - Vanderbilt University, 2022 Fall   
@@ -17,8 +20,6 @@ author_profile: true
 - ### [DS5460: Big Data Scaling]()
   - Vanderbilt University, 2021 Spring, 2022 Spring, 2023 Spring   
 
-- ### [BME3890/BME8901: Special Topics – Computational Genomics]()
-  - Vanderbilt University, 2020 Fall, 2021 Fall, 2023 Fall, 2024 Spring, 2025 Spring, 2026 Spring   
 
 
 # Professional Service
