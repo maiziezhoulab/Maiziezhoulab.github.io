@@ -9,7 +9,7 @@ author_profile: true
 This page contains the tools and software packages we have developed @ Maize Zhou Lab or previously @ Stanford.
 
 Please visit our [Lab GitHub page](https://github.com/maiziezhoulab) for the latest releases.
-
+<!--
 - [**BenchmarkST**](https://github.com/maiziezhoulab/BenchmarkST): Benchmarking clustering, alignment, and integration methods for spatial transcriptomics.
 - [**CNVeil**](https://github.com/maiziezhoulab/CNVeil): Accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data.
 - [**VolcanoSV**](https://github.com/maiziezhoulab/VolcanoSV): Accurate and robust structural variant calling in diploid genomes from single-molecule long-read sequencing.
@@ -27,3 +27,4 @@ Please visit our [Lab GitHub page](https://github.com/maiziezhoulab) for the lat
 - [**Aquila_stLFR**](https://github.com/maiziezhoulab/Aquila_stLFR): Diploid genome assembly-based structural variant calling package for stLFR linked-read.
 - [**Aquila**](https://github.com/maiziezhoulab/Aquila): Diploid personal genome assembly and comprehensive variant detection based on linked-reads.
 - [**HAPDeNovo**](https://github.com/maiziezhoulab/HAPDeNovo): A haplotype-based approach for filtering and phasing de novo mutations in linked-read sequencing data.
+-->
