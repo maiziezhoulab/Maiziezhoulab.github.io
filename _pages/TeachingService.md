@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Teaching
+# Teaching
 
 - ### [BME2400: Quantitative Methods I]()
   - Vanderbilt University, 2024 Fall
@@ -31,15 +31,15 @@ author_profile: true
   - Vanderbilt University, 2020 Fall
 
 
-## Professional Service
+# Professional Service
 
-### Editorial Service
+## Editorial Service
 **Editorial Board Member**, Genome Biology,              2026 – present   
 **Associate Editor**, AI Evidence-Based Medicine,              2026 –  present  
 **Guest Editor**, Genome Biology,              2025 – 2026   
 **Guest Associate Editor**, Frontiers in Genetics,              2020 – 2024
 
-### Conference and Workshop Organization
+## Conference and Workshop Organization
 **Conference Organization Committee and Co-Chair**, MICCAI Workshop on Medical Imaging Analysis for Spatial Omics (MISO), Sep 27-Oct 11, 2026, Strasbourg, France
 
 **Program Committee**, 30th Annual International Conference on Research in Computational Molecular Biology (RECOMB), May 26-29, 2026, Thessaloniki, Greece
@@ -56,22 +56,22 @@ author_profile: true
 
 **Conference Organization Committee and Session Chair**, IEEE BIBM Workshop on computational methods and their applications on single cell multiomic data, Dec 9-12, 2021, Houston, TX, USA
 
-### Conference Judging and Reviewing Activities
+## Conference Judging and Reviewing Activities
 
 **Abstract Reviewer**, BMES   2021
 **Reviewer**, International Conference on System Sciences (HICSS)  2026 
 
-### Grant Review Service
+## Grant Review Service
 **Panelist**, National Science Foundation (NSF) Review Panel for the Computer and Information and Science and Engineering Directorate  2026
 **Reviewer**, Florida Department of Health (FLDOH) Biomedical Research Program 2025, 2026 
 **Reviewer**, Weill Cornell Medicine Clinical and Translational Science Center Pilot Grants 2025
 **Reviewer**, State University of New York (SUNY) Upstate Medical University Cancer Center Research Pilot Grants (in collaboration with Oak Ridge Associated Universities Government Services) 2025
 
-### Award Review Service
+## Award Review Service
 **Reviewer**, the Ralph E. Powe Junior Faculty Enhancement Award  2025, 2026 
 
 
-### Ad hoc Reviewer for Journals
+## Ad hoc Reviewer for Journals
 
 Nature, Nature Methods, Nature Genetics, Nature Communications, Nature Computational Science, Genome Biology, Genome Research, Nucleic Acids Research, Cell Genomics, Cell Systems, Cell Report, Bioinformatics, Briefings in Bioinformatics, PLOS Computational Biology, iScience, Cell Reports Methods, NAR Genomics and Bioinformatics, BMC Genomics, BMC Bioinformatics, Journal of Neurophysiology, Frontiers in Genetics
 
