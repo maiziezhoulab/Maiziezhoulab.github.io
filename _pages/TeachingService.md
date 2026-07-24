@@ -25,10 +25,10 @@ author_profile: true
 # Professional Service
 
 ## Editorial Service
-**Editorial Board Member**, Genome Biology,              2026 – present   
-**Associate Editor**, AI Evidence-Based Medicine,              2026 –  present  
-**Guest Editor**, Genome Biology,              2025 – 2026   
-**Guest Associate Editor**, Frontiers in Genetics,              2020 – 2024
+- **Editorial Board Member**, Genome Biology,              2026 – present   
+- **Associate Editor**, AI Evidence-Based Medicine,              2026 –  present  
+- **Guest Editor**, Genome Biology,              2025 – 2026   
+- **Guest Associate Editor**, Frontiers in Genetics,              2020 – 2024
 
 ## Conference and Workshop Organization
 **Conference Organization Committee and Co-Chair**, MICCAI Workshop on Medical Imaging Analysis for Spatial Omics (MISO), Sep 27-Oct 11, 2026, Strasbourg, France
