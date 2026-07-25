@@ -24,6 +24,10 @@ Lab members are **bold**.
 used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
+- **CNVeil resolves haplotype-specific copy number and uncovers subclonal architecture hidden from total copy number profiling in single-cell cancer genomes.**     
+  **W. Yuan**†, **C. Luo**†, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory\*, **X. M. Zhou**\*.  
+  [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.07.20.739667v1)
+
 - **Multi-modality graph representation learning for malignant cell identification from scRNA-seq using DeepMalignant.**  
   P. Bhattarai, **W. Yuan**, H. Chi, **X. M. Zhou**\*, X. Mallory\*.          
   [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.06.29.734828v1)  
@@ -67,11 +71,6 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 - **A little longer, a lot better: simulation-guided exploration of extended-length single-end barcoded reads for structural variant detection.**  
    **C. Luo**†, **Y. H. Liu**†, **H. Liu**, Z. Zhang, L. Zhang, B. A. Peters\*, **X. M. Zhou\***.  
   [_bioRxiv_ (2025)](https://doi.org/10.1101/2025.03.31.646392)
-  
-- **CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data.**  
-  **W. Yuan**†, **C. Luo**†, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory\*, **X. M. Zhou**\*.  
-  [_bioRxiv_ (2024)](https://www.biorxiv.org/content/10.1101/2024.02.21.581409v1)
-
 
 
 ## Peer-reviewed Publications
