@@ -75,8 +75,10 @@ author_profile: true
 
 
 ## Grants
+- **Aug. 6, 2026**    
+  Our **R35 Maximizing Investigators’ Research Award (MIRA) supplement** proposal was funded by the **National Institute of General Medical Sciences**! Many thanks for the support!
 - **Jul. 13, 2026**    
-  We received the **NSF CAREER Award**. Our sincere thanks to the National Science Foundation (NSF) for its support.
+  We received the **NSF CAREER Award** titled "CAREER: Decoding Tissue Architecture Through Spatial Transcriptomics Integration and 3D Reconstruction". Our sincere thanks to the National Science Foundation (NSF) for its support.
 - **Jun. 15, 2026**    
   We received the **Waddell Walker Hancock Cancer Discovery Fund Award** from the Vanderbilt-Ingram Cancer Center. Thanks for the Hancock   family fund!
 - **Mar. 27, 2025**    
