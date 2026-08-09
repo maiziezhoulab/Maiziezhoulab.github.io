@@ -150,6 +150,14 @@ author_profile: true
         <b>Xiwen Zhang</b> <br>(Fall 2025 - Present) <br>
         Undergraduate Researcher in Integrative Biology & Computer Science
     </td>
+
+     <td>
+        <div style="text-align: center">
+            <img src="/images/students/jitinghuang2026.jpg" class="student-profile-pic">
+        </div>
+        <b>Ji Ting Huang</b> <br>(Summer 2026 - Present) <br>
+        Undergraduate Researcher in Computer Science & Mathematics 
+    </td>
    
 </tr>
 
