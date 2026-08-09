@@ -140,10 +140,9 @@ author_profile: true
   
     
 </tr>
-<tr>    
+<tr>       
    
-   
-  <td>
+   <td>
         <div style="text-align: center">
             <img src="/images/students/XiwenZhang.jpg" class="student-profile-pic">
         </div>
