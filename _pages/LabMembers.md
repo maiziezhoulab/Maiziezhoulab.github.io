@@ -69,7 +69,7 @@ author_profile: true
             <img src="/images/students/cat.jpeg" class="student-profile-pic" >
         </div>
          <b>Sajad Ahmadi</b> <br>(2026 Fall – Present) <br>
-        Ph.D. Candidate in Computer Science 
+        Ph.D. Student in Computer Science 
     </td> 
 
   <td>
