@@ -38,15 +38,7 @@ author_profile: true
         </div>
         <b><a href="https://lyc-vio.github.io/Intro/" target="_blank">Yichen (Henry) Liu</a></b> <br> (Spring 2021 - Present) <br>
         Ph.D. Candidate in Computer Science 
-    </td>
-   
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/yunfei.jpeg" class="student-profile-pic" >
-        </div>
-        <b><a href="https://oliiverhu.github.io/" target="_blank">Yunfei Hu</a></b> <br>(Fall 2021 - Present) <br>
-        Ph.D. Candidate in Computer Science 
-    </td>
+    </td>   
     
     <td>
         <div style="text-align: center">
@@ -55,9 +47,6 @@ author_profile: true
         <b>Weiman Yuan</b> <br>(Fall 2022 - Present) <br>
         Ph.D. Candidate in Biomedical Engineering
     </td>
- </tr>
- <tr>
-   
     <td>
         <div style="text-align: center">
             <img src="/images/students/manfei_xie_2025.jpg" class="student-profile-pic">
@@ -65,6 +54,9 @@ author_profile: true
         <b>Manfei (Bella) Xie</b> <br>(2024 Spring – Present) <br>
         Ph.D. Student in Biomedical Engineering
     </td>
+    
+ </tr>
+ <tr>    
     <td>
         <div style="text-align: center">
             <img src="/images/students/yuqi_lei.jpg" class="student-profile-pic">
@@ -72,18 +64,26 @@ author_profile: true
         <b><a href="https://cyclopsray.github.io/" target="_blank">Yuqi Lei</a></b> <br> (Fall 2024 - Present) <br>
         Ph.D. Student in Computer Science 
     </td>
-   
+     <td>
+        <div style="text-align: center">
+            <img src="/images/students/cat.jpeg" class="student-profile-pic" >
+        </div>
+         <b>Sajad Ahmadi</b> <br>(2026 Fall – Present) <br>
+        Ph.D. Candidate in Computer Science 
+    </td> 
 
   <td>
         <div style="text-align: center">
             <img src="/images/students/minji_kim.jpeg" class="student-profile-pic">
         </div>
-        <b>Minji Kim</b> <br> (Incoming Fall 2026 ) <br>
+        <b>Minji Kim</b> <br> (2026 Fall - Present ) <br>
         Ph.D. Student in Biomedical Engineering
         (co-advised by <a href="https://www.hwanglab.org/people" target="_blank">Dr. Tae Hyun Hwang</a>)
     </td>
  </tr> 
 </table>
+
+
 
 
 ## Undergraduate Students
@@ -203,6 +203,10 @@ author_profile: true
 - **Can Luo**  
   Biomedical Engineering, PhD, 2021 Fall – 2026 Spring  
   _First Job: Postdoctoral Fellow in the lab of Evan Eichler @ the University of Washington_
+
+- **Yunfei Hi**  
+  Computer Science, PhD, 2021 Fall – 2026 Summer  
+  _First Job: Postdoctoral Fellow in the lab of Guanghua Xiao @ Washington University in St. Louis_
 
 
 ## Masters Students
