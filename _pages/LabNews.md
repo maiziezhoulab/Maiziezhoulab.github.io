@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Awards and Achievements
+- **Aug. 12, 2026**  
+  Congratulations to **Manfei Bella Xie** for receiving the **AWM-SIAM Travel Award** to present her work at the 2027 SIAM Conference on Computational Science and Engineering.
 - **Jul. 13, 2026**  
   Congratulations to **Maizie** on receiving the <span style="color:green;"><strong>NSF CAREER Award</strong></span>. Grateful to the National Science Foundation (NSF) for its support.
 - **Jun. 17, 2026**  
