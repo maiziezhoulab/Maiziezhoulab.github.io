@@ -173,7 +173,7 @@ author_profile: true
   Biomedical Engineering, PhD, 2021 Fall – 2026 Spring  
   _First Job: Postdoctoral Fellow in the lab of Evan Eichler @ the University of Washington_
 
-- **Yunfei Hi**  
+- **Yunfei Hu**  
   Computer Science, PhD, 2021 Fall – 2026 Summer  
   _First Job: Postdoctoral Fellow in the lab of Guanghua Xiao @ Washington University in St. Louis_
 
