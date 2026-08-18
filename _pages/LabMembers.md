@@ -160,39 +160,8 @@ author_profile: true
    
 </tr>
 
-
-
 </table>
 
-
-
-## Remote/In-person Student Intern
-<table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
- <tr>
-     <td>
-        <div style="text-align: center">
-            <img src="/images/students/YiruChen.jpg" class="student-profile-pic">
-        </div>
-        <b>Yiru Chen</b> <br>(2024 Spring – present) <br>
-        Biomedical Informatics, Zhejiang University  ’26
-     </td> 
-    <!-- <td>
-        <div style="text-align: center">
-            <img src="/images/students/IMG_2146.jpg" class="student-profile-pic">
-        </div>
-        <b>Lily Wang</b> (2024/01 – present) <br>
-        The Harpeth Hall School
-    </td> -->
-   <!-- <td>
-        <div style="text-align: center">
-            <img src="/images/students/Jimmy.jpg" class="student-profile-pic">
-        </div>
-        <b>Janice Chung</b> (Summer 23 - Present) <br>
-        Undergraduate Researcher in Computer Science & Medicine, Health, and Society
-    </td> -->
-
-</tr>
-</table>
 
 ---
 
@@ -237,8 +206,12 @@ author_profile: true
 
 
 ## Undergraduate Students (>= 2 semesters)
+- **Yiru Chen**  (remote + in-person)  
+  BMI, BS, 2024 Spring - 2026 Summer       
+  _First Job: PhD Student @ Duke-NUS program_
+  
 - **Haoran (Hunter) Qin**  
-  CS, BS+MS, 2023 Summer - 2026 Spring       
+  CS, BS+MS, 2023 Summer - 2026 Summer       
   _First Job: PhD Student in Computer Science @ Duke_
 
 - **Jimmy Baek**  
