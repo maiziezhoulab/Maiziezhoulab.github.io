@@ -171,20 +171,24 @@ author_profile: true
 
 - **Can Luo**  
   Biomedical Engineering, PhD, 2021 Fall – 2026 Spring
-  - *Outstanding Doctoral Student Award (2026)*
-  - *Lai Sulin Scholarship (2025)*
-  - *Vanderbilt Provost’s Pathbreaking Discovery Award (2025)*
-  - *VUSE Outstanding Graduate Student Research Paper Award (2025)*
-  - *Vanderbilt Graduate School Travel Grant (2024, 2026)*
-  - *Vanderbilt University Graduate Fellowship (2021–2026)*  
+  <div style="font-size: 0.88em; line-height: 1.25; margin: 3px 0 5px 12px;">
+  <i>* Outstanding Doctoral Student Award (2026)</i><br>
+  <i>* Lai Sulin Scholarship (2025)</i><br>
+  <i>* Vanderbilt Provost’s Pathbreaking Discovery Award (2025)</i><br>
+  <i>* VUSE Outstanding Graduate Student Research Paper Award (2025)</i><br>
+  <i>* Vanderbilt Graduate School Travel Grant (2024, 2026)</i><br>
+  <i>* Vanderbilt University Graduate Fellowship (2021–2026)</i>
+  </div>
   _First Job: Postdoctoral Fellow in the lab of Evan Eichler @ the University of Washington_
 
 - **Yunfei Hu**  
   Computer Science, PhD, 2021 Fall – 2026 Summer
-  - *Edward Ferguson Jr. Graduate Award (2025)*
-  - *VADD Travel Funds (2024)*
-  - *Vanderbilt Graduate School Travel Grant (2023, 2024, 2026)*
-  - *IEEE BIBM Travel Award (2021)*  
+  <div style="font-size: 0.88em; line-height: 1.25; margin: 3px 0 5px 12px;">
+  <i>* Edward Ferguson Jr. Graduate Award (2025)</i><br>
+  <i>* VADD Travel Funds (2024)</i><br>
+  <i>* Vanderbilt Graduate School Travel Grant (2023, 2024, 2026)</i><br>
+  <i>* IEEE BIBM Travel Award (2021)</i>
+  </div>
   _First Job: Postdoctoral Fellow in the lab of Guanghua Xiao @ Washington University in St. Louis_
 
 
