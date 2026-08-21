@@ -66,7 +66,7 @@ author_profile: true
     </td>
      <td>
         <div style="text-align: center">
-            <img src="/images/students/cat.jpeg" class="student-profile-pic" >
+            <img src="/images/students/Sajad2026fall.jpg" class="student-profile-pic" >
         </div>
          <b>Sajad Ahmadi</b> <br>(2026 Fall – Present) <br>
         Ph.D. Student in Computer Science 
