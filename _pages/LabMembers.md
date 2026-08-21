@@ -170,11 +170,21 @@ author_profile: true
 ## PhD Students
 
 - **Can Luo**  
-  Biomedical Engineering, PhD, 2021 Fall – 2026 Spring  
+  Biomedical Engineering, PhD, 2021 Fall – 2026 Spring
+  - *Outstanding Doctoral Student Award (2026)*
+  - *Lai Sulin Scholarship (2025)*
+  - *Vanderbilt Provost’s Pathbreaking Discovery Award (2025)*
+  - *VUSE Outstanding Graduate Student Research Paper Award (2025)*
+  - *Vanderbilt Graduate School Travel Grant (2024, 2026)*
+  - *Vanderbilt University Graduate Fellowship (2021–2026)*  
   _First Job: Postdoctoral Fellow in the lab of Evan Eichler @ the University of Washington_
 
 - **Yunfei Hu**  
-  Computer Science, PhD, 2021 Fall – 2026 Summer  
+  Computer Science, PhD, 2021 Fall – 2026 Summer
+  - *Edward Ferguson Jr. Graduate Award (2025)*
+  - *VADD Travel Funds (2024)*
+  - *Vanderbilt Graduate School Travel Grant (2023, 2024, 2026)*
+  - *IEEE BIBM Travel Award (2021)*  
   _First Job: Postdoctoral Fellow in the lab of Guanghua Xiao @ Washington University in St. Louis_
 
 
