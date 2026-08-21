@@ -7,7 +7,7 @@ author_profile: true
 
 ## Awards and Achievements
 - **Aug. 21, 2026**  
-  Congratulations to **Weiman Yuan** on receiving the 2026 Future Scholars Symposium Travel Award to present her research at the UNC Lineberger Comprehensive Cancer Center in Chapel Hill, NC!
+  Congratulations to **Weiman Yuan** on receiving the **2026 Future Scholars Symposium Travel Award** to present her research at the UNC Lineberger Comprehensive Cancer Center in Chapel Hill, NC!
 - **Aug. 12, 2026**  
   Congratulations to **Manfei Bella Xie** for receiving the **AWM-SIAM Travel Award** to present her work at the 2027 SIAM Conference on Computational Science and Engineering.
 - **Jul. 13, 2026**  
