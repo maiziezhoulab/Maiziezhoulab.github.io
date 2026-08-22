@@ -178,8 +178,7 @@ author_profile: true
     <li><i>VUSE Outstanding Graduate Student Research Paper Award (2025)</i></li>
     <li><i>Vanderbilt Graduate School Travel Grant (2024, 2026)</i></li>
     <li><i>Vanderbilt University Graduate Fellowship (2021–2026)</i></li>
-  </ul>
-
+  </ul> 
   _First Job: Postdoctoral Fellow in the lab of Evan Eichler @ the University of Washington_
 
 - **Yunfei Hu**  
@@ -189,8 +188,7 @@ author_profile: true
     <li><i>VADD Travel Funds (2024)</i></li>
     <li><i>Vanderbilt Graduate School Travel Grant (2023, 2024, 2026)</i></li>
     <li><i>IEEE BIBM Travel Award (2021)</i></li>
-  </ul>
-
+  </ul>  
   _First Job: Postdoctoral Fellow in the lab of Guanghua Xiao @ Washington University in St. Louis_
 
 
