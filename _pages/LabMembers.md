@@ -170,8 +170,7 @@ author_profile: true
 ## PhD Students
 
 - **Can Luo**  
-  Biomedical Engineering, PhD, 2021 Fall – 2026 Spring
-
+  Biomedical Engineering, PhD, 2021 Fall – 2026 Spring 
   <ul style="font-size: 0.88em; line-height: 1.25; margin-top: 3px; margin-bottom: 5px;">
     <li><i>Outstanding Doctoral Student Award (2026)</i></li>
     <li><i>Lai Sulin Scholarship (2025)</i></li>
@@ -184,8 +183,7 @@ author_profile: true
   _First Job: Postdoctoral Fellow in the lab of Evan Eichler @ the University of Washington_
 
 - **Yunfei Hu**  
-  Computer Science, PhD, 2021 Fall – 2026 Summer
-
+  Computer Science, PhD, 2021 Fall – 2026 Summer 
   <ul style="font-size: 0.88em; line-height: 1.25; margin-top: 3px; margin-bottom: 5px;">
     <li><i>Edward Ferguson Jr. Graduate Award (2025)</i></li>
     <li><i>VADD Travel Funds (2024)</i></li>
