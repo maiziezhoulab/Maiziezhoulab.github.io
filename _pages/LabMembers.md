@@ -74,7 +74,7 @@ author_profile: true
 
   <td>
         <div style="text-align: center">
-            <img src="/images/students/minji_kim.jpeg" class="student-profile-pic">
+            <img src="/images/students/MinjiKim2026.jpg" class="student-profile-pic">
         </div>
         <b>Minji Kim</b> <br> (2026 Fall - Present ) <br>
         Ph.D. Student in Biomedical Engineering
