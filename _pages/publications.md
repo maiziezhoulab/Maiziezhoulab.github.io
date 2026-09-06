@@ -64,14 +64,15 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   **H. Qin**, **Y. Hu**, **Y. Zhu**, **J. Beak**, **W. Yuan**, S. Meltzer, **X. M. Zhou**.       
   [_bioRxiv_ (2025)](https://www.biorxiv.org/content/10.64898/2025.12.01.691603v1)
 
-- **A little longer, a lot better: simulation-guided exploration of extended-length single-end barcoded reads for structural variant detection.**  
-   **C. Luo**†, **Y. H. Liu**†, **H. Liu**, Z. Zhang, L. Zhang, B. A. Peters\*, **X. M. Zhou\***.  
-  [_bioRxiv_ (2025)](https://doi.org/10.1101/2025.03.31.646392)
 
 
 ## Peer-reviewed Publications
 
 ### 2026
+- **A little longer, a lot better: simulation-guided exploration of extended-length single-end barcoded reads for structural variant      detection.**  
+   **C. Luo**†, **Y. H. Liu**†, **H. Liu**, Z. Zhang, L. Zhang, B. A. Peters\*, **X. M. Zhou\***.  
+  _Bioinformatics Advances_ (2026) (accepted)
+
 - **scCotag: prior-informed co-optimal transport for robust single-cell multi-omics integration.**   
   Y. Li, Y. Tan, R. Chen, **X. M. Zhou**, Y. Chen, Y. Huo, X. Guo, A. Tiwari, Z. Wen, X. Zhong, B. A. Malin, B. Li, Z. Yin.      
   _Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining_ (2026) [DOI](https://doi.org/10.1145/3770855.3818921)
