@@ -97,13 +97,7 @@ author_profile: true
         <b>Keyi Tang</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Computer Science & Applied Mathematics
     </td>
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/MelanieFernandez.jpg" class="student-profile-pic">
-        </div>
-        <b>Melanie Fernandez</b> <br>(Spring 2025 - Present) <br>
-        Undergraduate Researcher in Computer Science
-    </td> 
+   
     <td>
         <div style="text-align: center">
             <img src="/images/students/hanzewu.jpg" class="student-profile-pic">
@@ -111,11 +105,7 @@ author_profile: true
         <b>Louis Wu</b> <br>(Spring 2025 - Present) <br>
         Undergraduate Researcher in Cellular and Molecular Biology
     </td>
-   
-</tr>
-<tr>    
-    
-    
+
     <td>
         <div style="text-align: center">
             <img src="/images/students/wenjunmao.jpg" class="student-profile-pic">
@@ -123,6 +113,12 @@ author_profile: true
         <b>Wenjun (Maggie) Mao</b> <br>(Fall 2025 - Present) <br>
         Undergraduate Researcher in Computer Science & Applied Mathematics
     </td>
+
+    
+   
+</tr>
+<tr>        
+   
     <td>
         <div style="text-align: center">
             <img src="/images/students/DerekYoung.JPG" class="student-profile-pic">
@@ -137,18 +133,17 @@ author_profile: true
         <b>Zuzanna Szul</b> <br>(Fall 2025 - Present) <br>
         Undergraduate Researcher in Computer Science & Mathematics
     </td>
-  
-    
-</tr>
-<tr>       
-   
-   <td>
+    <td>
         <div style="text-align: center">
             <img src="/images/students/XiwenZhang.jpg" class="student-profile-pic">
         </div>
         <b>Xiwen Zhang</b> <br>(Fall 2025 - Present) <br>
         Undergraduate Researcher in Integrative Biology & Computer Science
     </td>
+  
+    
+</tr>
+<tr>       
 
      <td>
         <div style="text-align: center">
@@ -157,8 +152,56 @@ author_profile: true
         <b>Ji Ting Huang</b> <br>(Summer 2026 - Present) <br>
         Undergraduate Researcher in Computer Science & Mathematics 
     </td>
+
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/cat.jpeg" class="student-profile-pic">
+        </div>
+        <b>Avash Aryal</b> <br>(Fall 2026 - Present) <br>
+        Undergraduate Researcher in Computer Science & Mathematics 
+    </td>
+
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/Rohit2026.png" class="student-profile-pic">
+        </div>
+        <b>Rohit Ukkan</b> <br>(Fall 2026 - Present) <br>
+        Undergraduate Researcher in Biomedical Engineering
+    </td>    
    
 </tr>
+
+<tr>       
+
+     <td>
+        <div style="text-align: center">
+            <img src="/images/students/cat.jpeg" class="student-profile-pic">
+        </div>
+        <b>Aki Karthi</b> <br>(Summer 2026 - Present) <br>
+        Undergraduate Researcher in Computer Science 
+    </td>
+
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/CrystalJiang2026.jpg" class="student-profile-pic">
+        </div>
+        <b>Crystal Jiang</b> <br>(Fall 2026 - Present) <br>
+        Undergraduate Researcher in Electrical and Computer Engineering \& Mathematics
+    </td>
+
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/sawsan2026.jpg" class="student-profile-pic">
+        </div>
+        <b>Sawsan W Ahmed</b> <br>(Fall 2026 - Present) <br>
+        Master's Researcher in Biomedical Engineering
+    </td>
+
+
+   
+   
+</tr>
+
 
 </table>
 
