@@ -81,12 +81,25 @@ author_profile: true
         (co-advised by <a href="https://www.hwanglab.org/people" target="_blank">Dr. Tae Hyun Hwang</a>)
     </td>
  </tr> 
+ <tr>    
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/sawsan2026.jpg" class="student-profile-pic">
+        </div>
+        <b>Sawsan W Ahmed</b> <br>(Fall 2026 - Present) <br>
+        Master's Researcher in Biomedical Engineering
+    </td>
+   
+
+
+ </tr> 
+ 
 </table>
 
 
 
 
-## Undergraduate and Master's Students
+## Undergraduate Students
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
     
@@ -189,14 +202,7 @@ author_profile: true
         Undergraduate Researcher in Electrical and Computer Engineering & Mathematics
     </td>
 
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/sawsan2026.jpg" class="student-profile-pic">
-        </div>
-        <b>Sawsan W Ahmed</b> <br>(Fall 2026 - Present) <br>
-        Master's Researcher in Biomedical Engineering
-    </td>
-   
+    
    
 </tr>
 
