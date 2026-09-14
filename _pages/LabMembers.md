@@ -87,7 +87,7 @@ author_profile: true
             <img src="/images/students/sawsan2026.jpg" class="student-profile-pic">
         </div>
         <b>Sawsan W Ahmed</b> <br>(Fall 2026 - Present) <br>
-        Master's Researcher in Biomedical Engineering
+        Master's Student in Biomedical Engineering
     </td>
    
 
