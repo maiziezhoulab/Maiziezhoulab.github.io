@@ -86,7 +86,7 @@ author_profile: true
 
 
 
-## Undergraduate Students
+## Undergraduate and Master's Students
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
     
