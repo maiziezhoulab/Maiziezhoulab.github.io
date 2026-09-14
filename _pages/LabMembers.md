@@ -183,10 +183,10 @@ author_profile: true
 
     <td>
         <div style="text-align: center">
-            <img src="/images/students/CrystalJiang2026.jpg" class="student-profile-pic">
+            <img src="/images/students/CrystalJiang2026.JPG" class="student-profile-pic">
         </div>
         <b>Crystal Jiang</b> <br>(Fall 2026 - Present) <br>
-        Undergraduate Researcher in Electrical and Computer Engineering \& Mathematics
+        Undergraduate Researcher in Electrical and Computer Engineering & Mathematics
     </td>
 
     <td>
@@ -196,8 +196,6 @@ author_profile: true
         <b>Sawsan W Ahmed</b> <br>(Fall 2026 - Present) <br>
         Master's Researcher in Biomedical Engineering
     </td>
-
-
    
    
 </tr>
