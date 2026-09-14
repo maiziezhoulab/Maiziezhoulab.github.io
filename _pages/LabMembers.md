@@ -177,7 +177,7 @@ author_profile: true
         <div style="text-align: center">
             <img src="/images/students/cat.jpeg" class="student-profile-pic">
         </div>
-        <b>Aki Karthi</b> <br>(Summer 2026 - Present) <br>
+        <b>Aki Karthi</b> <br>(Fall 2026 - Present) <br>
         Undergraduate Researcher in Computer Science 
     </td>
 
