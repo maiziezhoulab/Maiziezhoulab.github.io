@@ -24,6 +24,10 @@ Lab members are **bold**.
 used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
+- **A latent inflammatory tissue-state variable mechanistically links radiotherapy-induced immune remodeling to recurrent tumor permissiveness.**         
+  M. A. Mayeaux, **X. M. Zhou**, M. Rafat.   
+  [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.09.14.751444v1) 
+  
 - **CNVeil resolves haplotype-specific copy number and uncovers subclonal architecture hidden from total copy number profiling in single-cell cancer genomes.**     
   **W. Yuan**†, **C. Luo**†, **Y. Hu**, L. Zhang, Z.-H. Wen, **Y. H. Liu**, X. Mallory\*, **X. M. Zhou**\*.  
   [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.07.20.739667v1)
