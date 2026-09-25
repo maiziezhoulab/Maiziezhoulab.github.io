@@ -168,7 +168,7 @@ author_profile: true
 
     <td>
         <div style="text-align: center">
-            <img src="/images/students/cat.jpeg" class="student-profile-pic">
+            <img src="/images/students/Avash2026.png" class="student-profile-pic">
         </div>
         <b>Avash Aryal</b> <br>(Fall 2026 - Present) <br>
         Undergraduate Researcher in Computer Science & Mathematics 
