@@ -21,7 +21,7 @@ Lab members are **bold**.
 
 † denotes equal contribution   * denotes co-corresponding authors.
 
-used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
+Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
 - **A latent inflammatory tissue-state variable mechanistically links radiotherapy-induced immune remodeling to recurrent tumor permissiveness.**         
@@ -43,10 +43,6 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 - **RAFT-UP: Robust alignment for spatial transcriptomics with explicit control of spatial distortion.**     
   Y. Wu, J. Wang, **X. M. Zhou**, Y. Zhao, Z. Cang.  
   [_ArXiv_ (2026)](https://arxiv.org/abs/2603.18249)
-  
-- **Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain.**     
-  Q. Wang†, **Y. Hu**†, **Y. Zhu**, J. Peng, E. Osei-Asante, G. Chelliah, M. Sobanko, B. Sanchez, D. D. Ginty\*, **X. M. Zhou\***, S. Meltzer\*.  
-  [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.01.10.698734v1)
 
 - **Trajectories of response inhibition development in adolescence.**     
   J. Zhu, C. R. Smith, C. M. Garin, **X. M. Zhou**, F. J. Calabro, B. Luna, C. Constantinidis.  
@@ -73,6 +69,10 @@ used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ## Peer-reviewed Publications
 
 ### 2026
+- **Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain.**     
+  Q. Wang†, **Y. Hu**†, **Y. Zhu**, J. Peng, E. Osei-Asante, G. Chelliah, M. Sobanko, B. Sanchez, D. D. Ginty\*, **X. M. Zhou\***, S. Meltzer\*.  
+  _Proc. Natl. Acad. Sci. USA_ (2026) (in press)  
+  
 - **A little longer, a lot better: simulation-guided exploration of extended-length single-end barcoded reads for structural variant      detection.**  
    **C. Luo**†, **Y. H. Liu**†, **H. Liu**, Z. Zhang, L. Zhang, B. A. Peters\*, **X. M. Zhou\***.      
   _Bioinformatics Advances_ (2026) vbag267. [DOI](https://doi.org/10.1093/bioadv/vbag267) 
