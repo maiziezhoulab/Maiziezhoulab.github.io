@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Awards and Achievements
+- **Oct. 14, 2026**  
+  Congratulations to **Maizie** on receiving the **Provost’s Faculty Grant for Immersion Vanderbilt** to support the Immersion Vanderbilt Cohort Project: Decoding Cell–Cell Communication and Disease-Relevant Injury Niches through Spatial Transcriptomics.
 - **Aug. 21, 2026**  
   Congratulations to **Weiman Yuan** on receiving the **2026 Future Scholars Symposium Travel Award** to present her research at the UNC Lineberger Comprehensive Cancer Center in Chapel Hill, NC!
 - **Aug. 12, 2026**  
@@ -27,7 +29,7 @@ author_profile: true
 - **Dec. 17, 2025**  
   Congratulations to **Can Luo** for receiving the prestigious <span style="color:green;"><strong>Graduate School Endowed Awards - Lai Sulin Scholarship</strong></span> (for remarkable contribution in cancer research, select two students per year in the entire university).
 - **Nov. 6, 2025**  
-  Congratulations to **Maizie** on receiving the **Provost’s Faculty Grant for Immersion Vanderbilt** to support Immersion Vanderbilt Cohort Project: Integrative AI Methods for Cell Type Transfer in Spatial Biology.
+  Congratulations to **Maizie** on receiving the **Provost’s Faculty Grant for Immersion Vanderbilt** to support the Immersion Vanderbilt Cohort Project: Integrative AI Methods for Cell Type Transfer in Spatial Biology.
 - **May 30, 2025**  
   Congratulations to **Maizie** on being selected as an awardee for **Global Engagement Travel Grants**.
 - **May 6, 2025**  
