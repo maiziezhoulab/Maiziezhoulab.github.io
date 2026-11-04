@@ -78,7 +78,7 @@ Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   _eBioMedicine_ (2026) (accepted)  
 
 - **Before the critic: outcome-free audit of finite reference laws for interpretability-based discovery.**     
-  M. Kim†, **W. Yuan**†, S. Park, **X. M. Zhou\***, T. H. Hwang*. 
+  M. Kim†, **W. Yuan**†, S. Park, **X. M. Zhou\***, T. H. Hwang*.       
   _NeurIPS 2026 Workshop on Interp4Discovery_ (2026) (accepted)
     
 - **A little longer, a lot better: simulation-guided exploration of extended-length single-end barcoded reads for structural variant      detection.**  
