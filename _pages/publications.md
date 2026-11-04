@@ -71,8 +71,16 @@ Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2026
 - **Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain.**     
   Q. Wang†, **Y. Hu**†, **Y. Zhu**, J. Peng, E. Osei-Asante, G. Chelliah, M. Sobanko, B. Sanchez, D. D. Ginty\*, **X. M. Zhou\***, S. Meltzer\*.  
-  _Proc. Natl. Acad. Sci. USA_ (2026) (in press)  
-  
+  _Proc. Natl. Acad. Sci. USA_ (2026) (in press)
+
+- **Integrating lung tissue-based transcriptome-wide association study with single-cell RNA-sequencing uncovers susceptibility genes and cell types underlying lung cancer risk.**     
+  S. Xu, J. Shi, B. Li, X. Shu, R. Tao, H. Cai, W. Wen, S. Deppen, **X. M. Zhou\**, L. Xu, J. Wang, J. Wu, Y. Yang, X. Guo, W. Zheng, J. Long, Q. Cai.  
+  _eBioMedicine_ (2026) (accepted)  
+
+- **Before the critic: outcome-free audit of finite reference laws for interpretability-based discovery.**     
+  M. Kim†, **W. Yuan**†, S. Park, **X. M. Zhou\***, T. H. Hwang*. 
+  _NeurIPS 2026 Workshop on Interp4Discovery_ (2026) (accepted)
+    
 - **A little longer, a lot better: simulation-guided exploration of extended-length single-end barcoded reads for structural variant      detection.**  
    **C. Luo**†, **Y. H. Liu**†, **H. Liu**, Z. Zhang, L. Zhang, B. A. Peters\*, **X. M. Zhou\***.      
   _Bioinformatics Advances_ (2026) vbag267. [DOI](https://doi.org/10.1093/bioadv/vbag267) 
