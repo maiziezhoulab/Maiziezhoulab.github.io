@@ -74,7 +74,7 @@ Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   _Proc. Natl. Acad. Sci. USA_ (2026) (in press)
 
 - **Integrating lung tissue-based transcriptome-wide association study with single-cell RNA-sequencing uncovers susceptibility genes and cell types underlying lung cancer risk.**     
-  S. Xu, J. Shi, B. Li, X. Shu, R. Tao, H. Cai, W. Wen, S. Deppen, **X. M. Zhou\**, L. Xu, J. Wang, J. Wu, Y. Yang, X. Guo, W. Zheng, J. Long, Q. Cai.  
+  S. Xu, J. Shi, B. Li, X. Shu, R. Tao, H. Cai, W. Wen, S. Deppen, **X. M. Zhou**, L. Xu, J. Wang, J. Wu, Y. Yang, X. Guo, W. Zheng, J. Long, Q. Cai.  
   _eBioMedicine_ (2026) (accepted)  
 
 - **Before the critic: outcome-free audit of finite reference laws for interpretability-based discovery.**     
