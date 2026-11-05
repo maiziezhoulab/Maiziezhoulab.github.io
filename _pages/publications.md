@@ -55,10 +55,6 @@ Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 - **scLongTree: an accurate computational tool to infer the longitudinal tree for single-cell DNA sequencing data.**  
   R. Khan†, P. Bhattarai†, L. Zhang, **X. M. Zhou**\*, X. Mallory\*.      
   [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.1101/2023.11.11.566680v2)
-
-- **Integrating lung tissue-based transcriptome-wide association study with single-cell RNA-sequencing uncovers susceptibility genes and cell types underlying lung cancer risk.**     
-  S. Xu, J. Shi, B. Li, X. Shu, R. Tao, H. Cai, W. Wen, S. Deppen, **X. M. Zhou**, L. Xu, J. Wang, J. Wu, Y. Yang, X. Guo, W. Zheng, J. Long, Q. Cai.    
-  [_medRxiv_ (2026)](https://www.medrxiv.org/content/10.64898/2026.03.19.26348840v1)
     
 - **From features to slice: parameter-cloud modeling of spatial transcriptomics for simulation and 3D interpolatory augmentation.**  
   **Y. Chen**†, **M. Xie**†, **Y. Hu**, **W. Yuan**, H. Sarkar, B. Li, L. Zhang\*, **X. M. Zhou\***.     
