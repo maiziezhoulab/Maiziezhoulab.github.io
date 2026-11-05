@@ -24,6 +24,10 @@ Lab members are **bold**.
 Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 
 ## Preprints/Under Review
+- **OncoSpot enables benchmarking of cancer spatial transcriptomics methods across tumor evolutionary modes.**  
+  P. Bhattarai, **W. Yuan**, **X. M. Zhou**\*, X. Mallory\*.           
+  [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.11.01.763496v1) 
+  
 - **A latent inflammatory tissue-state variable mechanistically links radiotherapy-induced immune remodeling to recurrent tumor permissiveness.**         
   M. A. Mayeaux, **X. M. Zhou**, M. Rafat.   
   [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.09.14.751444v1) 
