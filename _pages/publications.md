@@ -71,7 +71,7 @@ Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2026
 - **Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain.**     
   Q. Wang†, **Y. Hu**†, **Y. Zhu**, J. Peng, E. Osei-Asante, G. Chelliah, M. Sobanko, B. Sanchez, D. D. Ginty\*, **X. M. Zhou\***, S. Meltzer\*.  
-  _Proc. Natl. Acad. Sci. USA_ (2026) (in press)
+  _Proc. Natl. Acad. Sci. USA_ (2026) [DOI](https://doi.org/10.1073/pnas.2623177123)
 
 - **Integrating lung tissue-based transcriptome-wide association study with single-cell RNA-sequencing uncovers susceptibility genes and cell types underlying lung cancer risk.**     
   S. Xu, J. Shi, B. Li, X. Shu, R. Tao, H. Cai, W. Wen, S. Deppen, **X. M. Zhou**, L. Xu, J. Wang, J. Wu, Y. Yang, X. Guo, W. Zheng, J. Long, Q. Cai.  
