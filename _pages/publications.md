@@ -71,7 +71,7 @@ Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ### 2026
 - **Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain.**     
   Q. Wang†, **Y. Hu**†, **Y. Zhu**, J. Peng, E. Osei-Asante, G. Chelliah, M. Sobanko, B. Sanchez, D. D. Ginty\*, **X. M. Zhou\***, S. Meltzer\*.  
-  _Proc. Natl. Acad. Sci. USA_ (2026) [DOI](https://doi.org/10.1073/pnas.2623177123)
+  _Proc. Natl. Acad. Sci. USA_ (2026) 123 (46) e2623177123. [DOI](https://doi.org/10.1073/pnas.2623177123)
 
 - **Integrating lung tissue-based transcriptome-wide association study with single-cell RNA-sequencing uncovers susceptibility genes and cell types underlying lung cancer risk.**     
   S. Xu, J. Shi, B. Li, X. Shu, R. Tao, H. Cai, W. Wen, S. Deppen, **X. M. Zhou**, L. Xu, J. Wang, J. Wu, Y. Yang, X. Guo, W. Zheng, J. Long, Q. Cai.  
@@ -91,7 +91,7 @@ Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
   
 - **Interpretable spatial multi-omics data integration and dimension reduction with SpaMV.**  
    Y. Liu, K. Ma, H. Xu, K. Xu, **Y. Hu**, **Z. Lin**, J. Lin, B. Han, S. Li, Z. Lin, Z. Zhang, **X. M. Zhou\***, L. Zhang\*.  
-  _Nature Communications_ (2026) 17:8213 [DOI](https://doi.org/10.1038/s41467-026-74718-1) 
+  _Nature Communications_ (2026) 17:8213. [DOI](https://doi.org/10.1038/s41467-026-74718-1) 
   
 - **CSsingle: a unified tool for robust decomposition of bulk and spatial transcriptomic data across diverse single-cell references.**  
   W. Shen, **Y. Hu**, Y. Lei, H.-S. Wong, C. Liu\*, S. Wu\*, **X. M. Zhou\***.  
