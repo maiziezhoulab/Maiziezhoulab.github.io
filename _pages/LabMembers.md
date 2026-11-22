@@ -194,14 +194,6 @@ author_profile: true
         Undergraduate Researcher in Computer Science 
     </td>
 
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/CrystalJiang2026.JPG" class="student-profile-pic">
-        </div>
-        <b>Crystal Jiang</b> <br>(Fall 2026 - Present) <br>
-        Undergraduate Researcher in Electrical and Computer Engineering & Mathematics
-    </td>
-
     
    
 </tr>
