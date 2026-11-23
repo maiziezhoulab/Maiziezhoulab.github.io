@@ -51,10 +51,6 @@ Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 - **Trajectories of response inhibition development in adolescence.**     
   J. Zhu, C. R. Smith, C. M. Garin, **X. M. Zhou**, F. J. Calabro, B. Luna, C. Constantinidis.  
   [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.04.03.716386v1)
-
-- **scLongTree: an accurate computational tool to infer the longitudinal tree for single-cell DNA sequencing data.**  
-  R. Khan†, P. Bhattarai†, L. Zhang, **X. M. Zhou**\*, X. Mallory\*.      
-  [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.1101/2023.11.11.566680v2)
     
 - **From features to slice: parameter-cloud modeling of spatial transcriptomics for simulation and 3D interpolatory augmentation.**  
   **Y. Chen**†, **M. Xie**†, **Y. Hu**, **W. Yuan**, H. Sarkar, B. Li, L. Zhang\*, **X. M. Zhou\***.     
@@ -69,6 +65,10 @@ Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ## Peer-reviewed Publications
 
 ### 2026
+- **scLongTree: an accurate computational tool to infer the longitudinal tree for single-cell DNA sequencing data.**  
+  R. Khan†, P. Bhattarai†, L. Zhang, **X. M. Zhou**\*, X. Mallory\*.          
+  _Briefings in Bioinformatics_ (2026) (accepted) 
+  
 - **Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain.**     
   Q. Wang†, **Y. Hu**†, **Y. Zhu**, J. Peng, E. Osei-Asante, G. Chelliah, M. Sobanko, B. Sanchez, D. D. Ginty\*, **X. M. Zhou\***, S. Meltzer\*.  
   _Proc. Natl. Acad. Sci. USA_ (2026) 123 (46) e2623177123. [DOI](https://doi.org/10.1073/pnas.2623177123)
