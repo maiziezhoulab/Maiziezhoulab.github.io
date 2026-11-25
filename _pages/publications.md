@@ -24,6 +24,10 @@ Lab members are **bold**.
 Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022. 
 
 ## Preprints/Under Review
+- **ComProgresolves spatial cell-cell communication into dynamic communication programs and receiver responses.**   
+  **X. Zhang**, **M. B. Xie**, **Y. H. Liu**, T. H. Hwang, H. Yang, **X. M. Zhou**\*.          
+  _bioRxiv_ (2026)
+  
 - **An interpretable framework for decoding transcriptomic foundation models.**   
   **Y. Hu**†\*, Z. Wen†, **Y. H. Liu**, **W. Yuan**, **H. Qin**, **Z. Lin**, D. Klindt, H. Yang, O. Carja\*, **X. M. Zhou**\*.       
   [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.11.16.767062v1) 
