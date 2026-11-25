@@ -24,7 +24,7 @@ Lab members are **bold**.
 Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022. 
 
 ## Preprints/Under Review
-- **ComProgresolves spatial cell-cell communication into dynamic communication programs and receiver responses.**   
+- **ComProg resolves spatial cell-cell communication into dynamic communication programs and receiver responses.**   
   **X. Zhang**, **M. B. Xie**, **Y. H. Liu**, T. H. Hwang, H. Yang, **X. M. Zhou**\*.          
   _bioRxiv_ (2026)
   
