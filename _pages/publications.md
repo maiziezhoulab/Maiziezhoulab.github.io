@@ -21,7 +21,7 @@ Lab members are **bold**.
 
 † denotes equal contribution   * denotes co-corresponding authors.
 
-Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
+Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022. here
 
 ## Preprints/Under Review
 - **OncoSpot enables benchmarking of cancer spatial transcriptomics methods across tumor evolutionary modes.**  
