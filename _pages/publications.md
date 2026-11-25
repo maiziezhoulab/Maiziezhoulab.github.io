@@ -21,9 +21,13 @@ Lab members are **bold**.
 
 † denotes equal contribution   * denotes co-corresponding authors.
 
-Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022. here
+Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022. 
 
 ## Preprints/Under Review
+- **An interpretable framework for decoding transcriptomic foundation models.**   
+  **Y. Hu**†\*, Z. Wen†, **Y. H. Liu**, **W. Yuan**, **H. Qin**, **Z. Lin**, D. Klindt, H. Yang, O. Carja\*, **X. M. Zhou**\*.       
+  _bioRxiv_ (2026) 
+  
 - **OncoSpot enables benchmarking of cancer spatial transcriptomics methods across tumor evolutionary modes.**  
   P. Bhattarai, **W. Yuan**, **X. M. Zhou**\*, X. Mallory\*.           
   [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.11.01.763496v1) 
