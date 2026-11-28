@@ -26,7 +26,11 @@ Used Xin Maizie Zhou (X. M. Zhou) for publications after 2022.
 ## Preprints/Under Review
 - **ComProg resolves spatial cell-cell communication into dynamic communication programs and receiver responses.**   
   **X. Zhang**, **M. B. Xie**, **Y. H. Liu**, T. H. Hwang, H. Yang, **X. M. Zhou**\*.          
-  _bioRxiv_ (2026)
+  [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.11.25.769231v1)
+
+- **A stratified benchmark reveals distinct short- and long-read performance gradients within difficult genomic regions.**   
+  **X. Zhang**†, **Y. H. Liu**†, **Y. Wang**†, **X. M. Zhou**\*.          
+  [_bioRxiv_ (2026)](https://www.biorxiv.org/content/10.64898/2026.11.26.769538v1) 
   
 - **An interpretable framework for decoding transcriptomic foundation models.**   
   **Y. Hu**†\*, Z. Wen†, **Y. H. Liu**, **W. Yuan**, **H. Qin**, **Z. Lin**, D. Klindt, H. Yang, O. Carja\*, **X. M. Zhou**\*.       
